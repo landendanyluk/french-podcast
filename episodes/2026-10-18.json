@@ -1,0 +1,437 @@
+{
+ "date": "2026-10-18",
+ "title": "Un chien nommé Président",
+ "summary": "A small black dog follows the narrator home, spends the night, and turns out to be a well-known neighborhood wanderer who keeps coming back.",
+ "theme": "a dog that follows you home",
+ "mp3": "2026-10-18.mp3",
+ "published": "2026-10-18T06:35:02-04:00",
+ "duration": 171,
+ "learning_words": [
+  {
+   "word": "cas",
+   "translation": "case / instance"
+  },
+  {
+   "word": "temps",
+   "translation": "time / weather"
+  },
+  {
+   "word": "aller",
+   "translation": "to go"
+  },
+  {
+   "word": "mois",
+   "translation": "month"
+  },
+  {
+   "word": "beaucoup",
+   "translation": "a lot / many, much"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  },
+  {
+   "word": "président",
+   "translation": "president / chairman"
+  },
+  {
+   "word": "père",
+   "translation": "father"
+  },
+  {
+   "word": "partir",
+   "translation": "to leave / to go away"
+  },
+  {
+   "word": "passer",
+   "translation": "to pass / to spend (time)"
+  },
+  {
+   "word": "loin",
+   "translation": "far / far away"
+  }
+ ],
+ "learning_words_missing": [
+  "président",
+  "passer"
+ ],
+ "sentences": [
+  {
+   "fr": "Lundi soir, je rentre du travail à pied, comme d'habitude.",
+   "en": "Monday evening, I walk home from work, as usual.",
+   "learning": [],
+   "unknown": [
+    "rentrer"
+   ],
+   "unknown_surface": [
+    "rentre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il fait un temps froid, et j'ai envie d'arriver vite chez moi.",
+   "en": "The weather is cold, and I want to get home quickly.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Près du parc, je vois un petit chien noir assis au bord de la route.",
+   "en": "Near the park, I see a small black dog sitting by the side of the road.",
+   "learning": [],
+   "unknown": [
+    "assis"
+   ],
+   "unknown_surface": [
+    "assis"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il me regarde longtemps, sans bouger.",
+   "en": "He looks at me for a long time, without moving.",
+   "learning": [],
+   "unknown": [
+    "bouger"
+   ],
+   "unknown_surface": [
+    "bouger"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je lui dis bonjour, puis je continue mon chemin.",
+   "en": "I say hello to him, then I keep walking.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au premier feu rouge, je me retourne : le chien est juste derrière moi.",
+   "en": "At the first red light, I turn around: the dog is right behind me.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "retourner"
+   ],
+   "unknown_surface": [
+    "retourne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Non, non, tu ne peux pas venir avec moi », je lui explique.",
+   "en": "\"No, no, you can't come with me,\" I explain to him.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il ne semble pas d'accord.",
+   "en": "He doesn't seem to agree.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je marche plus vite, mais il me suit jusqu'à la porte de ma maison.",
+   "en": "I walk faster, but he follows me all the way to my front door.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Là, il s'assoit sur mon paillasson comme s'il était chez lui.",
+   "en": "There, he sits on my doormat as if he owned the place.",
+   "learning": [],
+   "unknown": [
+    "asseoir",
+    "paillasson"
+   ],
+   "unknown_surface": [
+    "assoit",
+    "paillasson"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je n'ai aucun doute : ce chien a un maître quelque part.",
+   "en": "I have no doubt: this dog has an owner somewhere.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il porte un beau collier rouge, avec un nom écrit dessus : « Président ».",
+   "en": "He's wearing a nice red collar with a name written on it: \"President.\"",
+   "learning": [],
+   "unknown": [
+    "collier"
+   ],
+   "unknown_surface": [
+    "collier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Un chien qui s'appelle Président, je trouve ça vraiment drôle.",
+   "en": "A dog named President, I find that really funny.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais il n'y a pas de numéro de téléphone, donc je ne sais pas quoi faire.",
+   "en": "But there's no phone number, so I don't know what to do.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "J'appelle mon père, qui a eu des chiens toute sa vie.",
+   "en": "I call my father, who has had dogs his whole life.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Dans ce cas, garde-le pour la nuit, et demain, va voir la police », me dit-il.",
+   "en": "\"In that case, keep him for the night, and tomorrow, go to the police,\" he tells me.",
+   "learning": [
+    "cas",
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors Président entre, mange mon jambon et dort sur mon lit.",
+   "en": "So President comes in, eats my ham and sleeps on my bed.",
+   "learning": [],
+   "unknown": [
+    "jambon",
+    "dormir"
+   ],
+   "unknown_surface": [
+    "jambon",
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le lendemain matin, je vais au bureau de police du quartier avec lui.",
+   "en": "The next morning, I go to the neighborhood police station with him.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Un policier regarde le chien et commence à sourire.",
+   "en": "A police officer looks at the dog and starts to smile.",
+   "learning": [],
+   "unknown": [
+    "policier",
+    "sourire"
+   ],
+   "unknown_surface": [
+    "policier",
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ah, Président ! Il habite à trois rues d'ici, chez madame Martin. »",
+   "en": "\"Ah, President! He lives three streets from here, at Madame Martin's.\"",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "habiter"
+   ],
+   "unknown_surface": [
+    "habite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ce n'est pas la première fois, apparemment.",
+   "en": "Apparently, it's not the first time.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [
+    "apparemment"
+   ],
+   "unknown_surface": [
+    "apparemment"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Depuis plusieurs mois, il suit des gens dans la rue et passe la nuit chez eux.",
+   "en": "For several months, he's been following people in the street and spending the night at their place.",
+   "learning": [
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a même dormi une fois chez le maire !",
+   "en": "He even slept at the mayor's house once!",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dormi"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le policier m'explique que madame Martin n'habite pas loin.",
+   "en": "The officer explains that Madame Martin doesn't live far away.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [
+    "policier",
+    "habiter"
+   ],
+   "unknown_surface": [
+    "policier",
+    "habite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je pars donc avec Président chez elle.",
+   "en": "So I leave with President for her place.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle ouvre la porte et soupire : « Encore toi ! »",
+   "en": "She opens the door and sighs: \"You again!\"",
+   "learning": [],
+   "unknown": [
+    "soupirer"
+   ],
+   "unknown_surface": [
+    "soupire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle me dit merci beaucoup et me propose un café.",
+   "en": "She thanks me a lot and offers me a coffee.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "On passe une heure à parler de son chien et de toutes ses histoires.",
+   "en": "We spend an hour talking about her dog and all his adventures.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Avant de partir, je fais une caresse à Président.",
+   "en": "Before leaving, I give President a pat.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [
+    "caresse"
+   ],
+   "unknown_surface": [
+    "caresse"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il me regarde comme pour dire : « À bientôt ! »",
+   "en": "He looks at me as if to say: \"See you soon!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et en effet, une semaine plus tard, il est encore assis devant ma porte.",
+   "en": "And indeed, a week later, he's sitting in front of my door again.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "assis"
+   ],
+   "unknown_surface": [
+    "assis"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Cette fois, je n'appelle pas la police : je mets juste de l'eau pour lui.",
+   "en": "This time, I don't call the police: I just put out some water for him.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "mets"
+   ],
+   "unknown_surface": [
+    "mets"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 32,
+  "echoed": 17,
+  "tts_chars": 2852,
+  "deck_source": "sqlite"
+ }
+}

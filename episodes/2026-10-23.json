@@ -1,0 +1,402 @@
+{
+ "date": "2026-10-23",
+ "title": "Le marché de la place",
+ "summary": "On a sunny Saturday morning, a woman shops at her local market, gives in to some cheese tasting, and meets her friend Paul for coffee before finally inviting him to share the food.",
+ "theme": "a market on a Saturday morning",
+ "mp3": "2026-10-23.mp3",
+ "published": "2026-10-23T06:01:41-04:00",
+ "duration": 158,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Le samedi matin, je vais toujours au marché de la place, près de chez moi.",
+   "en": "On Saturday mornings, I always go to the market on the square, near my place.",
+   "learning": [
+    "aller",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est une habitude, presque une loi dans ma famille.",
+   "en": "It's a habit, almost a law in my family.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce samedi, il y a beaucoup de monde, à cause du soleil.",
+   "en": "This Saturday, there are lots of people because of the sunshine.",
+   "learning": [
+    "beaucoup",
+    "monde",
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je cherche des tomates, mais les prix ont encore changé depuis la semaine dernière.",
+   "en": "I'm looking for tomatoes, but the prices have changed again since last week.",
+   "learning": [
+    "prix",
+    "encore"
+   ],
+   "unknown": [
+    "tomate"
+   ],
+   "unknown_surface": [
+    "tomates"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le vendeur, un vieux monsieur, me dit que ce n'est pas sa faute.",
+   "en": "The seller, an old man, tells me it's not his fault.",
+   "learning": [],
+   "unknown": [
+    "vendeur"
+   ],
+   "unknown_surface": [
+    "vendeur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est la situation du pays, madame, tout coûte plus cher. »",
+   "en": "\"It's the situation in the country, madam, everything costs more.\"",
+   "learning": [
+    "situation",
+    "pays"
+   ],
+   "unknown": [
+    "coûter"
+   ],
+   "unknown_surface": [
+    "coûte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je ne sais pas s'il dit la vérité, mais il a un beau sourire.",
+   "en": "I don't know if he's telling the truth, but he has a lovely smile.",
+   "learning": [],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Alors j'achète quand même un kilo de tomates.",
+   "en": "So I buy a kilo of tomatoes anyway.",
+   "learning": [],
+   "unknown": [
+    "kilo",
+    "tomate"
+   ],
+   "unknown_surface": [
+    "kilo",
+    "tomates"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Plus loin, je vois une femme qui vend du fromage.",
+   "en": "Further on, I see a woman selling cheese.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [
+    "fromage"
+   ],
+   "unknown_surface": [
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle me propose de goûter, et je ne dis jamais non.",
+   "en": "She offers me a taste, and I never say no.",
+   "learning": [],
+   "unknown": [
+    "goûter"
+   ],
+   "unknown_surface": [
+    "goûter"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le premier morceau est parfait, le deuxième est encore meilleur.",
+   "en": "The first piece is perfect, the second is even better.",
+   "learning": [
+    "premier",
+    "encore"
+   ],
+   "unknown": [
+    "morceau"
+   ],
+   "unknown_surface": [
+    "morceau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Évidemment, je repars avec trois fromages au lieu d'un seul.",
+   "en": "Obviously, I leave with three cheeses instead of just one.",
+   "learning": [
+    "trois",
+    "seul"
+   ],
+   "unknown": [
+    "repartir",
+    "fromage"
+   ],
+   "unknown_surface": [
+    "repars",
+    "fromages"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est l'effet du marché : on arrive avec une liste, on part avec autre chose.",
+   "en": "That's the market effect: you arrive with a list and leave with something else.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, je retrouve mon ami Paul devant le café, comme chaque samedi.",
+   "en": "Then I meet my friend Paul in front of the café, like every Saturday.",
+   "learning": [],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Nous trouvons une place en terrasse, avec une vue magnifique sur toute la place.",
+   "en": "We find a seat on the terrace, with a wonderful view of the whole square.",
+   "learning": [
+    "place",
+    "vue"
+   ],
+   "unknown": [
+    "terrer"
+   ],
+   "unknown_surface": [
+    "terrasse"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul porte de nouvelles lunettes, parce que sa vue n'est plus très bonne.",
+   "en": "Paul is wearing new glasses, because his eyesight isn't very good anymore.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "lunette"
+   ],
+   "unknown_surface": [
+    "lunettes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il regarde mon sac et dit : « Tu as acheté la moitié du marché ! »",
+   "en": "He looks at my bag and says, \"You've bought half the market!\"",
+   "learning": [],
+   "unknown": [
+    "sac"
+   ],
+   "unknown_surface": [
+    "sac"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je réponds que c'est pour nous deux, et que nous allons manger ensemble.",
+   "en": "I answer that it's for the two of us, and that we're going to eat together.",
+   "learning": [
+    "aller",
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a un doute, parce que je dis ça chaque semaine.",
+   "en": "He has his doubts, because I say that every week.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et chaque semaine, je finis par tout manger seule le soir.",
+   "en": "And every week, I end up eating everything alone in the evening.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais cette fois, c'est vrai : je l'invite à déjeuner chez moi.",
+   "en": "But this time, it's true: I invite him to lunch at my place.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "invite",
+    "déjeuner"
+   ],
+   "unknown_surface": [
+    "invite",
+    "déjeuner"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur le chemin, nous passons encore devant le vieux vendeur de tomates.",
+   "en": "On the way, we walk past the old tomato seller again.",
+   "learning": [
+    "passer",
+    "encore"
+   ],
+   "unknown": [
+    "vendeur",
+    "tomate"
+   ],
+   "unknown_surface": [
+    "vendeur",
+    "tomates"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il me fait un signe et crie : « Revenez samedi prochain, les prix vont baisser ! »",
+   "en": "He waves at me and shouts, \"Come back next Saturday, prices are going to drop!\"",
+   "learning": [
+    "prix",
+    "aller"
+   ],
+   "unknown": [
+    "crier",
+    "baisser"
+   ],
+   "unknown_surface": [
+    "crie",
+    "baisser"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul me regarde : « Il dit ça à tout le monde, non ? »",
+   "en": "Paul looks at me: \"He says that to everyone, doesn't he?\"",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sans doute, mais moi, je vais revenir quand même.",
+   "en": "No doubt, but I'm going to come back anyway.",
+   "learning": [
+    "doute",
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le marché du samedi, c'est mon petit plaisir, et aucune loi ne peut changer ça.",
+   "en": "The Saturday market is my little pleasure, and no law can change that.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 26,
+  "echoed": 16,
+  "tts_chars": 2666,
+  "deck_source": "ankiconnect"
+ }
+}

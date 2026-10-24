@@ -1,0 +1,386 @@
+{
+ "date": "2026-10-20",
+ "title": "Un dimanche sans projet",
+ "summary": "On a rainy Sunday with nothing planned, Claire listens to music, talks for an hour with her faraway father, watches old films and ends up having a surprisingly good day.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-10-20.mp3",
+ "published": "2026-10-20T06:01:31-04:00",
+ "duration": 121,
+ "learning_words": [
+  {
+   "word": "père",
+   "translation": "father"
+  },
+  {
+   "word": "partir",
+   "translation": "to leave / to go away"
+  },
+  {
+   "word": "trop",
+   "translation": "too / too much"
+  },
+  {
+   "word": "parler",
+   "translation": "to speak / to talk"
+  },
+  {
+   "word": "maison",
+   "translation": "house / home"
+  },
+  {
+   "word": "exemple",
+   "translation": "example"
+  },
+  {
+   "word": "musique",
+   "translation": "music"
+  },
+  {
+   "word": "passer",
+   "translation": "to pass / to spend (time)"
+  },
+  {
+   "word": "cas",
+   "translation": "case / instance"
+  },
+  {
+   "word": "temps",
+   "translation": "time / weather"
+  },
+  {
+   "word": "loin",
+   "translation": "far / far away"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [
+  "passer"
+ ],
+ "sentences": [
+  {
+   "fr": "Dimanche matin, le temps est vraiment mauvais : il y a de l'eau partout dans la rue.",
+   "en": "Sunday morning, the weather is really bad: there's water everywhere in the street.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire reste dans son lit et regarde le ciel noir.",
+   "en": "Claire stays in bed and looks at the dark sky.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Aujourd'hui, elle n'a aucun projet, aucun plan, rien.",
+   "en": "Today she has no project, no plan, nothing.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour une fois, elle ne doit pas partir tôt au travail.",
+   "en": "For once, she doesn't have to leave early for work.",
+   "learning": [
+    "fois",
+    "partir"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, elle met de la musique, un peu trop fort.",
+   "en": "First, she puts on some music, a little too loud.",
+   "learning": [
+    "musique",
+    "peu",
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le voisin frappe contre le mur, alors elle baisse le son.",
+   "en": "The neighbor bangs on the wall, so she turns the sound down.",
+   "learning": [],
+   "unknown": [
+    "voisin",
+    "frappe",
+    "mur",
+    "baisse"
+   ],
+   "unknown_surface": [
+    "voisin",
+    "frappe",
+    "mur",
+    "baisse"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, elle cherche quelque chose à faire dans la maison.",
+   "en": "Then she looks for something to do around the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle pourrait travailler un peu, par exemple, ou lire un livre.",
+   "en": "She could work a little, for example, or read a book.",
+   "learning": [
+    "peu",
+    "exemple"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais elle n'a pas envie de travailler un dimanche, ça, c'est sûr.",
+   "en": "But she doesn't feel like working on a Sunday, that's for sure.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle prend un livre, lit trois pages et s'endort sur le canapé.",
+   "en": "She picks up a book, reads three pages and falls asleep on the sofa.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "endormir",
+    "canapé"
+   ],
+   "unknown_surface": [
+    "endort",
+    "canapé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À midi, quelqu'un l'appelle au téléphone : c'est son père.",
+   "en": "At noon, someone calls her on the phone: it's her father.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il vit loin, dans un petit village au sud de la France.",
+   "en": "He lives far away, in a little village in the south of France.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Alors, qu'est-ce que tu fais de beau aujourd'hui ? » demande-t-il.",
+   "en": "\"So, what are you up to today?\" he asks.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Rien du tout. Je passe la journée à la maison. »",
+   "en": "\"Nothing at all. I'm spending the day at home.\"",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son père adore parler, surtout du temps qu'il fait.",
+   "en": "Her father loves to talk, especially about the weather.",
+   "learning": [
+    "père",
+    "parler",
+    "surtout",
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Chez lui aussi, il fait mauvais, et il n'est pas content.",
+   "en": "Where he lives, the weather is bad too, and he's not happy about it.",
+   "learning": [],
+   "unknown": [
+    "content"
+   ],
+   "unknown_surface": [
+    "content"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils parlent pendant presque une heure de tout et de rien.",
+   "en": "They talk for almost an hour about everything and nothing.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il lui parle de son chien, qui a peur de l'eau et ne veut plus sortir.",
+   "en": "He tells her about his dog, who is scared of water and won't go out anymore.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« En tout cas, viens me voir bientôt, ce n'est pas si loin », dit-il.",
+   "en": "\"In any case, come see me soon, it's not that far,\" he says.",
+   "learning": [
+    "cas",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire dit oui, et pour la première fois depuis longtemps, elle a vraiment envie de partir là-bas.",
+   "en": "Claire says yes, and for the first time in ages, she really wants to go down there.",
+   "learning": [
+    "premier",
+    "fois",
+    "partir"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'après-midi, elle regarde un vieux film en noir et blanc.",
+   "en": "In the afternoon, she watches an old black-and-white film.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis un deuxième, puis un troisième.",
+   "en": "Then a second one, then a third.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce n'est pas trop sérieux, mais elle passe un bon moment.",
+   "en": "It's not too serious, but she has a good time.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vers six heures, le soleil revient enfin dans le ciel.",
+   "en": "Around six o'clock, the sun finally comes back into the sky.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire pense un moment à sortir faire un tour dans le parc.",
+   "en": "Claire thinks for a moment about going out for a walk in the park.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais il est un peu tard, et elle est très bien à la maison.",
+   "en": "But it's a bit late, and she's very comfortable at home.",
+   "learning": [
+    "peu",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, elle remet de la musique, moins fort cette fois.",
+   "en": "In the end, she puts the music back on, less loud this time.",
+   "learning": [
+    "musique",
+    "fois"
+   ],
+   "unknown": [
+    "remettre"
+   ],
+   "unknown_surface": [
+    "remet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le voisin ne dit rien.",
+   "en": "The neighbor says nothing.",
+   "learning": [],
+   "unknown": [
+    "voisin"
+   ],
+   "unknown_surface": [
+    "voisin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ce n'est pas un dimanche magnifique, mais c'est un bon dimanche.",
+   "en": "It's not a magnificent Sunday, but it's a good Sunday.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Demain, c'est lundi et le travail, mais elle n'y pense pas encore.",
+   "en": "Tomorrow is Monday and work, but she isn't thinking about it yet.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 30,
+  "echoed": 5,
+  "tts_chars": 2096,
+  "deck_source": "sqlite"
+ }
+}
