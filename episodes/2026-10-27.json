@@ -1,0 +1,389 @@
+{
+ "date": "2026-10-27",
+ "title": "Lyon à vélo",
+ "summary": "Claire discovers Lyon by bike with her friend Paul, between scary traffic, a beautiful view and an unexpected race.",
+ "theme": "a bicycle ride through the city",
+ "mp3": "2026-10-27.mp3",
+ "published": "2026-10-27T06:01:40-04:00",
+ "duration": 129,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Claire décide de visiter Lyon à vélo avec son ami Paul.",
+   "en": "On Saturday morning, Claire decides to visit Lyon by bike with her friend Paul.",
+   "learning": [],
+   "unknown": [
+    "vélo"
+   ],
+   "unknown_surface": [
+    "vélo"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est la première fois qu'elle fait ça dans une grande ville.",
+   "en": "It's the first time she's done that in a big city.",
+   "learning": [
+    "premier",
+    "fois",
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul, lui, fait du vélo tous les jours pour aller au travail.",
+   "en": "Paul, on the other hand, rides his bike every day to get to work.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "vélo"
+   ],
+   "unknown_surface": [
+    "vélo"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils partent ensemble de la place Bellecour vers neuf heures.",
+   "en": "They set off together from Place Bellecour around nine o'clock.",
+   "learning": [
+    "partir",
+    "ensemble",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au début, tout va bien, le soleil est là et l'air est bon.",
+   "en": "At first, everything is fine, the sun is out and the air is nice.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais très vite, Claire comprend que la ville n'est pas un parc.",
+   "en": "But very quickly, Claire realizes that the city is not a park.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il y a des voitures partout et beaucoup de monde dans les rues.",
+   "en": "There are cars everywhere and lots of people in the streets.",
+   "learning": [
+    "beaucoup",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Attention à droite ! » dit Paul.",
+   "en": "\"Watch out on the right!\" says Paul.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Un homme passe devant elle sans regarder, son téléphone à la main.",
+   "en": "A man walks in front of her without looking, his phone in his hand.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire s'arrête juste à temps, le cœur à cent à l'heure.",
+   "en": "Claire stops just in time, her heart racing.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [
+    "cent"
+   ],
+   "unknown_surface": [
+    "cent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul explique : « Ici, la première loi de la route, c'est de regarder partout. »",
+   "en": "Paul explains: \"Here, the first law of the road is to look everywhere.\"",
+   "learning": [
+    "premier",
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle n'a aucun doute : il a raison.",
+   "en": "She has no doubt: he's right.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils prennent ensuite une petite rue plus calme, près de l'eau.",
+   "en": "Then they take a quieter little street, near the water.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Là, Claire commence enfin à avoir du plaisir.",
+   "en": "There, Claire finally starts to enjoy herself.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soleil et l'air frais ont un très bon effet sur elle.",
+   "en": "The sun and the fresh air have a very good effect on her.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vers midi, ils montent jusqu'à Fourvière pour voir la ville d'en haut.",
+   "en": "Around noon, they ride up to Fourvière to see the city from above.",
+   "learning": [],
+   "unknown": [
+    "monter"
+   ],
+   "unknown_surface": [
+    "montent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La route est dure, et Claire doit descendre de son vélo deux fois.",
+   "en": "The road is tough, and Claire has to get off her bike twice.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "descendre",
+    "vélo"
+   ],
+   "unknown_surface": [
+    "descendre",
+    "vélo"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais en haut, la vue sur toute la ville est magnifique.",
+   "en": "But at the top, the view over the whole city is magnificent.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Voilà, c'est le prix à payer pour un tel moment », dit Paul.",
+   "en": "\"There you go, that's the price to pay for a moment like this,\" says Paul.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils cherchent une place sur un banc pour manger un sandwich.",
+   "en": "They look for a seat on a bench to eat a sandwich.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "banc",
+    "sandwich"
+   ],
+   "unknown_surface": [
+    "banc",
+    "sandwich"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais tout le monde a eu la même idée.",
+   "en": "But everyone had the same idea.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils mangent finalement par terre, au soleil.",
+   "en": "In the end, they eat on the ground, in the sun.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au retour, Claire est plus sûre d'elle et va plus vite.",
+   "en": "On the way back, Claire is more confident and goes faster.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle pense même à acheter son propre vélo.",
+   "en": "She's even thinking about buying her own bike.",
+   "learning": [],
+   "unknown": [
+    "vélo"
+   ],
+   "unknown_surface": [
+    "vélo"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Près de la gare, la situation change : la police arrête tout le monde.",
+   "en": "Near the station, the situation changes: the police stop everyone.",
+   "learning": [
+    "situation",
+    "monde"
+   ],
+   "unknown": [
+    "gare"
+   ],
+   "unknown_surface": [
+    "gare"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La cause ? Une grande course, avec des équipes de plusieurs pays.",
+   "en": "The reason? A big race, with teams from several countries.",
+   "learning": [
+    "cause",
+    "grand",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire les regarde passer et dit : « Le premier prix, c'est pour moi l'année prochaine ! »",
+   "en": "Claire watches them go by and says: \"First prize is mine next year!\"",
+   "learning": [
+    "passer",
+    "premier",
+    "prix",
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul répond : « Avec ta vitesse, je pense que tu vas arriver le lendemain. »",
+   "en": "Paul replies: \"At your speed, I think you'll arrive the next day.\"",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils reviennent ensemble à la maison, très heureux de leur journée.",
+   "en": "They head back home together, very happy with their day.",
+   "learning": [
+    "ensemble",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 8,
+  "tts_chars": 2239,
+  "deck_source": "ankiconnect"
+ }
+}

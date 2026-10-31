@@ -1,0 +1,359 @@
+{
+ "date": "2026-10-14",
+ "title": "Le chat de madame Leroy",
+ "summary": "A neighbour's cat keeps sneaking into the narrator's flat, disappears one winter, and turns up in his wardrobe with a big surprise.",
+ "theme": "a neighbour's cat",
+ "mp3": "2026-10-14.mp3",
+ "published": "2026-10-14T10:06:21-04:00",
+ "duration": 117,
+ "learning_words": [
+  {
+   "word": "question",
+   "translation": "question / issue"
+  },
+  {
+   "word": "loin",
+   "translation": "far / far away"
+  },
+  {
+   "word": "fois",
+   "translation": "time (occurrence)"
+  },
+  {
+   "word": "trois",
+   "translation": "three"
+  },
+  {
+   "word": "comment",
+   "translation": "how / what (pardon?)"
+  },
+  {
+   "word": "surtout",
+   "translation": "above all / especially"
+  },
+  {
+   "word": "seul",
+   "translation": "alone / only"
+  },
+  {
+   "word": "encore",
+   "translation": "still / again"
+  },
+  {
+   "word": "mort",
+   "translation": "dead"
+  },
+  {
+   "word": "chambre",
+   "translation": "bedroom / room"
+  },
+  {
+   "word": "année",
+   "translation": "year"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Depuis trois ans, je vis dans un petit quartier calme, loin du centre.",
+   "en": "For three years, I've been living in a small, quiet neighbourhood, far from the centre.",
+   "learning": [
+    "trois",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ma voisine, madame Leroy, a un gros chat roux qui s'appelle Pompon.",
+   "en": "My neighbour, Mrs Leroy, has a big ginger cat called Pompon.",
+   "learning": [],
+   "unknown": [
+    "voisiner",
+    "chat",
+    "roux"
+   ],
+   "unknown_surface": [
+    "voisine",
+    "chat",
+    "roux"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pompon est vieux, pas très beau, et surtout il fait toujours ce qu'il veut.",
+   "en": "Pompon is old, not very handsome, and above all he always does whatever he wants.",
+   "learning": [
+    "surtout"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il entre chez moi comme si c'était sa maison.",
+   "en": "He comes into my place as if it were his own house.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La première fois, je l'ai trouvé dans ma chambre, sur mon lit.",
+   "en": "The first time, I found him in my bedroom, on my bed.",
+   "learning": [
+    "fois",
+    "chambre"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il m'a regardé avec un air de dire : « Et toi, tu es qui ? »",
+   "en": "He looked at me as if to say: \"And who are you?\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Depuis, il vient presque chaque jour, souvent par la fenêtre de la cuisine.",
+   "en": "Since then, he comes almost every day, often through the kitchen window.",
+   "learning": [],
+   "unknown": [
+    "fenêtre",
+    "cuisine"
+   ],
+   "unknown_surface": [
+    "fenêtre",
+    "cuisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je ne comprends toujours pas comment il fait.",
+   "en": "I still don't understand how he does it.",
+   "learning": [
+    "comment"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Madame Leroy dit qu'il est simplement très intelligent.",
+   "en": "Mrs Leroy says he's simply very clever.",
+   "learning": [],
+   "unknown": [
+    "intelligent"
+   ],
+   "unknown_surface": [
+    "intelligent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Moi, je pense surtout qu'il a un plan secret.",
+   "en": "Personally, I mostly think he has a secret plan.",
+   "learning": [
+    "surtout"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'année dernière, je suis parti en vacances pendant deux semaines.",
+   "en": "Last year, I went on holiday for two weeks.",
+   "learning": [
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À mon retour, Pompon était dans mon lit, seul, comme un roi.",
+   "en": "When I got back, Pompon was in my bed, alone, like a king.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pourtant, la porte et les fenêtres étaient fermées.",
+   "en": "And yet the door and the windows were shut.",
+   "learning": [],
+   "unknown": [
+    "fenêtre",
+    "fermé"
+   ],
+   "unknown_surface": [
+    "fenêtres",
+    "fermées"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Encore aujourd'hui, c'est une question sans réponse.",
+   "en": "Even today, it's a question without an answer.",
+   "learning": [
+    "encore",
+    "question"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Un soir d'hiver, Pompon n'est pas venu.",
+   "en": "One winter evening, Pompon didn't come.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le lendemain non plus, ni le jour d'après.",
+   "en": "Not the next day either, nor the day after.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après trois jours, madame Leroy est venue à ma porte, les yeux rouges.",
+   "en": "After three days, Mrs Leroy came to my door with red eyes.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "venu"
+   ],
+   "unknown_surface": [
+    "venue"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Il n'est pas chez vous ? J'ai peur qu'il soit mort. »",
+   "en": "\"He isn't at your place? I'm afraid he's dead.\"",
+   "learning": [
+    "mort"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "J'ai cherché partout : dans la rue, derrière les voitures, dans le parc.",
+   "en": "I looked everywhere: in the street, behind the cars, in the park.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rien, pas un seul signe de lui.",
+   "en": "Nothing, not a single sign of him.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, je suis allé dans ma chambre, le cœur gros.",
+   "en": "That evening, I went to my bedroom with a heavy heart.",
+   "learning": [
+    "chambre"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et là, j'ai entendu un petit bruit dans mon armoire.",
+   "en": "And then I heard a little noise in my wardrobe.",
+   "learning": [],
+   "unknown": [
+    "bruit",
+    "armoire"
+   ],
+   "unknown_surface": [
+    "bruit",
+    "armoire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "J'ai ouvert la porte, et Pompon était dedans, avec quatre bébés !",
+   "en": "I opened the door, and Pompon was inside, with four babies!",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pompon n'était pas un monsieur, mais une dame.",
+   "en": "Pompon wasn't a gentleman, but a lady.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Madame Leroy a trouvé ça très drôle pendant au moins cinq minutes.",
+   "en": "Mrs Leroy found it very funny for at least five minutes.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Dix ans ensemble, et je ne savais pas ! »",
+   "en": "\"Ten years together, and I didn't know!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, elle m'a demandé si je voulais garder un petit.",
+   "en": "Then she asked me if I wanted to keep one of the little ones.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "J'ai dit non, bien sûr, plusieurs fois.",
+   "en": "I said no, of course, several times.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il s'appelle Pompon Deux, et en ce moment, il est sur mon lit.",
+   "en": "His name is Pompon Two, and right now, he's on my bed.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 6,
+  "tts_chars": 1985,
+  "deck_source": "ankiconnect"
+ }
+}

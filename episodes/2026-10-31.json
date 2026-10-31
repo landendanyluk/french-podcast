@@ -1,0 +1,404 @@
+{
+ "date": "2026-10-31",
+ "title": "L'ascenseur en panne",
+ "summary": "After work, a woman finds her building's elevator broken and climbs to the top floor with her elderly neighbor, only to discover at the end that it has just been repaired.",
+ "theme": "a broken elevator",
+ "mp3": "2026-10-31.mp3",
+ "published": "2026-10-31T06:01:19-04:00",
+ "duration": 125,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Ce soir, je reviens du travail avec beaucoup de choses à porter.",
+   "en": "This evening, I'm coming back from work with a lot of things to carry.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il est sept heures et j'ai très envie de mon lit.",
+   "en": "It's seven o'clock and I really want my bed.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans l'entrée de mon immeuble, il y a du monde devant l'ascenseur.",
+   "en": "In the lobby of my building, there are people in front of the elevator.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "immeuble",
+    "ascenseur"
+   ],
+   "unknown_surface": [
+    "immeuble",
+    "ascenseur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Un papier sur la porte dit simplement : « En panne ».",
+   "en": "A piece of paper on the door simply says: \"Out of order.\"",
+   "learning": [],
+   "unknown": [
+    "papier",
+    "panne"
+   ],
+   "unknown_surface": [
+    "papier",
+    "panne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je vis tout en haut, avec une très belle vue sur la ville.",
+   "en": "I live at the very top, with a beautiful view over the city.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'habitude, c'est un vrai plaisir.",
+   "en": "Usually, it's a real pleasure.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce soir, c'est surtout un problème.",
+   "en": "This evening, it's mostly a problem.",
+   "learning": [
+    "surtout"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Madame Petit, qui vit en face de chez moi, cherche déjà la cause.",
+   "en": "Madame Petit, who lives across from me, is already looking for the cause.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« C'est la faute de la nouvelle loi sur l'énergie ! » dit-elle.",
+   "en": "\"It's the fault of the new energy law!\" she says.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Monsieur Martin, le vieux monsieur du premier, n'est pas d'accord.",
+   "en": "Monsieur Martin, the old man from the first floor, doesn't agree.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Non, c'est l'effet du froid, comme chaque hiver. »",
+   "en": "\"No, it's the effect of the cold, like every winter.\"",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Personne ne sait vraiment, mais tout le monde a un avis.",
+   "en": "Nobody really knows, but everyone has an opinion.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Un jeune homme dit que dans son pays, ce genre de problème n'existe pas.",
+   "en": "A young man says that in his country, this kind of problem doesn't exist.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Chez nous, on appelle quelqu'un et c'est fini en une heure ! »",
+   "en": "\"Back home, you call someone and it's done in an hour!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Monsieur Martin répond : « Ici, il faut attendre au moins une semaine. »",
+   "en": "Monsieur Martin answers: \"Here, you have to wait at least a week.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Bon, pas le choix : on prend l'escalier.",
+   "en": "Well, no choice: we take the stairs.",
+   "learning": [],
+   "unknown": [
+    "escalier"
+   ],
+   "unknown_surface": [
+    "escalier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Madame Petit a quatre-vingts ans et elle a besoin d'aide.",
+   "en": "Madame Petit is eighty years old and she needs help.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors on décide de faire le chemin ensemble.",
+   "en": "So we decide to make the trip together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je porte ses choses, et elle porte la conversation.",
+   "en": "I carry her things, and she carries the conversation.",
+   "learning": [],
+   "unknown": [
+    "conversation"
+   ],
+   "unknown_surface": [
+    "conversation"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au deuxième, elle me parle de toute sa vie.",
+   "en": "On the second floor, she tells me about her whole life.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au troisième, elle me dit que le prix de tout est devenu fou.",
+   "en": "On the third, she tells me that the price of everything has gone crazy.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, on s'arrête un moment, parce qu'elle a mal aux pieds.",
+   "en": "Then we stop for a moment, because her feet hurt.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le jeune homme passe vite devant nous et nous fait de la place.",
+   "en": "The young man hurries past us and makes room for us.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Bonne chance, madame ! » dit-il avant de partir.",
+   "en": "\"Good luck, madam!\" he says before leaving.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Enfin, on arrive tout en haut, complètement morts.",
+   "en": "Finally, we reach the top, completely dead.",
+   "learning": [
+    "mort"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Madame Petit me prend le bras et regarde la ville.",
+   "en": "Madame Petit takes my arm and looks at the city.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Avec cette vue, ça vaut le coup, non ? »",
+   "en": "\"With this view, it's worth it, isn't it?\"",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Et puis, c'est la première fois depuis des années que je fais du sport ! »",
+   "en": "\"And besides, it's the first time in years that I've done any exercise!\"",
+   "learning": [
+    "premier",
+    "fois",
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je trouve que, finalement, la situation n'est pas si mauvaise.",
+   "en": "I think that, in the end, the situation isn't so bad.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À ce moment, la porte de l'ascenseur s'ouvre juste derrière nous.",
+   "en": "At that moment, the elevator door opens right behind us.",
+   "learning": [],
+   "unknown": [
+    "ascenseur"
+   ],
+   "unknown_surface": [
+    "ascenseur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Monsieur Martin sort, très calme, comme un roi.",
+   "en": "Monsieur Martin steps out, very calm, like a king.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Ils sont venus le réparer il y a deux minutes ! »",
+   "en": "\"They came to fix it two minutes ago!\"",
+   "learning": [],
+   "unknown": [
+    "réparer"
+   ],
+   "unknown_surface": [
+    "réparer"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Madame Petit le regarde et dit : « Ça, mon cher, c'est la loi de la vie. »",
+   "en": "Madame Petit looks at him and says: \"That, my dear, is the law of life.\"",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 33,
+  "echoed": 6,
+  "tts_chars": 2213,
+  "deck_source": "ankiconnect"
+ }
+}

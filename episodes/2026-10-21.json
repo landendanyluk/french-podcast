@@ -1,0 +1,483 @@
+{
+ "date": "2026-10-21",
+ "title": "Cinq étages et un lit",
+ "summary": "Julie moves into a flat with a great view but no lift, and her friends struggle with the stairs and a stubborn bed until a wise old neighbour saves the day.",
+ "theme": "moving into a new flat",
+ "mp3": "2026-10-21.mp3",
+ "published": "2026-10-21T06:01:55-04:00",
+ "duration": 195,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Julie arrive devant son nouvel appartement avec trois amis et une petite voiture pleine.",
+   "en": "On Saturday morning, Julie arrives in front of her new flat with three friends and a small, full car.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "appartement"
+   ],
+   "unknown_surface": [
+    "appartement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'appartement est au cinquième étage, et bien sûr, il n'y a pas d'ascenseur.",
+   "en": "The flat is on the fifth floor, and of course, there's no lift.",
+   "learning": [],
+   "unknown": [
+    "appartement",
+    "cinquième",
+    "étage",
+    "ascenseur"
+   ],
+   "unknown_surface": [
+    "appartement",
+    "cinquième",
+    "étage",
+    "ascenseur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Pas de doute, c'est une bonne journée pour faire du sport », dit son ami Marc.",
+   "en": "\"No doubt about it, it's a good day for some exercise,\" says her friend Marc.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie a choisi cet endroit pour une seule raison : la vue.",
+   "en": "Julie chose this place for one reason only: the view.",
+   "learning": [
+    "seul",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "De la fenêtre, on voit toute la ville, la place du marché et même un peu de la rivière.",
+   "en": "From the window, you can see the whole city, the market square and even a bit of the river.",
+   "learning": [
+    "place",
+    "peu"
+   ],
+   "unknown": [
+    "fenêtre",
+    "rivière"
+   ],
+   "unknown_surface": [
+    "fenêtre",
+    "rivière"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le prix est un peu haut, mais elle pense que ça vaut le coup.",
+   "en": "The price is a bit high, but she thinks it's worth it.",
+   "learning": [
+    "prix",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensemble, ils commencent à porter les cartons dans l'escalier.",
+   "en": "Together, they start carrying the boxes up the stairs.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "carton",
+    "escalier"
+   ],
+   "unknown_surface": [
+    "cartons",
+    "escalier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au premier étage, tout va bien, et tout le monde rit.",
+   "en": "On the first floor, everything is fine, and everyone is laughing.",
+   "learning": [
+    "premier",
+    "aller",
+    "monde"
+   ],
+   "unknown": [
+    "étage",
+    "rit"
+   ],
+   "unknown_surface": [
+    "étage",
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au troisième, personne ne parle plus.",
+   "en": "By the third, nobody is talking anymore.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au cinquième, Marc dit qu'il existe sûrement une loi contre ce genre de chose.",
+   "en": "By the fifth, Marc says there must be a law against this kind of thing.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [
+    "cinquième",
+    "sûrement"
+   ],
+   "unknown_surface": [
+    "cinquième",
+    "sûrement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Dans certains pays, c'est interdit de faire travailler ses amis comme ça », dit-il.",
+   "en": "\"In some countries, it's illegal to make your friends work like this,\" he says.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [
+    "interdire"
+   ],
+   "unknown_surface": [
+    "interdit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie lui donne de l'eau et promet une pizza.",
+   "en": "Julie gives him some water and promises a pizza.",
+   "learning": [],
+   "unknown": [
+    "promettre",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "promet",
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'effet est immédiat : Marc retrouve toute sa force.",
+   "en": "The effect is immediate: Marc gets all his strength back.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "immédiat"
+   ],
+   "unknown_surface": [
+    "immédiat"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Puis vient le problème du lit.",
+   "en": "Then comes the problem of the bed.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le lit est trop grand pour la porte de la chambre.",
+   "en": "The bed is too big for the bedroom door.",
+   "learning": [
+    "trop",
+    "grand",
+    "chambre"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils essaient de toutes les façons : debout, à plat, de côté.",
+   "en": "They try every way: upright, flat, sideways.",
+   "learning": [],
+   "unknown": [
+    "debout",
+    "plat"
+   ],
+   "unknown_surface": [
+    "debout",
+    "plat"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après vingt minutes, ils comprennent enfin la cause du problème.",
+   "en": "After twenty minutes, they finally understand the cause of the problem.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce n'est pas le lit, c'est le canapé, qui prend toute la place dans le couloir.",
+   "en": "It's not the bed, it's the sofa, which takes up all the space in the hallway.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "canapé",
+    "couloir"
+   ],
+   "unknown_surface": [
+    "canapé",
+    "couloir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La situation devient un peu drôle, et un peu difficile aussi.",
+   "en": "The situation becomes a bit funny, and a bit difficult too.",
+   "learning": [
+    "situation",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À ce moment, la voisine ouvre sa porte.",
+   "en": "At that moment, the neighbour opens her door.",
+   "learning": [],
+   "unknown": [
+    "voisiner"
+   ],
+   "unknown_surface": [
+    "voisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est une vieille dame avec un petit chien et un regard très sérieux.",
+   "en": "She's an old lady with a little dog and a very serious look.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie a peur : premier jour, et déjà un problème avec les voisins.",
+   "en": "Julie is scared: first day, and already a problem with the neighbours.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "voisin"
+   ],
+   "unknown_surface": [
+    "voisins"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais la dame sourit et dit : « Vous voulez un café ? »",
+   "en": "But the lady smiles and says: \"Would you like a coffee?\"",
+   "learning": [],
+   "unknown": [
+    "sourire",
+    "café"
+   ],
+   "unknown_surface": [
+    "sourit",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle explique qu'elle vit ici depuis très longtemps et qu'elle a tout vu.",
+   "en": "She explains that she has lived here for a very long time and has seen it all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Le lit, il faut le mettre debout et le tourner vers la gauche », dit-elle.",
+   "en": "\"The bed, you have to stand it up and turn it to the left,\" she says.",
+   "learning": [],
+   "unknown": [
+    "debout",
+    "tourner"
+   ],
+   "unknown_surface": [
+    "debout",
+    "tourner"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils essaient, et ça marche du premier coup.",
+   "en": "They try, and it works on the first go.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde applaudit, et même le chien semble content.",
+   "en": "Everyone applauds, and even the dog seems happy.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "applaudir",
+    "content"
+   ],
+   "unknown_surface": [
+    "applaudit",
+    "content"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, ils mangent la pizza ensemble par terre, au milieu des cartons.",
+   "en": "In the evening, they eat the pizza together on the floor, surrounded by boxes.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "pizza",
+    "carton"
+   ],
+   "unknown_surface": [
+    "pizza",
+    "cartons"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie regarde la vue sur la ville, avec toutes ses lumières.",
+   "en": "Julie looks at the view over the city, with all its lights.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle n'a plus aucun doute : c'est vraiment sa nouvelle maison.",
+   "en": "She no longer has any doubt: this is really her new home.",
+   "learning": [
+    "doute",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc, lui, dit qu'il mérite un prix pour son travail.",
+   "en": "Marc, for his part, says he deserves a prize for his work.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "mérite"
+   ],
+   "unknown_surface": [
+    "mérite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie rit et lui donne la dernière part de pizza.",
+   "en": "Julie laughs and gives him the last slice of pizza.",
+   "learning": [],
+   "unknown": [
+    "rit",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "rit",
+    "pizza"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 32,
+  "echoed": 19,
+  "tts_chars": 3264,
+  "deck_source": "ankiconnect"
+ }
+}

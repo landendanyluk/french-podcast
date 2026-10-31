@@ -1,0 +1,416 @@
+{
+ "date": "2026-10-19",
+ "title": "Un dimanche sous la pluie",
+ "summary": "On a rainy Sunday with no plans, Marc lounges at home, talks with his chatty father, watches films, makes crêpes, and realizes it was actually a pretty good day.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-10-19.mp3",
+ "published": "2026-10-19T06:01:40-04:00",
+ "duration": 152,
+ "learning_words": [
+  {
+   "word": "père",
+   "translation": "father"
+  },
+  {
+   "word": "partir",
+   "translation": "to leave / to go away"
+  },
+  {
+   "word": "trop",
+   "translation": "too / too much"
+  },
+  {
+   "word": "parler",
+   "translation": "to speak / to talk"
+  },
+  {
+   "word": "maison",
+   "translation": "house / home"
+  },
+  {
+   "word": "exemple",
+   "translation": "example"
+  },
+  {
+   "word": "musique",
+   "translation": "music"
+  },
+  {
+   "word": "passer",
+   "translation": "to pass / to spend (time)"
+  },
+  {
+   "word": "cas",
+   "translation": "case / instance"
+  },
+  {
+   "word": "temps",
+   "translation": "time / weather"
+  },
+  {
+   "word": "loin",
+   "translation": "far / far away"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [
+  "passer"
+ ],
+ "sentences": [
+  {
+   "fr": "Dimanche matin, Marc regarde par la fenêtre : il pleut.",
+   "en": "Sunday morning, Marc looks out the window: it's raining.",
+   "learning": [],
+   "unknown": [
+    "fenêtre",
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "fenêtre",
+    "pleut"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le temps est mauvais, et il n'a aucun projet pour la journée.",
+   "en": "The weather is bad, and he has no plans for the day.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'habitude, il aime partir loin de la ville le week-end.",
+   "en": "Usually, he likes to go far away from the city on weekends.",
+   "learning": [
+    "partir",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais aujourd'hui, pas question de sortir de la maison.",
+   "en": "But today, there's no way he's leaving the house.",
+   "learning": [
+    "question",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il met un peu de musique et revient dans son lit.",
+   "en": "He puts on some music and goes back to bed.",
+   "learning": [
+    "peu",
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après dix minutes, il en a assez : rester au lit trop longtemps, ce n'est pas une vie.",
+   "en": "After ten minutes, he's had enough: staying in bed too long is no way to live.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors il veut faire quelque chose de bien, par exemple lire un livre.",
+   "en": "So he wants to do something good, for example read a book.",
+   "learning": [
+    "exemple"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il commence le premier chapitre, puis s'endort sur le canapé.",
+   "en": "He starts the first chapter, then falls asleep on the sofa.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "chapitre",
+    "endormir",
+    "canapé"
+   ],
+   "unknown_surface": [
+    "chapitre",
+    "endort",
+    "canapé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le téléphone le réveille vers midi : c'est son père.",
+   "en": "The phone wakes him up around noon: it's his father.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [
+    "réveiller"
+   ],
+   "unknown_surface": [
+    "réveille"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Qu'est-ce que tu fais aujourd'hui ? » demande son père.",
+   "en": "\"What are you doing today?\" his father asks.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Rien, papa. Absolument rien. Il fait un très mauvais temps. »",
+   "en": "\"Nothing, Dad. Absolutely nothing. The weather is really bad.\"",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [
+    "papa"
+   ],
+   "unknown_surface": [
+    "papa"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Son père aime beaucoup parler, surtout le dimanche.",
+   "en": "His father loves to talk, especially on Sundays.",
+   "learning": [
+    "père",
+    "beaucoup",
+    "parler",
+    "surtout"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il lui raconte toute sa semaine : le voisin, le chien, le marché.",
+   "en": "He tells him about his whole week: the neighbor, the dog, the market.",
+   "learning": [],
+   "unknown": [
+    "raconter",
+    "voisin"
+   ],
+   "unknown_surface": [
+    "raconte",
+    "voisin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "De temps en temps, Marc dit juste « ah oui ? » ou « c'est pas vrai ! ».",
+   "en": "From time to time, Marc just says \"oh really?\" or \"no way!\".",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il écoute en mangeant un reste de pizza froide.",
+   "en": "He listens while eating some leftover cold pizza.",
+   "learning": [],
+   "unknown": [
+    "pizza"
+   ],
+   "unknown_surface": [
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après une heure, son père dit enfin : « Bon, je te laisse, j'ai des choses à faire. »",
+   "en": "After an hour, his father finally says: \"Well, I'll let you go, I have things to do.\"",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc trouve ça drôle : son père n'a jamais rien à faire le dimanche.",
+   "en": "Marc finds that funny: his father never has anything to do on Sundays.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'après-midi passe, et il ne se passe rien.",
+   "en": "The afternoon goes by, and nothing happens.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc regarde un vieux film, puis un deuxième, puis la moitié d'un troisième.",
+   "en": "Marc watches an old film, then a second one, then half of a third.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vers six heures, il pense à appeler des amis, juste au cas où.",
+   "en": "Around six, he thinks about calling some friends, just in case.",
+   "learning": [
+    "cas"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais avec ce temps, personne ne veut sortir de chez soi.",
+   "en": "But in this weather, nobody wants to leave their home.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, il a une idée : faire des crêpes, comme sa mère le dimanche.",
+   "en": "Finally, he has an idea: make crêpes, like his mother on Sundays.",
+   "learning": [],
+   "unknown": [
+    "crêpe"
+   ],
+   "unknown_surface": [
+    "crêpes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La première crêpe est ratée, bien sûr, c'est toujours le cas.",
+   "en": "The first crêpe is a failure, of course, that's always the case.",
+   "learning": [
+    "premier",
+    "cas"
+   ],
+   "unknown": [
+    "crêpe",
+    "raté"
+   ],
+   "unknown_surface": [
+    "crêpe",
+    "ratée"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les autres sont parfaites, et toute la maison sent bon.",
+   "en": "The others are perfect, and the whole house smells good.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [
+    "sentir"
+   ],
+   "unknown_surface": [
+    "sent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il les mange une par une, debout dans la cuisine.",
+   "en": "He eats them one by one, standing in the kitchen.",
+   "learning": [],
+   "unknown": [
+    "debout",
+    "cuisine"
+   ],
+   "unknown_surface": [
+    "debout",
+    "cuisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, il met encore de la musique et mange devant la télé.",
+   "en": "In the evening, he puts on music again and eats in front of the TV.",
+   "learning": [
+    "encore",
+    "musique"
+   ],
+   "unknown": [
+    "télé"
+   ],
+   "unknown_surface": [
+    "télé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il pense : « En fait, ce n'est pas loin d'être une bonne journée. »",
+   "en": "He thinks: \"Actually, this is not far from being a good day.\"",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Demain, il faut partir tôt au travail.",
+   "en": "Tomorrow, he has to leave early for work.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et il sait déjà qu'il va regretter ce dimanche sous la pluie.",
+   "en": "And he already knows he's going to miss this rainy Sunday.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "regretter",
+    "pluie"
+   ],
+   "unknown_surface": [
+    "regretter",
+    "pluie"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 12,
+  "tts_chars": 2507,
+  "deck_source": "ankiconnect"
+ }
+}
