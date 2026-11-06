@@ -1,0 +1,401 @@
+{
+ "date": "2026-10-30",
+ "title": "Un samedi au marché",
+ "summary": "On a sunny Saturday morning, Claire wanders through her village market, buys a prize-winning cheese that costs too much, helps an old vendor, and watches a dog cause trouble during a street musician's run-in with the police.",
+ "theme": "a market on a Saturday morning",
+ "mp3": "2026-10-30.mp3",
+ "published": "2026-10-30T06:01:12-04:00",
+ "duration": 162,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Chaque samedi matin, Claire va au marché sur la place du village.",
+   "en": "Every Saturday morning, Claire goes to the market on the village square.",
+   "learning": [
+    "aller",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est sa première sortie de la semaine sans travail.",
+   "en": "It's her first outing of the week without work.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce samedi, il y a beaucoup de monde, parce que le soleil est enfin revenu.",
+   "en": "This Saturday, there are lots of people, because the sun has finally come back.",
+   "learning": [
+    "beaucoup",
+    "monde"
+   ],
+   "unknown": [
+    "revenu"
+   ],
+   "unknown_surface": [
+    "revenu"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire n'a pas vraiment besoin de quelque chose, mais elle aime regarder.",
+   "en": "Claire doesn't really need anything, but she likes to look around.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, elle passe devant l'homme qui vend des fromages.",
+   "en": "First, she walks past the man who sells cheese.",
+   "learning": [],
+   "unknown": [
+    "fromage"
+   ],
+   "unknown_surface": [
+    "fromages"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il s'appelle Paul, et il vient de Suisse, un pays qu'il adore.",
+   "en": "His name is Paul, and he comes from Switzerland, a country he loves.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Goûtez celui-ci, madame, il a gagné un prix l'année dernière ! »",
+   "en": "\"Try this one, madam, it won a prize last year!\"",
+   "learning": [
+    "prix",
+    "année"
+   ],
+   "unknown": [
+    "goûter"
+   ],
+   "unknown_surface": [
+    "Goûtez"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire mange un petit bout, et l'effet est direct : elle en veut tout de suite.",
+   "en": "Claire eats a small piece, and the effect is immediate: she wants some right away.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais le prix, lui, est moins drôle : dix euros pour un petit morceau !",
+   "en": "But the price is less funny: ten euros for a small piece!",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "morceau"
+   ],
+   "unknown_surface": [
+    "morceau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, elle va voir la vieille dame qui vend des légumes.",
+   "en": "Then she goes to see the old lady who sells vegetables.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "légume"
+   ],
+   "unknown_surface": [
+    "légumes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a la meilleure situation du marché, juste à côté de l'église.",
+   "en": "She has the best spot in the market, right next to the church.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a quatre-vingts ans, et sa vue n'est plus très bonne.",
+   "en": "She is eighty years old, and her eyesight isn't very good anymore.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors, elle demande souvent aux clients de lire les prix pour elle.",
+   "en": "So she often asks customers to read the prices for her.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire l'aide avec plaisir, et ensemble, elles comptent l'argent.",
+   "en": "Claire happily helps her, and together they count the money.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Soudain, un jeune homme arrive avec un gros chien.",
+   "en": "Suddenly, a young man arrives with a big dog.",
+   "learning": [],
+   "unknown": [
+    "soudain"
+   ],
+   "unknown_surface": [
+    "Soudain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il se met au milieu de la place et commence à jouer de la musique.",
+   "en": "He stands in the middle of the square and starts playing music.",
+   "learning": [
+    "place",
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout de suite, un homme de la police arrive, l'air très sérieux.",
+   "en": "Right away, a police officer arrives, looking very serious.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Monsieur, c'est contre la loi de jouer ici sans permis ! »",
+   "en": "\"Sir, it's against the law to play here without a permit!\"",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le chien, lui, ne connaît pas la loi : il mange une partie du fromage de Paul.",
+   "en": "The dog, however, doesn't know the law: it eats part of Paul's cheese.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [
+    "fromage"
+   ],
+   "unknown_surface": [
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde trouve ça drôle, même le policier.",
+   "en": "Everyone finds it funny, even the police officer.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "policier"
+   ],
+   "unknown_surface": [
+    "policier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul dit que ce n'est pas grave et donne le reste au chien.",
+   "en": "Paul says it's no big deal and gives the rest to the dog.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Voilà la vraie cause de mon succès : même les animaux l'adorent ! »",
+   "en": "\"There's the real reason for my success: even animals love it!\"",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, le policier laisse le jeune homme jouer encore une chanson.",
+   "en": "In the end, the officer lets the young man play one more song.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "policier"
+   ],
+   "unknown_surface": [
+    "policier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire trouve une place à la table d'un café, avec une belle vue sur tout le marché.",
+   "en": "Claire finds a seat at a café table, with a lovely view over the whole market.",
+   "learning": [
+    "place",
+    "vue"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle n'a rien acheté de nécessaire, et elle a payé son fromage trop cher.",
+   "en": "She hasn't bought anything she needs, and she paid too much for her cheese.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [
+    "fromage"
+   ],
+   "unknown_surface": [
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais pour elle, c'est ça, un bon samedi : du soleil, de la musique et des gens heureux.",
+   "en": "But for her, that's a good Saturday: sunshine, music and happy people.",
+   "learning": [
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, elle raconte toute sa journée à son frère au téléphone.",
+   "en": "In the evening, she tells her brother all about her day on the phone.",
+   "learning": [],
+   "unknown": [
+    "raconter"
+   ],
+   "unknown_surface": [
+    "raconte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il lui demande seulement : « Et le fromage, il est vraiment si bon ? »",
+   "en": "He only asks her: \"And the cheese, is it really that good?\"",
+   "learning": [],
+   "unknown": [
+    "fromage"
+   ],
+   "unknown_surface": [
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle répond qu'il n'en reste plus rien : elle l'a fini pendant le film.",
+   "en": "She answers that there's nothing left: she finished it during the movie.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 13,
+  "tts_chars": 2764,
+  "deck_source": "ankiconnect"
+ }
+}

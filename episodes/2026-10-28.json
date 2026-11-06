@@ -1,0 +1,415 @@
+{
+ "date": "2026-10-28",
+ "title": "Un dimanche sans projet",
+ "summary": "On a rainy Sunday with nothing planned, Claire and Hugo stay home, bake a failed cake, play cards, and decide it's the best day of the year.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-10-28.mp3",
+ "published": "2026-10-28T06:01:14-04:00",
+ "duration": 146,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Ce dimanche, il pleut sur la ville depuis six heures du matin.",
+   "en": "This Sunday, it has been raining on the city since six in the morning.",
+   "learning": [],
+   "unknown": [
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "pleut"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire reste au lit et ne veut pas sortir.",
+   "en": "Claire stays in bed and doesn't want to go out.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour la première fois depuis des mois, elle n'a absolument rien à faire.",
+   "en": "For the first time in months, she has absolutely nothing to do.",
+   "learning": [
+    "premier",
+    "fois",
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son ami Hugo arrive dans la chambre avec deux cafés.",
+   "en": "Her boyfriend Hugo comes into the bedroom with two coffees.",
+   "learning": [
+    "chambre"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "cafés"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Alors, on fait quoi aujourd'hui ? » demande-t-il.",
+   "en": "\"So, what are we doing today?\" he asks.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Rien, c'est le plan », répond Claire.",
+   "en": "\"Nothing, that's the plan,\" Claire answers.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Hugo n'a aucun doute : c'est la meilleure idée de la semaine.",
+   "en": "Hugo has no doubt: it's the best idea of the week.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils décident de passer toute la journée ensemble, sans téléphone ni travail.",
+   "en": "They decide to spend the whole day together, with no phone and no work.",
+   "learning": [
+    "passer",
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, ils regardent un vieux film sur un pays très loin, plein de soleil.",
+   "en": "First, they watch an old film about a faraway country, full of sunshine.",
+   "learning": [
+    "pays",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'effet est drôle : dans le film il fait beau, mais dehors l'eau tombe toujours.",
+   "en": "The effect is funny: in the film the weather is lovely, but outside the water keeps falling.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, Hugo propose de faire un gâteau.",
+   "en": "Then Hugo suggests making a cake.",
+   "learning": [],
+   "unknown": [
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "gâteau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais il n'y a presque rien à manger dans la maison.",
+   "en": "But there's almost nothing to eat in the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire trouve trois œufs, un peu de farine et du vieux chocolat.",
+   "en": "Claire finds three eggs, a little flour and some old chocolate.",
+   "learning": [
+    "trois",
+    "peu"
+   ],
+   "unknown": [
+    "œuf",
+    "farine",
+    "chocolat"
+   ],
+   "unknown_surface": [
+    "œufs",
+    "farine",
+    "chocolat"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le résultat n'est pas très beau, mais ils le mangent quand même.",
+   "en": "The result isn't very pretty, but they eat it anyway.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Ce gâteau ne va jamais gagner de prix », dit Hugo.",
+   "en": "\"This cake is never going to win a prize,\" says Hugo.",
+   "learning": [
+    "aller",
+    "prix"
+   ],
+   "unknown": [
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "gâteau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« La loi de la maison dit qu'on ne critique pas le chef », répond Claire.",
+   "en": "\"The law of the house says you don't criticize the chef,\" Claire replies.",
+   "learning": [
+    "loi",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'après-midi, ils jouent aux cartes sur la grande table.",
+   "en": "In the afternoon, they play cards on the big table.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Hugo perd cinq fois de suite et cherche une cause à chaque fois.",
+   "en": "Hugo loses five times in a row and looks for a reason every time.",
+   "learning": [
+    "fois",
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord c'est la lumière, puis sa vue, puis le chien qui le regarde.",
+   "en": "First it's the light, then his eyesight, then the dog watching him.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Ta situation est vraiment grave », dit Claire en riant.",
+   "en": "\"Your situation is really serious,\" Claire says, laughing.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "riant"
+   ],
+   "unknown_surface": [
+    "riant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Vers cinq heures, la pluie s'arrête enfin.",
+   "en": "Around five o'clock, the rain finally stops.",
+   "learning": [],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils ouvrent la fenêtre et regardent la place du quartier.",
+   "en": "They open the window and look at the square in their neighborhood.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "ouvrer",
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "ouvrent",
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il n'y a personne, seulement un vieux monsieur avec son chien.",
+   "en": "There's no one, just an old man with his dog.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Hugo dit que tout le monde est resté à la maison, comme eux.",
+   "en": "Hugo says that everyone has stayed home, like them.",
+   "learning": [
+    "monde",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« On sort un peu ? » demande-t-il.",
+   "en": "\"Shall we go out for a bit?\" he asks.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire pense un moment, puis elle reprend sa place sous la couverture.",
+   "en": "Claire thinks for a moment, then goes back to her spot under the blanket.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "reprendre",
+    "couverture"
+   ],
+   "unknown_surface": [
+    "reprend",
+    "couverture"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Non. Aujourd'hui, la vue d'ici est parfaite. »",
+   "en": "\"No. Today, the view from here is perfect.\"",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Hugo rit et va chercher le reste du gâteau.",
+   "en": "Hugo laughs and goes to get the rest of the cake.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "rit",
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "rit",
+    "gâteau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, ils mangent devant la télé et parlent de leurs prochaines vacances.",
+   "en": "In the evening, they eat in front of the TV and talk about their next vacation.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [
+    "télé"
+   ],
+   "unknown_surface": [
+    "télé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour Claire, c'est le meilleur dimanche de l'année, et elle n'a rien fait.",
+   "en": "For Claire, it's the best Sunday of the year, and she did nothing at all.",
+   "learning": [
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 30,
+  "echoed": 11,
+  "tts_chars": 2462,
+  "deck_source": "ankiconnect"
+ }
+}

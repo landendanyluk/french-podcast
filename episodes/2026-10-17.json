@@ -1,0 +1,462 @@
+{
+ "date": "2026-10-17",
+ "title": "Le monsieur au café",
+ "summary": "On her first day at a new job, Julie chats openly with a friendly older man by the coffee machine, only to discover he is the company's president.",
+ "theme": "a first day at a new job",
+ "mp3": "2026-10-17.mp3",
+ "published": "2026-10-17T10:23:16-04:00",
+ "duration": 191,
+ "learning_words": [
+  {
+   "word": "cas",
+   "translation": "case / instance"
+  },
+  {
+   "word": "temps",
+   "translation": "time / weather"
+  },
+  {
+   "word": "aller",
+   "translation": "to go"
+  },
+  {
+   "word": "mois",
+   "translation": "month"
+  },
+  {
+   "word": "beaucoup",
+   "translation": "a lot / many, much"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  },
+  {
+   "word": "président",
+   "translation": "president / chairman"
+  },
+  {
+   "word": "père",
+   "translation": "father"
+  },
+  {
+   "word": "partir",
+   "translation": "to leave / to go away"
+  },
+  {
+   "word": "passer",
+   "translation": "to pass / to spend (time)"
+  },
+  {
+   "word": "loin",
+   "translation": "far / far away"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Lundi matin, Julie commence son nouveau travail dans une petite entreprise à Lyon.",
+   "en": "On Monday morning, Julie starts her new job at a small company in Lyon.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est son premier jour, et elle a un peu peur.",
+   "en": "It's her first day, and she's a little scared.",
+   "learning": [
+    "premier",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La veille, son père lui a téléphoné pour lui donner des conseils.",
+   "en": "The day before, her father called her to give her some advice.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [
+    "veille",
+    "téléphoner"
+   ],
+   "unknown_surface": [
+    "veille",
+    "téléphoné"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Arrive tôt, souris beaucoup et ne parle pas trop », a-t-il dit.",
+   "en": "\"Arrive early, smile a lot and don't talk too much,\" he said.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [
+    "souris"
+   ],
+   "unknown_surface": [
+    "souris"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le bureau est assez loin de chez elle, alors elle part à sept heures.",
+   "en": "The office is quite far from her place, so she leaves at seven.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il fait un temps horrible, avec de la pluie et du vent.",
+   "en": "The weather is horrible, with rain and wind.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [
+    "horrible",
+    "pluie",
+    "vent"
+   ],
+   "unknown_surface": [
+    "horrible",
+    "pluie",
+    "vent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Évidemment, le bus est en retard.",
+   "en": "Of course, the bus is late.",
+   "learning": [],
+   "unknown": [
+    "bus",
+    "retard"
+   ],
+   "unknown_surface": [
+    "bus",
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle arrive finalement à huit heures moins cinq, les cheveux complètement mouillés.",
+   "en": "She finally arrives at five to eight, her hair completely wet.",
+   "learning": [],
+   "unknown": [
+    "mouillé"
+   ],
+   "unknown_surface": [
+    "mouillés"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À l'entrée, un vieux monsieur avec une tasse de café lui dit bonjour.",
+   "en": "At the entrance, an old gentleman with a cup of coffee says hello to her.",
+   "learning": [],
+   "unknown": [
+    "tasse",
+    "café"
+   ],
+   "unknown_surface": [
+    "tasse",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il porte un vieux pull et il semble très calme.",
+   "en": "He's wearing an old sweater and seems very calm.",
+   "learning": [],
+   "unknown": [
+    "pull"
+   ],
+   "unknown_surface": [
+    "pull"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Vous êtes nouvelle ? Vous voulez un café ? » demande-t-il.",
+   "en": "\"Are you new? Would you like a coffee?\" he asks.",
+   "learning": [],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie pense qu'il travaille probablement ici depuis longtemps.",
+   "en": "Julie thinks he has probably worked here for a long time.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle lui parle beaucoup : du bus, du mauvais temps, de son ancien chef.",
+   "en": "She talks to him a lot: about the bus, the bad weather, her old boss.",
+   "learning": [
+    "beaucoup",
+    "temps"
+   ],
+   "unknown": [
+    "bus"
+   ],
+   "unknown_surface": [
+    "bus"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Mon ancien chef ne disait jamais merci, c'était vraiment difficile », explique-t-elle.",
+   "en": "\"My old boss never said thank you, it was really hard,\" she explains.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'homme répond : « Ah oui, je connais ce genre de personne. »",
+   "en": "The man answers: \"Oh yes, I know that kind of person.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, il lui montre la machine à café et les toilettes.",
+   "en": "Then he shows her the coffee machine and the restrooms.",
+   "learning": [],
+   "unknown": [
+    "machine",
+    "café",
+    "toilette"
+   ],
+   "unknown_surface": [
+    "machine",
+    "café",
+    "toilettes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils passent dix minutes ensemble, et Julie se sent déjà mieux.",
+   "en": "They spend ten minutes together, and Julie already feels better.",
+   "learning": [
+    "passer"
+   ],
+   "unknown": [
+    "sentir"
+   ],
+   "unknown_surface": [
+    "sent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À neuf heures, toute l'équipe a une réunion dans la grande salle.",
+   "en": "At nine o'clock, the whole team has a meeting in the big room.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie entre et voit le monsieur au pull devant tout le monde.",
+   "en": "Julie walks in and sees the man in the sweater in front of everyone.",
+   "learning": [],
+   "unknown": [
+    "pull"
+   ],
+   "unknown_surface": [
+    "pull"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Bonjour à tous, je suis le président de la société », dit-il.",
+   "en": "\"Hello everyone, I'm the president of the company,\" he says.",
+   "learning": [
+    "président"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie a envie de partir tout de suite, ou de disparaître sous la table.",
+   "en": "Julie wants to leave right away, or disappear under the table.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [
+    "disparaître"
+   ],
+   "unknown_surface": [
+    "disparaître"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pas de doute : elle a raconté toute sa vie au grand chef.",
+   "en": "No doubt about it: she told her whole life story to the big boss.",
+   "learning": [
+    "doute",
+    "grand"
+   ],
+   "unknown": [
+    "raconter"
+   ],
+   "unknown_surface": [
+    "raconté"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après la réunion, il vient la voir avec un grand sourire.",
+   "en": "After the meeting, he comes to see her with a big smile.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ne vous inquiétez pas, dans ce cas, je préfère les gens honnêtes. »",
+   "en": "\"Don't worry, in this case I prefer honest people.\"",
+   "learning": [
+    "cas"
+   ],
+   "unknown": [
+    "inquiéter",
+    "préférer",
+    "honnête"
+   ],
+   "unknown_surface": [
+    "inquiétez",
+    "préfère",
+    "honnêtes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Et je vais dire merci au moins une fois par mois, c'est promis. »",
+   "en": "\"And I'll say thank you at least once a month, I promise.\"",
+   "learning": [
+    "aller",
+    "fois",
+    "mois"
+   ],
+   "unknown": [
+    "promettre"
+   ],
+   "unknown_surface": [
+    "promis"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie rit enfin, un peu rouge.",
+   "en": "Julie finally laughs, a bit red in the face.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le reste de la journée passe vite, entre les dossiers et les nouveaux noms.",
+   "en": "The rest of the day goes by quickly, between files and new names.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, elle appelle son père pour tout lui raconter.",
+   "en": "In the evening, she calls her father to tell him everything.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [
+    "raconter"
+   ],
+   "unknown_surface": [
+    "raconter"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Alors, tu as suivi mes conseils ? » demande-t-il.",
+   "en": "\"So, did you follow my advice?\" he asks.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Pas vraiment, papa, j'ai beaucoup trop parlé. »",
+   "en": "\"Not really, Dad, I talked way too much.\"",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [
+    "papa"
+   ],
+   "unknown_surface": [
+    "papa"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Son père rit : « Avec un président comme ça, tu vas aller loin, ma fille. »",
+   "en": "Her father laughs: \"With a president like that, you're going to go far, my girl.\"",
+   "learning": [
+    "père",
+    "président",
+    "aller",
+    "loin"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 31,
+  "echoed": 21,
+  "tts_chars": 3163,
+  "deck_source": "ankiconnect"
+ }
+}

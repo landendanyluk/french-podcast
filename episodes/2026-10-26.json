@@ -1,0 +1,430 @@
+{
+ "date": "2026-10-26",
+ "title": "Un dimanche sous la pluie",
+ "summary": "On a rainy Sunday with no plans, Claire enjoys doing nothing until her brother Paul shows up with a cold pizza, and together they spend a lazy, perfect day.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-10-26.mp3",
+ "published": "2026-10-26T06:01:53-04:00",
+ "duration": 184,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Ce dimanche, Claire se réveille tard et entend la pluie contre la fenêtre.",
+   "en": "This Sunday, Claire wakes up late and hears the rain against the window.",
+   "learning": [],
+   "unknown": [
+    "réveiller",
+    "pluie",
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "réveille",
+    "pluie",
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pas de doute : il pleut, et il va pleuvoir toute la journée.",
+   "en": "No doubt about it: it's raining, and it's going to rain all day.",
+   "learning": [
+    "doute",
+    "aller"
+   ],
+   "unknown": [
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "pleut"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle n'a aucun projet, aucun ami à voir, rien du tout.",
+   "en": "She has no plans, no friends to see, nothing at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'habitude, ça lui fait un peu peur, mais aujourd'hui, elle trouve ça plutôt bien.",
+   "en": "Usually it scares her a little, but today she finds it rather nice.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle prépare un café et s'assoit à sa place préférée, près de la fenêtre.",
+   "en": "She makes a coffee and sits down in her favorite spot, near the window.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "préparer",
+    "café",
+    "asseoir",
+    "préféré",
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "prépare",
+    "café",
+    "assoit",
+    "préférée",
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "De là, elle a une vue magnifique sur la petite place du quartier.",
+   "en": "From there, she has a magnificent view of the little neighborhood square.",
+   "learning": [
+    "vue",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Normalement, il y a du monde, des enfants, des chiens et un marché.",
+   "en": "Normally there are people, children, dogs and a market.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "normalement"
+   ],
+   "unknown_surface": [
+    "Normalement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Aujourd'hui, personne, sauf un vieux monsieur avec un grand parapluie rouge.",
+   "en": "Today, nobody, except an old man with a big red umbrella.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "parapluie"
+   ],
+   "unknown_surface": [
+    "parapluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire se demande quelle est la cause de son courage : l'amour, le pain ou simplement l'habitude ?",
+   "en": "Claire wonders what the reason for his courage is: love, bread, or simply habit?",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "courage",
+    "pain"
+   ],
+   "unknown_surface": [
+    "courage",
+    "pain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle décide de lire un livre qu'elle a acheté il y a deux ans.",
+   "en": "She decides to read a book she bought two years ago.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après la première page, elle s'endort sur le canapé.",
+   "en": "After the first page, she falls asleep on the sofa.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "endormir",
+    "canapé"
+   ],
+   "unknown_surface": [
+    "endort",
+    "canapé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est l'effet de la pluie, elle n'y peut rien.",
+   "en": "It's the effect of the rain, she can't help it.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Franchement, ce genre de sieste mérite un prix.",
+   "en": "Honestly, this kind of nap deserves a prize.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "franchement",
+    "sieste",
+    "mérite"
+   ],
+   "unknown_surface": [
+    "Franchement",
+    "sieste",
+    "mérite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Vers midi, son téléphone sonne : c'est son frère Paul.",
+   "en": "Around noon, her phone rings: it's her brother Paul.",
+   "learning": [],
+   "unknown": [
+    "sonner"
+   ],
+   "unknown_surface": [
+    "sonne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu fais quoi ? » demande-t-il. « Rien, c'est la loi du dimanche », répond Claire.",
+   "en": "\"What are you doing?\" he asks. \"Nothing, it's the law of Sunday,\" Claire answers.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul rit et propose de manger ensemble chez elle, parce qu'il habite juste à côté.",
+   "en": "Paul laughs and suggests they eat together at her place, because he lives right next door.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "rit",
+    "habiter"
+   ],
+   "unknown_surface": [
+    "rit",
+    "habite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il arrive vingt minutes plus tard, complètement mouillé, avec une pizza froide.",
+   "en": "He arrives twenty minutes later, completely soaked, with a cold pizza.",
+   "learning": [],
+   "unknown": [
+    "mouillé",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "mouillé",
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Elle était chaude au départ, je te jure ! » dit-il.",
+   "en": "\"It was hot when I left, I swear!\" he says.",
+   "learning": [],
+   "unknown": [
+    "chaude",
+    "jurer"
+   ],
+   "unknown_surface": [
+    "chaude",
+    "jure"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils mangent devant un vieux film, et la situation devient presque parfaite.",
+   "en": "They eat in front of an old movie, and the situation becomes almost perfect.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, ils jouent aux cartes, et Claire gagne trois fois de suite.",
+   "en": "Then they play cards, and Claire wins three times in a row.",
+   "learning": [
+    "trois",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis Paul parle de son prochain voyage dans un pays très loin, au soleil.",
+   "en": "Then Paul talks about his next trip to a faraway country, in the sun.",
+   "learning": [
+    "parler",
+    "pays",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Là-bas, il ne pleut jamais », dit-il avec un grand sourire.",
+   "en": "\"Over there, it never rains,\" he says with a big smile.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "pleuvoir",
+    "sourire"
+   ],
+   "unknown_surface": [
+    "pleut",
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire regarde la pluie, le film, la pizza froide, et son frère.",
+   "en": "Claire looks at the rain, the movie, the cold pizza, and her brother.",
+   "learning": [],
+   "unknown": [
+    "pluie",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "pluie",
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Moi, je reste ici. Pour rien au monde je ne change de place. »",
+   "en": "\"I'm staying here. I wouldn't change places for anything in the world.\"",
+   "learning": [
+    "monde",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul pense qu'elle est un peu folle, mais il prend quand même une deuxième part.",
+   "en": "Paul thinks she's a bit crazy, but he still takes a second slice.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "folle"
+   ],
+   "unknown_surface": [
+    "folle"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, la pluie s'arrête enfin, juste au moment où Paul repart.",
+   "en": "In the evening, the rain finally stops, just as Paul leaves.",
+   "learning": [],
+   "unknown": [
+    "pluie",
+    "repartir"
+   ],
+   "unknown_surface": [
+    "pluie",
+    "repart"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire rit : demain, c'est lundi, et le soleil, lui aussi, a ses habitudes.",
+   "en": "Claire laughs: tomorrow is Monday, and the sun has its habits too.",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 27,
+  "echoed": 18,
+  "tts_chars": 2993,
+  "deck_source": "ankiconnect"
+ }
+}
