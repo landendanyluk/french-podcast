@@ -1,0 +1,369 @@
+{
+ "date": "2026-11-05",
+ "title": "Une journée chez Louise",
+ "summary": "A young man takes the train to spend a day with his ninety-year-old grandmother, who reads him the news, shows off her baking prize, and gives him advice about life.",
+ "theme": "a visit to a grandparent",
+ "mp3": "2026-11-05.mp3",
+ "published": "2026-11-05T12:58:05-05:00",
+ "duration": 131,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, je prends le train pour aller voir Louise, la mère de mon père.",
+   "en": "Saturday morning, I take the train to go see Louise, my father's mother.",
+   "learning": [
+    "aller",
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a quatre-vingt-dix ans et elle vit seule dans un petit village près de la mer.",
+   "en": "She is ninety years old and lives alone in a small village by the sea.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le train est plein de monde, mais je trouve une place près de la fenêtre.",
+   "en": "The train is packed with people, but I find a seat by the window.",
+   "learning": [
+    "monde",
+    "place"
+   ],
+   "unknown": [
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pendant le voyage, je regarde la campagne et je pense à elle.",
+   "en": "During the trip, I look at the countryside and think about her.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Quand j'étais enfant, nous passions toutes nos vacances ensemble.",
+   "en": "When I was a child, we spent all our holidays together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "passion"
+   ],
+   "unknown_surface": [
+    "passions"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle m'attend devant la gare avec son vieux chien.",
+   "en": "She is waiting for me in front of the station with her old dog.",
+   "learning": [],
+   "unknown": [
+    "gare"
+   ],
+   "unknown_surface": [
+    "gare"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu es en retard ! » dit-elle, mais elle a l'air très heureuse.",
+   "en": "\"You're late!\" she says, but she looks very happy.",
+   "learning": [],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Chez elle, la maison a une vue magnifique sur la mer.",
+   "en": "At her place, the house has a magnificent view of the sea.",
+   "learning": [
+    "maison",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais sa vue à elle n'est plus très bonne, alors elle a besoin de moi pour lire ses lettres.",
+   "en": "But her own eyesight isn't very good anymore, so she needs me to read her letters.",
+   "learning": [
+    "vue",
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sur la table, il y a une lettre du maire.",
+   "en": "On the table, there is a letter from the mayor.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Une nouvelle loi dit qu'on ne peut plus faire de feu dehors.",
+   "en": "A new law says you can no longer light fires outside.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« C'est à cause du risque pour les bois », je lui explique.",
+   "en": "\"It's because of the risk to the woods,\" I explain to her.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle répond que les gens du gouvernement ne connaissent rien à la vie.",
+   "en": "She answers that the people in the government know nothing about life.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, elle me montre une coupe sur la table de la salle.",
+   "en": "Then she shows me a trophy on the table in the living room.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a gagné le premier prix du concours de gâteaux du village !",
+   "en": "She won first prize in the village cake contest!",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "gâteaux"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« À mon âge, tu vois un peu l'effet sur les autres dames ? »",
+   "en": "\"At my age, can you imagine the effect on the other ladies?\"",
+   "learning": [
+    "peu",
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle dit ça avec un grand sourire.",
+   "en": "She says this with a big smile.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À midi, nous mangeons ensemble, et elle me pose plein de questions sur mon travail.",
+   "en": "At noon, we eat together, and she asks me lots of questions about my job.",
+   "learning": [
+    "ensemble",
+    "question"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je lui explique ma situation : nouveau boulot, beaucoup d'heures, pas encore de femme dans ma vie.",
+   "en": "I explain my situation to her: new job, lots of hours, no woman in my life yet.",
+   "learning": [
+    "situation",
+    "beaucoup",
+    "encore"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Dans quel pays tu vas trouver une femme si tu travailles tout le temps ? » demande-t-elle.",
+   "en": "\"In what country are you going to find a woman if you work all the time?\" she asks.",
+   "learning": [
+    "pays",
+    "aller",
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je ne réponds pas, mais je sais qu'elle a raison.",
+   "en": "I don't answer, but I know she's right.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'après-midi, nous allons sur la place du village pour acheter du pain.",
+   "en": "In the afternoon, we go to the village square to buy bread.",
+   "learning": [
+    "aller",
+    "place"
+   ],
+   "unknown": [
+    "pain"
+   ],
+   "unknown_surface": [
+    "pain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde la connaît, et tout le monde veut me parler.",
+   "en": "Everyone knows her, and everyone wants to talk to me.",
+   "learning": [
+    "monde",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "En une heure, je deviens « le petit de Louise » pour tout le village.",
+   "en": "In one hour, I become \"Louise's little one\" for the whole village.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, dans le train du retour, je suis fatigué mais heureux.",
+   "en": "In the evening, on the train back, I'm tired but happy.",
+   "learning": [],
+   "unknown": [
+    "fatigué"
+   ],
+   "unknown_surface": [
+    "fatigué"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour moi, son petit village est le plus beau lieu du monde.",
+   "en": "For me, her little village is the most beautiful place in the world.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je décide de revenir dans deux semaines, et cette fois, avec un gâteau pour elle.",
+   "en": "I decide to come back in two weeks, and this time, with a cake for her.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "gâteau"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 27,
+  "echoed": 9,
+  "tts_chars": 2332,
+  "deck_source": "sqlite"
+ }
+}

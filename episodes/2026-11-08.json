@@ -1,0 +1,460 @@
+{
+ "date": "2026-11-08",
+ "title": "Un dîner presque parfait",
+ "summary": "Claire hosts her first dinner in her new flat, and between a burnt chicken and a dropped cake, everything goes slightly wrong, yet everyone has a great evening.",
+ "theme": "a dinner that goes slightly wrong",
+ "mp3": "2026-11-08.mp3",
+ "published": "2026-11-08T04:01:22-07:00",
+ "duration": 199,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi soir, Claire a demandé à quatre amis de venir manger chez elle.",
+   "en": "On Saturday evening, Claire asked four friends to come and eat at her place.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est son premier dîner dans son nouvel appartement, et elle veut faire bonne impression.",
+   "en": "It's her first dinner in her new flat, and she wants to make a good impression.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "dîner",
+    "appartement"
+   ],
+   "unknown_surface": [
+    "dîner",
+    "appartement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'appartement est petit, mais la situation est parfaite, avec une belle vue sur la place du quartier.",
+   "en": "The flat is small, but the location is perfect, with a lovely view of the neighbourhood square.",
+   "learning": [
+    "situation",
+    "vue",
+    "place"
+   ],
+   "unknown": [
+    "appartement"
+   ],
+   "unknown_surface": [
+    "appartement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour l'occasion, elle a choisi un plat d'un autre pays : un poulet à la marocaine.",
+   "en": "For the occasion, she chose a dish from another country: Moroccan-style chicken.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [
+    "plat",
+    "poulet",
+    "marocain"
+   ],
+   "unknown_surface": [
+    "plat",
+    "poulet",
+    "marocaine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a vu la recette dans une vidéo, et ça semble très simple.",
+   "en": "She saw the recipe in a video, and it looks very simple.",
+   "learning": [],
+   "unknown": [
+    "recette"
+   ],
+   "unknown_surface": [
+    "recette"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Bien sûr, rien ne se passe comme dans la vidéo.",
+   "en": "Of course, nothing goes like in the video.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, il n'y a pas assez de place autour de la table pour cinq personnes.",
+   "en": "First, there isn't enough space around the table for five people.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul reste sur une vieille chaise de jardin, mais il dit que c'est parfait.",
+   "en": "Paul ends up on an old garden chair, but he says it's perfect.",
+   "learning": [],
+   "unknown": [
+    "chaise",
+    "jardin"
+   ],
+   "unknown_surface": [
+    "chaise",
+    "jardin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, Claire découvre qu'elle n'a plus de sel.",
+   "en": "Then Claire discovers she has no salt left.",
+   "learning": [],
+   "unknown": [
+    "sel"
+   ],
+   "unknown_surface": [
+    "sel"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle n'a pas besoin de chercher longtemps : la voisine lui en donne avec plaisir.",
+   "en": "She doesn't need to look for long: the neighbour gladly gives her some.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "voisiner"
+   ],
+   "unknown_surface": [
+    "voisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais pendant ce temps, le poulet reste trop longtemps dans le four.",
+   "en": "But meanwhile, the chicken stays in the oven too long.",
+   "learning": [
+    "temps",
+    "trop"
+   ],
+   "unknown": [
+    "poulet",
+    "four"
+   ],
+   "unknown_surface": [
+    "poulet",
+    "four"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Quand elle revient, il y a de la fumée partout dans la maison.",
+   "en": "When she comes back, there's smoke everywhere in the place.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [
+    "fumée"
+   ],
+   "unknown_surface": [
+    "fumée"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde ouvre les fenêtres en riant.",
+   "en": "Everyone opens the windows, laughing.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "fenêtre",
+    "riant"
+   ],
+   "unknown_surface": [
+    "fenêtres",
+    "riant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc, qui est avocat, dit qu'il existe sûrement une loi contre ce genre de cuisine.",
+   "en": "Marc, who is a lawyer, says there must be a law against this kind of cooking.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [
+    "marc",
+    "sûrement",
+    "cuisine"
+   ],
+   "unknown_surface": [
+    "Marc",
+    "sûrement",
+    "cuisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire répond que ce n'est pas drôle, mais elle commence à rire aussi.",
+   "en": "Claire replies that it's not funny, but she starts laughing too.",
+   "learning": [],
+   "unknown": [
+    "rire"
+   ],
+   "unknown_surface": [
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le poulet est noir d'un côté, mais l'autre côté est encore bon.",
+   "en": "The chicken is black on one side, but the other side is still good.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "poulet"
+   ],
+   "unknown_surface": [
+    "poulet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est un effet spécial, explique Claire, c'est la mode dans ce pays. »",
+   "en": "\"It's a special effect,\" Claire explains, \"it's the fashion in that country.\"",
+   "learning": [
+    "effet",
+    "pays"
+   ],
+   "unknown": [
+    "spécial"
+   ],
+   "unknown_surface": [
+    "spécial"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Personne ne la croit, mais tout le monde mange avec plaisir.",
+   "en": "Nobody believes her, but everyone eats happily.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sophie veut connaître la vraie cause du problème : le four, ou la vidéo ?",
+   "en": "Sophie wants to know the real cause of the problem: the oven, or the video?",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "four"
+   ],
+   "unknown_surface": [
+    "four"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ma vue n'est pas très bonne, dit Paul, donc pour moi, tout est parfait. »",
+   "en": "\"My eyesight isn't very good,\" says Paul, \"so for me, everything is perfect.\"",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour le dessert, Claire a acheté un gâteau très cher à la boulangerie.",
+   "en": "For dessert, Claire bought a very expensive cake at the bakery.",
+   "learning": [],
+   "unknown": [
+    "dessert",
+    "gâteau",
+    "boulangerie"
+   ],
+   "unknown_surface": [
+    "dessert",
+    "gâteau",
+    "boulangerie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a payé un prix fou, mais au moins, il n'est pas brûlé.",
+   "en": "She paid a crazy price, but at least it isn't burnt.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "brûlé"
+   ],
+   "unknown_surface": [
+    "brûlé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais en le portant à table, elle laisse tomber la boîte.",
+   "en": "But while carrying it to the table, she drops the box.",
+   "learning": [],
+   "unknown": [
+    "boîte"
+   ],
+   "unknown_surface": [
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il y a un moment de silence total.",
+   "en": "There's a moment of total silence.",
+   "learning": [],
+   "unknown": [
+    "silence"
+   ],
+   "unknown_surface": [
+    "silence"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Heureusement, le gâteau est encore dans la boîte, juste un peu écrasé.",
+   "en": "Luckily, the cake is still in the box, just a little squashed.",
+   "learning": [
+    "encore",
+    "peu"
+   ],
+   "unknown": [
+    "heureusement",
+    "gâteau",
+    "boîte",
+    "écrasé"
+   ],
+   "unknown_surface": [
+    "Heureusement",
+    "gâteau",
+    "boîte",
+    "écrasé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils le mangent ensemble, directement dans la boîte, avec cinq cuillères.",
+   "en": "They eat it together, straight from the box, with five spoons.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "boîte",
+    "cuillère"
+   ],
+   "unknown_surface": [
+    "boîte",
+    "cuillères"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est le meilleur dîner du monde ! » dit Sophie.",
+   "en": "\"It's the best dinner in the world!\" says Sophie.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "dîner"
+   ],
+   "unknown_surface": [
+    "dîner"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire rit : la prochaine fois, elle va commander des pizzas.",
+   "en": "Claire laughs: next time, she's going to order pizzas.",
+   "learning": [
+    "fois",
+    "aller"
+   ],
+   "unknown": [
+    "rit",
+    "commander",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "rit",
+    "commander",
+    "pizzas"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 28,
+  "echoed": 23,
+  "tts_chars": 3346,
+  "deck_source": "sqlite"
+ }
+}

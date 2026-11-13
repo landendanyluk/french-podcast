@@ -1,0 +1,359 @@
+{
+ "date": "2026-11-11",
+ "title": "Le téléphone de Claire",
+ "summary": "On a busy Saturday morning, Claire searches the whole house for her lost phone, which holds her train ticket, and finally finds it in the dog's bed.",
+ "theme": "a lost object found in an unexpected place",
+ "mp3": "2026-11-11.mp3",
+ "published": "2026-11-11T04:01:13-07:00",
+ "duration": 129,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Claire a visité plus de vingt pays sans jamais rien perdre.",
+   "en": "Claire has visited more than twenty countries without ever losing anything.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais chez elle, c'est une autre histoire.",
+   "en": "But at home, it's a different story.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce samedi matin, elle cherche son téléphone partout dans la maison.",
+   "en": "This Saturday morning, she is looking for her phone all over the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a vraiment besoin de son téléphone, parce que son billet de train est dedans.",
+   "en": "She really needs her phone, because her train ticket is on it.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "billet"
+   ],
+   "unknown_surface": [
+    "billet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le train part à dix heures pour Lyon, et elle a payé sa place un prix fou.",
+   "en": "The train leaves at ten for Lyon, and she paid a crazy price for her seat.",
+   "learning": [
+    "place",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle appelle son mari, Paul, qui lit tranquillement le journal.",
+   "en": "She calls her husband, Paul, who is quietly reading the newspaper.",
+   "learning": [],
+   "unknown": [
+    "mari",
+    "tranquillement"
+   ],
+   "unknown_surface": [
+    "mari",
+    "tranquillement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Paul, tu as vu mon téléphone ? »",
+   "en": "\"Paul, have you seen my phone?\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Non, mais on va chercher ensemble », répond-il, toujours derrière son journal.",
+   "en": "\"No, but we'll look together,\" he answers, still behind his newspaper.",
+   "learning": [
+    "aller",
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils cherchent d'abord dans la chambre, puis dans la voiture, puis devant la maison.",
+   "en": "They look first in the bedroom, then in the car, then in front of the house.",
+   "learning": [
+    "chambre",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rien.",
+   "en": "Nothing.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul essaie d'appeler son numéro, mais Claire a coupé le son hier soir.",
+   "en": "Paul tries to call her number, but Claire turned off the sound last night.",
+   "learning": [],
+   "unknown": [
+    "coupé"
+   ],
+   "unknown_surface": [
+    "coupé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est la loi de Murphy, dit Paul, on perd toujours les choses au pire moment. »",
+   "en": "\"It's Murphy's law,\" says Paul, \"you always lose things at the worst moment.\"",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire ne trouve pas ça drôle du tout.",
+   "en": "Claire doesn't find that funny at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le stress a un drôle d'effet sur elle : elle commence à parler toute seule.",
+   "en": "Stress has a strange effect on her: she starts talking to herself.",
+   "learning": [
+    "effet",
+    "parler",
+    "seul"
+   ],
+   "unknown": [
+    "stress"
+   ],
+   "unknown_surface": [
+    "stress"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle pense à la situation : pas de téléphone, pas de billet, et sa mère qui l'attend à Lyon.",
+   "en": "She thinks about the situation: no phone, no ticket, and her mother waiting for her in Lyon.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "billet"
+   ],
+   "unknown_surface": [
+    "billet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour elle, c'est presque la fin du monde.",
+   "en": "For her, it's almost the end of the world.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À ce moment, Max, leur vieux chien, passe devant eux avec un air très calme.",
+   "en": "At that moment, Max, their old dog, walks past them looking very calm.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Trop calme, pense Claire.",
+   "en": "Too calm, Claire thinks.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle suit le chien jusqu'à son lit, près de la porte.",
+   "en": "She follows the dog to his bed, near the door.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et là, sous une vieille chaussette, elle voit son téléphone !",
+   "en": "And there, under an old sock, she sees her phone!",
+   "learning": [],
+   "unknown": [
+    "chaussette"
+   ],
+   "unknown_surface": [
+    "chaussette"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est la première fois qu'elle est aussi heureuse de voir ce chien.",
+   "en": "It's the first time she's been so happy to see this dog.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul comprend vite la cause du problème.",
+   "en": "Paul quickly understands the cause of the problem.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Max adore dormir avec les objets de Claire, surtout quand elle n'est pas là.",
+   "en": "Max loves sleeping with Claire's things, especially when she isn't there.",
+   "learning": [
+    "surtout"
+   ],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dormir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire arrive au train juste à temps.",
+   "en": "Claire gets to the train just in time.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle trouve sa place, avec une belle vue sur la campagne.",
+   "en": "She finds her seat, with a beautiful view of the countryside.",
+   "learning": [
+    "place",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle envoie un message à Paul : « Merci pour ton aide, et dis merci à Max aussi. »",
+   "en": "She sends Paul a message: \"Thanks for your help, and say thank you to Max too.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul répond : « Max dit de rien, mais la prochaine fois, il veut aussi ta carte bleue. »",
+   "en": "Paul replies: \"Max says you're welcome, but next time he wants your bank card too.\"",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "bleu"
+   ],
+   "unknown_surface": [
+    "bleue"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 27,
+  "echoed": 8,
+  "tts_chars": 2261,
+  "deck_source": "sqlite"
+ }
+}

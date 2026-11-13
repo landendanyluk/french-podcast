@@ -1,0 +1,439 @@
+{
+ "date": "2026-11-04",
+ "title": "Le trésor de Gaston",
+ "summary": "Claire loses her brand-new phone, searches the whole house, and finally finds it hidden in her dog's bed along with a sock and a piece of bread.",
+ "theme": "a lost object found in an unexpected place",
+ "mp3": "2026-11-04.mp3",
+ "published": "2026-11-04T06:01:13-05:00",
+ "duration": 170,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Claire cherche son téléphone partout dans la maison.",
+   "en": "On Saturday morning, Claire is looking for her phone all over the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a besoin de lui pour appeler sa mère, qui habite dans un autre pays.",
+   "en": "She needs it to call her mother, who lives in another country.",
+   "learning": [
+    "besoin",
+    "pays"
+   ],
+   "unknown": [
+    "habiter"
+   ],
+   "unknown_surface": [
+    "habite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle regarde sur la table, sous le lit et derrière la porte.",
+   "en": "She looks on the table, under the bed and behind the door.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rien, pas de téléphone.",
+   "en": "Nothing, no phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son mari, Paul, arrive avec un café à la main.",
+   "en": "Her husband, Paul, comes in with a coffee in his hand.",
+   "learning": [],
+   "unknown": [
+    "mari",
+    "café"
+   ],
+   "unknown_surface": [
+    "mari",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu l'as peut-être laissé au marché, sur la place ? » demande-t-il.",
+   "en": "\"Maybe you left it at the market, on the square?\" he asks.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire n'est pas sûre, mais elle a une mauvaise impression.",
+   "en": "Claire isn't sure, but she has a bad feeling.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce téléphone est tout neuf, et elle connaît très bien son prix.",
+   "en": "This phone is brand new, and she knows its price very well.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul essaie de l'appeler avec son propre téléphone.",
+   "en": "Paul tries to call it with his own phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils écoutent ensemble, sans dire un mot.",
+   "en": "They listen together, without saying a word.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "écouter"
+   ],
+   "unknown_surface": [
+    "écoutent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au début, ils n'entendent rien du tout.",
+   "en": "At first, they hear nothing at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis une petite musique arrive, très faible, du côté de l'entrée.",
+   "en": "Then a little tune comes, very faint, from the direction of the entrance.",
+   "learning": [
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire et Paul suivent la musique comme la police dans un film.",
+   "en": "Claire and Paul follow the music like the police in a movie.",
+   "learning": [
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle les conduit jusqu'au lit de Gaston, leur chien.",
+   "en": "It leads them all the way to the bed of Gaston, their dog.",
+   "learning": [],
+   "unknown": [
+    "conduire"
+   ],
+   "unknown_surface": [
+    "conduit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Gaston dort, la tête posée sur une vieille couverture.",
+   "en": "Gaston is sleeping, his head resting on an old blanket.",
+   "learning": [],
+   "unknown": [
+    "dormir",
+    "couverture"
+   ],
+   "unknown_surface": [
+    "dort",
+    "couverture"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sous la couverture, il y a le téléphone, une chaussette de Paul et un morceau de pain.",
+   "en": "Under the blanket there's the phone, one of Paul's socks and a piece of bread.",
+   "learning": [],
+   "unknown": [
+    "couverture",
+    "chaussette",
+    "morceau",
+    "pain"
+   ],
+   "unknown_surface": [
+    "couverture",
+    "chaussette",
+    "morceau",
+    "pain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Voilà donc la cause de tous nos problèmes ! » dit Paul en riant.",
+   "en": "\"So here's the cause of all our problems!\" Paul says, laughing.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "riant"
+   ],
+   "unknown_surface": [
+    "riant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire ne sait pas si elle doit être en colère ou rire.",
+   "en": "Claire doesn't know whether she should be angry or laugh.",
+   "learning": [],
+   "unknown": [
+    "colère",
+    "rire"
+   ],
+   "unknown_surface": [
+    "colère",
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Gaston ouvre un œil, regarde ses maîtres et ne bouge pas.",
+   "en": "Gaston opens one eye, looks at his owners and doesn't move.",
+   "learning": [],
+   "unknown": [
+    "bouge"
+   ],
+   "unknown_surface": [
+    "bouge"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour lui, la situation est simple : tout ce qui tombe par terre est à lui.",
+   "en": "For him, the situation is simple: everything that falls on the floor is his.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« C'est la loi du chien », explique Paul, très sérieux.",
+   "en": "\"It's dog law,\" Paul explains, very seriously.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire reprend son téléphone, un peu mouillé, mais il marche encore.",
+   "en": "Claire takes back her phone, a little wet, but it still works.",
+   "learning": [
+    "peu",
+    "encore"
+   ],
+   "unknown": [
+    "reprendre",
+    "mouillé"
+   ],
+   "unknown_surface": [
+    "reprend",
+    "mouillé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le premier message est de sa mère : « Tu ne réponds jamais, tout va bien ? »",
+   "en": "The first message is from her mother: \"You never answer, is everything okay?\"",
+   "learning": [
+    "premier",
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire l'appelle enfin et lui raconte toute l'histoire.",
+   "en": "Claire finally calls her and tells her the whole story.",
+   "learning": [],
+   "unknown": [
+    "raconter"
+   ],
+   "unknown_surface": [
+    "raconte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sa mère rit tellement qu'elle doit s'asseoir.",
+   "en": "Her mother laughs so much that she has to sit down.",
+   "learning": [],
+   "unknown": [
+    "rit",
+    "asseoir"
+   ],
+   "unknown_surface": [
+    "rit",
+    "asseoir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ton chien a plus de goût que tout le monde, il aime les choses chères ! »",
+   "en": "\"Your dog has better taste than anyone, he likes expensive things!\"",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "chère"
+   ],
+   "unknown_surface": [
+    "chères"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après l'appel, Claire cherche une nouvelle place pour son téléphone, loin du sol.",
+   "en": "After the call, Claire looks for a new spot for her phone, far from the floor.",
+   "learning": [
+    "place",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle le met tout en haut, avec une belle vue sur toute la maison.",
+   "en": "She puts it way up high, with a nice view over the whole house.",
+   "learning": [
+    "vue",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais cette histoire a aussi un drôle d'effet sur Paul.",
+   "en": "But this story also has a funny effect on Paul.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, il regarde Gaston comme un vrai détective.",
+   "en": "In the evening, he looks at Gaston like a real detective.",
+   "learning": [],
+   "unknown": [
+    "détective"
+   ],
+   "unknown_surface": [
+    "détective"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Maintenant, quand je perds quelque chose, je sais où chercher ! »",
+   "en": "\"Now, when I lose something, I know where to look!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Gaston, lui, dort déjà, la tête sur la chaussette de Paul.",
+   "en": "Gaston, for his part, is already asleep, his head on Paul's sock.",
+   "learning": [],
+   "unknown": [
+    "dormir",
+    "chaussette"
+   ],
+   "unknown_surface": [
+    "dort",
+    "chaussette"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 32,
+  "echoed": 15,
+  "tts_chars": 2841,
+  "deck_source": "sqlite"
+ }
+}

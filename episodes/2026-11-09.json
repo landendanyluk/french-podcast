@@ -1,0 +1,431 @@
+{
+ "date": "2026-11-09",
+ "title": "Un dîner presque parfait",
+ "summary": "Claire invites her new Canadian neighbours to dinner, and although the oven breaks, the rain starts and the cake falls on the floor, the evening ends up being a great success.",
+ "theme": "a dinner that goes slightly wrong",
+ "mp3": "2026-11-09.mp3",
+ "published": "2026-11-09T04:01:16-07:00",
+ "duration": 178,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi soir, Claire a invité ses nouveaux voisins à dîner chez elle pour la première fois.",
+   "en": "On Saturday evening, Claire invited her new neighbours to dinner at her place for the first time.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [
+    "invité",
+    "voisin",
+    "dîner"
+   ],
+   "unknown_surface": [
+    "invité",
+    "voisins",
+    "dîner"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils viennent d'un autre pays, du Canada, et ils parlent un français très drôle.",
+   "en": "They come from another country, Canada, and they speak a very funny kind of French.",
+   "learning": [
+    "pays",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire veut faire un bon repas, avec un poulet et un gâteau au chocolat.",
+   "en": "Claire wants to make a nice meal, with a chicken and a chocolate cake.",
+   "learning": [],
+   "unknown": [
+    "repas",
+    "poulet",
+    "gâteau",
+    "chocolat"
+   ],
+   "unknown_surface": [
+    "repas",
+    "poulet",
+    "gâteau",
+    "chocolat"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a tout acheté au marché, malgré le prix.",
+   "en": "She bought everything at the market, despite the price.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son mari, Paul, a mis la table dehors, pour la belle vue sur la place du village.",
+   "en": "Her husband, Paul, set the table outside, for the lovely view of the village square.",
+   "learning": [
+    "vue",
+    "place"
+   ],
+   "unknown": [
+    "mari"
+   ],
+   "unknown_surface": [
+    "mari"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À sept heures, tout le monde est arrivé, et le premier problème a commencé.",
+   "en": "At seven o'clock, everyone arrived, and the first problem began.",
+   "learning": [
+    "monde",
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le four ne marche plus !",
+   "en": "The oven doesn't work anymore!",
+   "learning": [],
+   "unknown": [
+    "four"
+   ],
+   "unknown_surface": [
+    "four"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul a cherché la cause pendant vingt minutes, la tête dans le four.",
+   "en": "Paul looked for the cause for twenty minutes, with his head in the oven.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "four"
+   ],
+   "unknown_surface": [
+    "four"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le voisin a voulu aider, mais il ne connaît rien en technique.",
+   "en": "The neighbour wanted to help, but he knows nothing about technical things.",
+   "learning": [],
+   "unknown": [
+    "voisin"
+   ],
+   "unknown_surface": [
+    "voisin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est la loi de Murphy », a-t-il dit.",
+   "en": "\"It's Murphy's law,\" he said.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire n'a pas trouvé ça drôle du tout.",
+   "en": "Claire didn't find that funny at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a coupé le poulet en petits morceaux pour le faire sur le feu.",
+   "en": "She cut the chicken into small pieces to cook it on the stove.",
+   "learning": [],
+   "unknown": [
+    "coupé",
+    "poulet",
+    "morceau"
+   ],
+   "unknown_surface": [
+    "coupé",
+    "poulet",
+    "morceaux"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pendant ce temps, il a commencé à pleuvoir.",
+   "en": "Meanwhile, it started to rain.",
+   "learning": [
+    "temps"
+   ],
+   "unknown": [
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "pleuvoir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde est vite rentré dans la maison avec les verres et les assiettes.",
+   "en": "Everyone quickly went back into the house with the glasses and plates.",
+   "learning": [
+    "monde",
+    "maison"
+   ],
+   "unknown": [
+    "rentrer",
+    "verre",
+    "assiette"
+   ],
+   "unknown_surface": [
+    "rentré",
+    "verres",
+    "assiettes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais dans leur petit salon, il n'y a pas beaucoup de place.",
+   "en": "But in their little living room, there isn't much space.",
+   "learning": [
+    "beaucoup",
+    "place"
+   ],
+   "unknown": [
+    "salon"
+   ],
+   "unknown_surface": [
+    "salon"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Alors ils ont mangé ensemble sur le canapé, les assiettes sur les genoux.",
+   "en": "So they ate together on the sofa, with their plates on their knees.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "canapé",
+    "assiette",
+    "genou"
+   ],
+   "unknown_surface": [
+    "canapé",
+    "assiettes",
+    "genoux"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le poulet était un peu noir, mais personne n'a rien dit.",
+   "en": "The chicken was a bit black, but nobody said anything.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "poulet"
+   ],
+   "unknown_surface": [
+    "poulet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, Paul a voulu apporter le gâteau, mais il est tombé devant tout le monde.",
+   "en": "Then Paul wanted to bring in the cake, but it fell in front of everyone.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "apporter",
+    "gâteau"
+   ],
+   "unknown_surface": [
+    "apporter",
+    "gâteau"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire a regardé la situation : pas de four, pas de table, pas de dessert.",
+   "en": "Claire looked at the situation: no oven, no table, no dessert.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "four",
+    "dessert"
+   ],
+   "unknown_surface": [
+    "four",
+    "dessert"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle avait vraiment besoin d'un grand verre de vin.",
+   "en": "She really needed a big glass of wine.",
+   "learning": [
+    "besoin",
+    "grand"
+   ],
+   "unknown": [
+    "verre",
+    "vin"
+   ],
+   "unknown_surface": [
+    "verre",
+    "vin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Alors la voisine a dit : « Chez nous, les meilleures soirées commencent exactement comme ça ! »",
+   "en": "Then the neighbour said: \"Back home, the best evenings start exactly like this!\"",
+   "learning": [],
+   "unknown": [
+    "voisiner"
+   ],
+   "unknown_surface": [
+    "voisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ses mots ont eu un effet immédiat : Claire a enfin commencé à rire.",
+   "en": "Her words had an immediate effect: Claire finally started to laugh.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "immédiat",
+    "rire"
+   ],
+   "unknown_surface": [
+    "immédiat",
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils ont mangé le reste du gâteau avec les mains, assis par terre.",
+   "en": "They ate the rest of the cake with their hands, sitting on the floor.",
+   "learning": [],
+   "unknown": [
+    "gâteau",
+    "assis"
+   ],
+   "unknown_surface": [
+    "gâteau",
+    "assis"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À minuit, les voisins sont partis et ont dit : « Merci, c'est notre meilleure soirée en France ! »",
+   "en": "At midnight, the neighbours left and said: \"Thank you, it's our best evening in France!\"",
+   "learning": [],
+   "unknown": [
+    "minuit",
+    "voisin"
+   ],
+   "unknown_surface": [
+    "minuit",
+    "voisins"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le mois prochain, c'est chez eux.",
+   "en": "Next month, it's at their place.",
+   "learning": [
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et Claire espère vraiment qu'ils ont un bon four.",
+   "en": "And Claire really hopes they have a good oven.",
+   "learning": [],
+   "unknown": [
+    "four"
+   ],
+   "unknown_surface": [
+    "four"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 26,
+  "echoed": 20,
+  "tts_chars": 3000,
+  "deck_source": "sqlite"
+ }
+}

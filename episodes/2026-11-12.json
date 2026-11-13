@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-12",
+ "title": "Le voleur à quatre pattes",
+ "summary": "Julien desperately searches for his phone the day before a trip abroad and finally discovers it hidden under his sleeping dog.",
+ "theme": "a lost object found in an unexpected place",
+ "mp3": "2026-11-12.mp3",
+ "published": "2026-11-12T04:01:14-07:00",
+ "duration": 154,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Julien cherche son téléphone partout dans la maison.",
+   "en": "On Saturday morning, Julien is looking for his phone all over the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a vraiment besoin de ce téléphone, parce qu'il part demain dans un autre pays.",
+   "en": "He really needs that phone, because he is leaving tomorrow for another country.",
+   "learning": [
+    "besoin",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son billet d'avion est dedans, et le prix de ce billet était très cher.",
+   "en": "His plane ticket is on it, and the price of that ticket was very high.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "billet"
+   ],
+   "unknown_surface": [
+    "billet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il regarde sous le lit, derrière la table, et même dans la voiture.",
+   "en": "He looks under the bed, behind the table, and even in the car.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rien, pas de téléphone.",
+   "en": "Nothing, no phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sa femme, Claire, le regarde depuis la porte.",
+   "en": "His wife, Claire, watches him from the doorway.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Tu as encore perdu quelque chose ? » demande-t-elle.",
+   "en": "\"Did you lose something again?\" she asks.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Ce n'est pas drôle, la situation est grave ! » répond Julien.",
+   "en": "\"It's not funny, this is serious!\" Julien answers.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire dit qu'il existe une loi simple dans cette maison : on trouve toujours les choses au dernier endroit.",
+   "en": "Claire says there is a simple law in this house: you always find things in the last place you look.",
+   "learning": [
+    "loi",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Merci, ça m'aide beaucoup », dit Julien.",
+   "en": "\"Thanks, that helps a lot,\" says Julien.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, ils décident de chercher ensemble.",
+   "en": "In the end, they decide to look together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire a une bonne idée : elle appelle le numéro de Julien avec son propre téléphone.",
+   "en": "Claire has a good idea: she calls Julien's number with her own phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils entendent une petite musique, mais très loin.",
+   "en": "They hear a little tune, but very far away.",
+   "learning": [
+    "musique",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils vont d'une pièce à l'autre, puis dehors, puis encore dedans.",
+   "en": "They go from one room to another, then outside, then back inside.",
+   "learning": [
+    "aller",
+    "encore"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La musique vient du lit du chien, près de la porte.",
+   "en": "The music is coming from the dog's bed, near the door.",
+   "learning": [
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rex, leur gros chien, dort là, très calme.",
+   "en": "Rex, their big dog, is sleeping there, very calm.",
+   "learning": [],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julien le pousse un peu, et voilà : le téléphone est sous le chien !",
+   "en": "Julien nudges him a bit, and there it is: the phone is under the dog!",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "pousser"
+   ],
+   "unknown_surface": [
+    "pousse"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il est chaud et un peu mouillé, mais il marche encore.",
+   "en": "It is warm and a bit wet, but it still works.",
+   "learning": [
+    "peu",
+    "encore"
+   ],
+   "unknown": [
+    "chaud",
+    "mouillé"
+   ],
+   "unknown_surface": [
+    "chaud",
+    "mouillé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire commence à rire : « Je crois qu'on a trouvé la cause du problème. »",
+   "en": "Claire starts laughing: \"I think we've found the cause of the problem.\"",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "rire"
+   ],
+   "unknown_surface": [
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Rex adore Julien, et le téléphone a l'odeur de son maître.",
+   "en": "Rex adores Julien, and the phone smells like his master.",
+   "learning": [],
+   "unknown": [
+    "odeur"
+   ],
+   "unknown_surface": [
+    "odeur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour lui, c'est un peu comme dormir avec son meilleur ami.",
+   "en": "For him, it's a bit like sleeping with his best friend.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dormir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'effet est très mignon, mais Julien n'a pas envie de rire.",
+   "en": "The effect is very cute, but Julien doesn't feel like laughing.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "mignon",
+    "rire"
+   ],
+   "unknown_surface": [
+    "mignon",
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "De son point de vue, ce n'est pas de l'amour, c'est un vol !",
+   "en": "From his point of view, it isn't love, it's theft!",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le lendemain, Julien trouve sa place dans l'avion.",
+   "en": "The next day, Julien finds his seat on the plane.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est la première fois qu'il part en voyage sans avoir peur d'oublier quelque chose.",
+   "en": "It's the first time he has gone on a trip without being afraid of forgetting something.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il pense à Rex, seul à la maison, sans son nouveau jouet.",
+   "en": "He thinks about Rex, alone at home, without his new toy.",
+   "learning": [
+    "seul",
+    "maison"
+   ],
+   "unknown": [
+    "jouet"
+   ],
+   "unknown_surface": [
+    "jouet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il envoie un message à Claire : « Donne à Rex un vieux pull à moi, s'il te plaît. »",
+   "en": "He sends Claire a message: \"Give Rex one of my old sweaters, please.\"",
+   "learning": [],
+   "unknown": [
+    "pull",
+    "plaire"
+   ],
+   "unknown_surface": [
+    "pull",
+    "plaît"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire répond avec une photo : Rex dort déjà, heureux, sur le pull.",
+   "en": "Claire replies with a photo: Rex is already asleep, happy, on the sweater.",
+   "learning": [],
+   "unknown": [
+    "dormir",
+    "pull"
+   ],
+   "unknown_surface": [
+    "dort",
+    "pull"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julien sourit, parce que pour son chien, il est le centre du monde.",
+   "en": "Julien smiles, because to his dog, he is the center of the world.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourit"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 12,
+  "tts_chars": 2589,
+  "deck_source": "sqlite"
+ }
+}

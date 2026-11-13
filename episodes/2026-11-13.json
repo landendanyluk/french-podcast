@@ -1,0 +1,385 @@
+{
+ "date": "2026-11-13",
+ "title": "L'ascenseur en panne",
+ "summary": "When the elevator in her building breaks down, Claire and her neighbours take the stairs together and discover that the breakdown has an unexpectedly happy effect.",
+ "theme": "a broken elevator",
+ "mp3": "2026-11-13.mp3",
+ "published": "2026-11-13T04:01:16-07:00",
+ "duration": 169,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Lundi matin, Claire sort de chez elle très vite, comme toujours.",
+   "en": "On Monday morning, Claire leaves her place in a hurry, as always.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle habite tout en haut, avec une très belle vue sur la ville.",
+   "en": "She lives at the very top, with a beautiful view over the city.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "habiter"
+   ],
+   "unknown_surface": [
+    "habite"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais ce matin, sur la porte de l'ascenseur, il y a un petit papier : « En panne ».",
+   "en": "But this morning, on the elevator door, there's a little note: \"Out of order.\"",
+   "learning": [],
+   "unknown": [
+    "ascenseur",
+    "papier",
+    "panne"
+   ],
+   "unknown_surface": [
+    "ascenseur",
+    "papier",
+    "panne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire regarde le papier pendant une minute, sans rien dire.",
+   "en": "Claire stares at the note for a minute without saying anything.",
+   "learning": [],
+   "unknown": [
+    "papier"
+   ],
+   "unknown_surface": [
+    "papier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Puis elle entend une voix derrière elle : « Encore ! C'est la troisième fois ce mois ! »",
+   "en": "Then she hears a voice behind her: \"Again! That's the third time this month!\"",
+   "learning": [
+    "fois",
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est monsieur Lopez, son voisin, avec un gros sac de courses à la main.",
+   "en": "It's Mr. Lopez, her neighbour, with a big bag of groceries in his hand.",
+   "learning": [],
+   "unknown": [
+    "voisin",
+    "sac"
+   ],
+   "unknown_surface": [
+    "voisin",
+    "sac"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Quelle est la cause, cette fois ? » demande Claire.",
+   "en": "\"What's the reason this time?\" Claire asks.",
+   "learning": [
+    "cause",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Personne ne sait vraiment, mais il paraît qu'on a besoin d'une pièce qui vient d'un autre pays. »",
+   "en": "\"Nobody really knows, but apparently they need a part that comes from another country.\"",
+   "learning": [
+    "besoin",
+    "pays"
+   ],
+   "unknown": [
+    "paraître"
+   ],
+   "unknown_surface": [
+    "paraît"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Et le prix de cette pièce, c'est sûr que c'est nous qui allons le payer ! »",
+   "en": "\"And the price of that part, you can be sure we're the ones who'll pay it!\"",
+   "learning": [
+    "prix",
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Bientôt, tout le monde arrive devant la porte : une jeune femme, un vieux couple, un étudiant.",
+   "en": "Soon everyone shows up at the door: a young woman, an elderly couple, a student.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils décident de faire le chemin ensemble, parce que c'est plus drôle à plusieurs.",
+   "en": "They decide to make the trip together, because it's more fun as a group.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Monsieur Lopez parle sans arrêt : « Selon la loi, ils n'ont pas le droit de nous laisser comme ça ! »",
+   "en": "Mr. Lopez talks non-stop: \"By law, they have no right to leave us like this!\"",
+   "learning": [
+    "parler",
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le vieux monsieur répond qu'à son âge, avec sa mauvaise vue, chaque marche est un vrai sport.",
+   "en": "The old man replies that at his age, with his poor eyesight, every step is a real sport.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde rit, et la situation semble déjà moins grave.",
+   "en": "Everyone laughs, and the situation already seems less serious.",
+   "learning": [
+    "monde",
+    "situation"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au troisième, l'étudiant propose de porter le sac de monsieur Lopez.",
+   "en": "On the third floor, the student offers to carry Mr. Lopez's bag.",
+   "learning": [],
+   "unknown": [
+    "sac"
+   ],
+   "unknown_surface": [
+    "sac"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au premier, la jeune femme donne son numéro à Claire pour se retrouver un soir.",
+   "en": "On the first floor, the young woman gives Claire her number so they can meet up some evening.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "En bas, ils arrivent tous un peu rouges, mais heureux, comme une équipe après une victoire.",
+   "en": "At the bottom, they all arrive a little red in the face but happy, like a team after a win.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, quand Claire revient du travail, le papier est toujours sur la porte.",
+   "en": "In the evening, when Claire comes back from work, the note is still on the door.",
+   "learning": [],
+   "unknown": [
+    "papier"
+   ],
+   "unknown_surface": [
+    "papier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais devant l'entrée, il y a déjà du monde : ses voisins l'attendent.",
+   "en": "But in front of the entrance, there are already people: her neighbours are waiting for her.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "voisin"
+   ],
+   "unknown_surface": [
+    "voisins"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur les marches, il reste une place libre à côté de monsieur Lopez.",
+   "en": "On the steps, there's a free seat left next to Mr. Lopez.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a apporté à boire et à manger pour tout le groupe.",
+   "en": "He has brought food and drinks for the whole group.",
+   "learning": [],
+   "unknown": [
+    "apporter",
+    "boire"
+   ],
+   "unknown_surface": [
+    "apporté",
+    "boire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« On fait la route ensemble ? » demande-t-il avec un grand sourire.",
+   "en": "\"Shall we make the trip together?\" he asks with a big smile.",
+   "learning": [
+    "ensemble",
+    "grand"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Une semaine plus tard, l'ascenseur marche de nouveau.",
+   "en": "A week later, the elevator works again.",
+   "learning": [],
+   "unknown": [
+    "ascenseur"
+   ],
+   "unknown_surface": [
+    "ascenseur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais l'effet est bizarre : plus personne ne veut le prendre.",
+   "en": "But the effect is strange: nobody wants to take it anymore.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "bizarre"
+   ],
+   "unknown_surface": [
+    "bizarre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Maintenant, chaque matin, ils partent ensemble à pied et parlent de tout et de rien.",
+   "en": "Now, every morning, they set off together on foot and chat about everything and nothing.",
+   "learning": [
+    "partir",
+    "ensemble",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour monsieur Lopez, cette panne, c'est le meilleur prix qu'il a jamais gagné.",
+   "en": "For Mr. Lopez, this breakdown is the best prize he has ever won.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "panne"
+   ],
+   "unknown_surface": [
+    "panne"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 26,
+  "echoed": 14,
+  "tts_chars": 2911,
+  "deck_source": "sqlite"
+ }
+}
