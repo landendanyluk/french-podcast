@@ -1,0 +1,462 @@
+{
+ "date": "2026-11-10",
+ "title": "Le train de nuit",
+ "summary": "On her first night train to the Alps, Claire shares a cramped compartment with a cheerful old man who snores all night, but the morning view makes it all worth it.",
+ "theme": "a night train to the mountains",
+ "mp3": "2026-11-10.mp3",
+ "published": "2026-11-10T09:01:49-07:00",
+ "duration": 184,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Vendredi soir, Claire prend le train de nuit pour les Alpes.",
+   "en": "On Friday evening, Claire takes the night train to the Alps.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est la première fois qu'elle voyage comme ça.",
+   "en": "It's the first time she's traveled like this.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le prix du billet est assez cher, mais elle a vraiment besoin de vacances.",
+   "en": "The ticket price is quite expensive, but she really needs a vacation.",
+   "learning": [
+    "prix",
+    "besoin"
+   ],
+   "unknown": [
+    "billet"
+   ],
+   "unknown_surface": [
+    "billet"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Dans sa petite chambre du train, il y a quatre lits et une seule table.",
+   "en": "In her little room on the train, there are four beds and just one table.",
+   "learning": [
+    "chambre",
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sa place est en haut, à droite.",
+   "en": "Her spot is up top, on the right.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "En face, un vieux monsieur lit le journal.",
+   "en": "Across from her, an old gentleman is reading the newspaper.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il s'appelle Michel et il fait ce voyage chaque hiver depuis vingt ans.",
+   "en": "His name is Michel and he has made this trip every winter for twenty years.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Vous allez voir, la vue au matin est magnifique », dit-il.",
+   "en": "\"You'll see, the view in the morning is magnificent,\" he says.",
+   "learning": [
+    "aller",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis deux jeunes Suisses arrivent avec des skis et beaucoup trop de sacs.",
+   "en": "Then two young Swiss guys arrive with skis and far too many bags.",
+   "learning": [
+    "beaucoup",
+    "trop"
+   ],
+   "unknown": [
+    "ski",
+    "sac"
+   ],
+   "unknown_surface": [
+    "skis",
+    "sacs"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il n'y a pas assez d'espace pour tout le monde.",
+   "en": "There isn't enough space for everyone.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Michel rit : « C'est toujours la même situation, c'est presque une loi de la nature. »",
+   "en": "Michel laughs: \"It's always the same situation, it's almost a law of nature.\"",
+   "learning": [
+    "situation",
+    "loi"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensemble, ils trouvent une solution et mettent les skis sous les lits.",
+   "en": "Together, they find a solution and put the skis under the beds.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "ski"
+   ],
+   "unknown_surface": [
+    "skis"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, Michel sort une bouteille de vin et du fromage.",
+   "en": "Then Michel pulls out a bottle of wine and some cheese.",
+   "learning": [],
+   "unknown": [
+    "bouteille",
+    "vin",
+    "fromage"
+   ],
+   "unknown_surface": [
+    "bouteille",
+    "vin",
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Dans ce pays, on ne part jamais à la montagne sans fromage », explique-t-il.",
+   "en": "\"In this country, you never go to the mountains without cheese,\" he explains.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [
+    "montagne",
+    "fromage"
+   ],
+   "unknown_surface": [
+    "montagne",
+    "fromage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les Suisses répondent que chez eux, c'est pareil.",
+   "en": "The Swiss guys reply that it's the same back home.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde parle, mange et rit jusqu'à minuit.",
+   "en": "Everyone talks, eats and laughs until midnight.",
+   "learning": [
+    "monde",
+    "parler"
+   ],
+   "unknown": [
+    "rit",
+    "minuit"
+   ],
+   "unknown_surface": [
+    "rit",
+    "minuit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le vin a un effet rapide sur Claire, et elle monte dans son lit.",
+   "en": "The wine has a quick effect on Claire, and she climbs into her bed.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "vin",
+    "monte"
+   ],
+   "unknown_surface": [
+    "vin",
+    "monte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais elle ne dort pas bien.",
+   "en": "But she doesn't sleep well.",
+   "learning": [],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La cause est simple : Michel ronfle comme un avion.",
+   "en": "The reason is simple: Michel snores like an airplane.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "ronfler"
+   ],
+   "unknown_surface": [
+    "ronfle"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les deux Suisses mettent leur tête sous la couverture.",
+   "en": "The two Swiss guys put their heads under the blanket.",
+   "learning": [],
+   "unknown": [
+    "couverture"
+   ],
+   "unknown_surface": [
+    "couverture"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Vers trois heures, le train s'arrête longtemps dans une petite gare.",
+   "en": "Around three o'clock, the train stops for a long time at a small station.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "gare"
+   ],
+   "unknown_surface": [
+    "gare"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire regarde dehors, mais elle ne voit rien, seulement la nuit noire.",
+   "en": "Claire looks outside, but she sees nothing, only the dark night.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle pense à son travail, à Paris, à sa vie un peu trop rapide.",
+   "en": "She thinks about her job, about Paris, about her life that moves a bit too fast.",
+   "learning": [
+    "peu",
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, elle dort enfin.",
+   "en": "Finally, she falls asleep at last.",
+   "learning": [],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au matin, Michel la réveille doucement.",
+   "en": "In the morning, Michel gently wakes her up.",
+   "learning": [],
+   "unknown": [
+    "réveiller",
+    "doucement"
+   ],
+   "unknown_surface": [
+    "réveille",
+    "doucement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Regardez ! » dit-il.",
+   "en": "\"Look!\" he says.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dehors, le soleil se lève sur les montagnes blanches.",
+   "en": "Outside, the sun is rising over the white mountains.",
+   "learning": [],
+   "unknown": [
+    "lève",
+    "montagne"
+   ],
+   "unknown_surface": [
+    "lève",
+    "montagnes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire reste sans voix devant ce ciel rose et ces villages sous la neige.",
+   "en": "Claire is speechless before this pink sky and these villages under the snow.",
+   "learning": [],
+   "unknown": [
+    "rose",
+    "neige"
+   ],
+   "unknown_surface": [
+    "rose",
+    "neige"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Michel a raison : cette vue vaut tous les prix du monde.",
+   "en": "Michel is right: this view is worth every price in the world.",
+   "learning": [
+    "vue",
+    "prix",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis il lui demande : « Alors, vous avez bien dormi ? »",
+   "en": "Then he asks her: \"So, did you sleep well?\"",
+   "learning": [],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dormi"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire sourit : « Très bien, merci. Mais vous, vous avez dormi pour nous quatre ! »",
+   "en": "Claire smiles: \"Very well, thanks. But you slept for all four of us!\"",
+   "learning": [],
+   "unknown": [
+    "sourire",
+    "dormir"
+   ],
+   "unknown_surface": [
+    "sourit",
+    "dormi"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les Suisses rient si fort que tout le train les entend.",
+   "en": "The Swiss guys laugh so loudly that the whole train hears them.",
+   "learning": [],
+   "unknown": [
+    "rire"
+   ],
+   "unknown_surface": [
+    "rient"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 32,
+  "echoed": 19,
+  "tts_chars": 2974,
+  "deck_source": "sqlite"
+ }
+}

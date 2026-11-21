@@ -1,0 +1,378 @@
+{
+ "date": "2026-11-15",
+ "title": "Le téléphone de Marc",
+ "summary": "Marc loses his phone on a Saturday morning, finds it under his sleeping dog, and learns that his mother has won a prize and wants to take him on a trip.",
+ "theme": "a lost object found in an unexpected place",
+ "mp3": "2026-11-15.mp3",
+ "published": "2026-11-15T04:01:15-07:00",
+ "duration": 129,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Marc cherche son téléphone partout dans la maison.",
+   "en": "On Saturday morning, Marc looks for his phone all over the house.",
+   "learning": [
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il en a vraiment besoin, parce qu'il doit appeler sa mère à dix heures.",
+   "en": "He really needs it, because he has to call his mother at ten o'clock.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, il regarde sur la table, puis sous le lit, puis dans la chambre.",
+   "en": "First he looks on the table, then under the bed, then in the bedroom.",
+   "learning": [
+    "chambre"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Rien, pas de téléphone.",
+   "en": "Nothing, no phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sa femme, Julie, lui demande : « Tu l'as encore perdu ? C'est la troisième fois ce mois ! »",
+   "en": "His wife, Julie, asks him: \"You lost it again? That's the third time this month!\"",
+   "learning": [
+    "encore",
+    "fois",
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc répond que ce n'est pas sa faute, c'est la loi des objets.",
+   "en": "Marc answers that it's not his fault, it's the law of objects.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils partent toujours au moment où on en a besoin.",
+   "en": "They always disappear right when you need them.",
+   "learning": [
+    "partir",
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie rit et dit : « Bon, on cherche ensemble. »",
+   "en": "Julie laughs and says: \"Okay, let's look together.\"",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle appelle son numéro avec son téléphone à elle.",
+   "en": "She calls his number with her own phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils entendent une petite musique, mais très loin.",
+   "en": "They hear a little tune, but very far away.",
+   "learning": [
+    "musique",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc n'entend pas très bien, et sa vue n'est pas super non plus.",
+   "en": "Marc doesn't hear very well, and his eyesight isn't great either.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors Julie suit la musique vers la porte de derrière.",
+   "en": "So Julie follows the tune toward the back door.",
+   "learning": [
+    "musique"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Là, dans son petit lit, le chien Bruno dort comme un roi.",
+   "en": "There, in his little bed, Bruno the dog is sleeping like a king.",
+   "learning": [],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Et sous Bruno, il y a le téléphone de Marc, tout chaud.",
+   "en": "And under Bruno is Marc's phone, nice and warm.",
+   "learning": [],
+   "unknown": [
+    "chaud"
+   ],
+   "unknown_surface": [
+    "chaud"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc ne comprend pas la situation : comment son téléphone est arrivé là ?",
+   "en": "Marc doesn't understand the situation: how did his phone end up there?",
+   "learning": [
+    "situation",
+    "comment"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie trouve la cause en premier.",
+   "en": "Julie is the first to figure out the reason.",
+   "learning": [
+    "cause",
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Hier soir, Marc a regardé un match avec son téléphone dans une main et une pizza dans l'autre.",
+   "en": "Last night, Marc watched a match with his phone in one hand and a pizza in the other.",
+   "learning": [],
+   "unknown": [
+    "pizza"
+   ],
+   "unknown_surface": [
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Bruno a simplement pris le téléphone parce qu'il sentait encore la pizza.",
+   "en": "Bruno simply took the phone because it still smelled of pizza.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "sentir",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "sentait",
+    "pizza"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ce chien a des goûts de chef », dit Julie.",
+   "en": "\"This dog has the tastes of a chef,\" says Julie.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc regarde son téléphone : trois appels de sa mère et un message.",
+   "en": "Marc looks at his phone: three calls from his mother and a message.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« J'ai gagné le premier prix au concours de photo du village ! »",
+   "en": "\"I won first prize in the village photo contest!\"",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc rappelle sa mère tout de suite.",
+   "en": "Marc calls his mother back right away.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle est très heureuse et elle veut tout lui expliquer.",
+   "en": "She is very happy and wants to explain everything to him.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sa photo montre la vue depuis l'église, avec la place du village sous le soleil du soir.",
+   "en": "Her photo shows the view from the church, with the village square under the evening sun.",
+   "learning": [
+    "vue",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Avec ce prix, elle gagne un voyage dans un pays au choix.",
+   "en": "With this prize, she wins a trip to a country of her choice.",
+   "learning": [
+    "prix",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il y a une place pour une deuxième personne, et elle pense à son fils.",
+   "en": "There's a seat for a second person, and she's thinking of her son.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc regarde Julie, qui fait une drôle de tête.",
+   "en": "Marc looks at Julie, who is making a funny face.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Pas de problème, dit Julie, mais tu laisses ton téléphone à Bruno. »",
+   "en": "\"No problem,\" says Julie, \"but you leave your phone with Bruno.\"",
+   "learning": [],
+   "unknown": [
+    "laisse"
+   ],
+   "unknown_surface": [
+    "laisses"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde rit, même le chien, qui semble très heureux de son effet.",
+   "en": "Everyone laughs, even the dog, who seems very pleased with the effect he's had.",
+   "learning": [
+    "monde",
+    "effet"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 7,
+  "tts_chars": 2251,
+  "deck_source": "sqlite"
+ }
+}

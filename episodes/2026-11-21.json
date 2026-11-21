@@ -1,0 +1,435 @@
+{
+ "date": "2026-11-21",
+ "title": "Les croissants du vendredi",
+ "summary": "On her first day at a travel agency in Lyon, Camille is nervous at first, but she meets a friendly team, helps her first client and learns that the new person has to buy the croissants on Friday.",
+ "theme": "a first day at a new job",
+ "mp3": "2026-11-21.mp3",
+ "published": "2026-11-21T08:53:12-07:00",
+ "duration": 183,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Lundi matin, Camille commence son nouveau travail dans une entreprise de voyages à Lyon.",
+   "en": "On Monday morning, Camille starts her new job at a travel company in Lyon.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est son premier jour, et elle a un peu peur.",
+   "en": "It's her first day, and she's a little scared.",
+   "learning": [
+    "premier",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À cause du stress, elle arrive au bureau une heure avant tout le monde.",
+   "en": "Because of her nerves, she gets to the office an hour before everyone else.",
+   "learning": [
+    "cause",
+    "monde"
+   ],
+   "unknown": [
+    "stress"
+   ],
+   "unknown_surface": [
+    "stress"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La porte est fermée, alors elle attend dehors avec un café.",
+   "en": "The door is locked, so she waits outside with a coffee.",
+   "learning": [],
+   "unknown": [
+    "fermé",
+    "café"
+   ],
+   "unknown_surface": [
+    "fermée",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Enfin, un homme arrive : c'est Paul, le chef de l'équipe.",
+   "en": "Finally, a man arrives: it's Paul, the team leader.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Bonjour ! Tu dois être Camille. Bienvenue chez nous ! »",
+   "en": "\"Hello! You must be Camille. Welcome!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il lui montre le bureau, la salle de réunion et la machine à café.",
+   "en": "He shows her the office, the meeting room and the coffee machine.",
+   "learning": [],
+   "unknown": [
+    "machine",
+    "café"
+   ],
+   "unknown_surface": [
+    "machine",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ici, c'est la loi : personne ne parle avant son premier café. »",
+   "en": "\"Here, it's the law: nobody talks before their first coffee.\"",
+   "learning": [
+    "loi",
+    "parler",
+    "premier"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Camille rit, et ça lui fait du bien.",
+   "en": "Camille laughs, and it does her good.",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, Paul lui montre sa place, près de la fenêtre.",
+   "en": "Then Paul shows her to her seat, near the window.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La vue est magnifique : on voit toute la place Bellecour.",
+   "en": "The view is wonderful: you can see the whole of Place Bellecour.",
+   "learning": [
+    "vue",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« C'est la meilleure situation du bureau, dit Paul. Garde-la bien ! »",
+   "en": "\"It's the best spot in the office,\" says Paul. \"Hold on to it!\"",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vers neuf heures, le reste de l'équipe arrive.",
+   "en": "Around nine o'clock, the rest of the team arrives.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il y a Sophie, qui organise des voyages dans plusieurs pays d'Afrique.",
+   "en": "There's Sophie, who organizes trips to several African countries.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [
+    "organiser"
+   ],
+   "unknown_surface": [
+    "organise"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il y a aussi Marc, qui connaît le prix de chaque hôtel en Europe.",
+   "en": "There's also Marc, who knows the price of every hotel in Europe.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde est gentil, mais Camille oublie déjà la moitié des noms.",
+   "en": "Everyone is nice, but Camille is already forgetting half the names.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "gentil",
+    "oublie"
+   ],
+   "unknown_surface": [
+    "gentil",
+    "oublie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À midi, ils mangent ensemble dans un petit restaurant du quartier.",
+   "en": "At noon, they eat together in a little restaurant in the neighborhood.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "restaurant"
+   ],
+   "unknown_surface": [
+    "restaurant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc explique une règle importante : « Le vendredi, c'est le nouveau qui paie les croissants. »",
+   "en": "Marc explains an important rule: \"On Fridays, the new person pays for the croissants.\"",
+   "learning": [],
+   "unknown": [
+    "paie",
+    "croissant"
+   ],
+   "unknown_surface": [
+    "paie",
+    "croissants"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Et le nouveau, c'est toi », ajoute Sophie avec un grand sourire.",
+   "en": "\"And the new person is you,\" Sophie adds with a big smile.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "ajouter",
+    "sourire"
+   ],
+   "unknown_surface": [
+    "ajoute",
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'après-midi, Camille a son premier client au téléphone.",
+   "en": "In the afternoon, Camille has her first client on the phone.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est un monsieur qui veut partir au Canada, mais il a besoin d'un prix plus bas.",
+   "en": "It's a man who wants to go to Canada, but he needs a lower price.",
+   "learning": [
+    "partir",
+    "besoin",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Camille cherche longtemps, et finalement, elle trouve une offre parfaite.",
+   "en": "Camille searches for a long time, and finally she finds a perfect deal.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le client est très content : « Vous êtes un ange, madame ! »",
+   "en": "The client is very happy: \"You're an angel, ma'am!\"",
+   "learning": [],
+   "unknown": [
+    "content",
+    "ange"
+   ],
+   "unknown_surface": [
+    "content",
+    "ange"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Cet appel a un effet magique sur Camille : elle n'a plus peur.",
+   "en": "That call has a magical effect on Camille: she's not scared anymore.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "magique"
+   ],
+   "unknown_surface": [
+    "magique"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À six heures, Paul passe devant son bureau.",
+   "en": "At six o'clock, Paul stops by her desk.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Alors, ce premier jour ? Tu as besoin de quelque chose ? »",
+   "en": "\"So, how was the first day? Do you need anything?\"",
+   "learning": [
+    "premier",
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Oui, dit Camille. Combien de croissants je dois acheter vendredi ? »",
+   "en": "\"Yes,\" says Camille. \"How many croissants do I have to buy on Friday?\"",
+   "learning": [],
+   "unknown": [
+    "croissant"
+   ],
+   "unknown_surface": [
+    "croissants"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul rit : « Au moins vingt. Il y a beaucoup de monde ici ! »",
+   "en": "Paul laughs: \"At least twenty. There are a lot of people here!\"",
+   "learning": [
+    "beaucoup",
+    "monde"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, dans le train, Camille regarde par la fenêtre et sourit.",
+   "en": "That evening, on the train, Camille looks out the window and smiles.",
+   "learning": [],
+   "unknown": [
+    "fenêtre",
+    "sourire"
+   ],
+   "unknown_surface": [
+    "fenêtre",
+    "sourit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les croissants vont coûter cher, mais ce nouveau travail vaut bien ça.",
+   "en": "The croissants are going to be expensive, but this new job is well worth it.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "croissant",
+    "coûter"
+   ],
+   "unknown_surface": [
+    "croissants",
+    "coûter"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 30,
+  "echoed": 17,
+  "tts_chars": 3040,
+  "deck_source": "sqlite"
+ }
+}

@@ -1,0 +1,475 @@
+{
+ "date": "2026-10-29",
+ "title": "Un dimanche sous la pluie",
+ "summary": "On a rainy Sunday with nothing planned, Claire gets bored at home until her neighbour Marc invites her to watch a film, and the empty day turns into the best Sunday of the year.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-10-29.mp3",
+ "published": "2026-10-29T06:01:31-04:00",
+ "duration": 187,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Dimanche matin, Claire se lève tard et regarde dehors.",
+   "en": "Sunday morning, Claire gets up late and looks outside.",
+   "learning": [],
+   "unknown": [
+    "lève"
+   ],
+   "unknown_surface": [
+    "lève"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il pleut, et le ciel est complètement gris.",
+   "en": "It's raining, and the sky is completely grey.",
+   "learning": [],
+   "unknown": [
+    "pleuvoir",
+    "gris"
+   ],
+   "unknown_surface": [
+    "pleut",
+    "gris"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour la première fois depuis des mois, elle n'a aucun projet.",
+   "en": "For the first time in months, she has no plans at all.",
+   "learning": [
+    "premier",
+    "fois",
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pas de travail, pas de famille, pas d'amis à voir.",
+   "en": "No work, no family, no friends to see.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au début, elle trouve ça super.",
+   "en": "At first, she thinks it's great.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle reste en pyjama et ne fait même pas son lit.",
+   "en": "She stays in her pyjamas and doesn't even make her bed.",
+   "learning": [],
+   "unknown": [
+    "pyjama"
+   ],
+   "unknown_surface": [
+    "pyjama"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle prend un café et revient dans son lit avec un livre.",
+   "en": "She has a coffee and goes back to bed with a book.",
+   "learning": [],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le livre parle d'un homme qui visite tous les pays du monde.",
+   "en": "The book is about a man who visits every country in the world.",
+   "learning": [
+    "parler",
+    "pays",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais après vingt pages, Claire a déjà un doute : est-ce que ce type existe vraiment ?",
+   "en": "But after twenty pages, Claire already has a doubt: does this guy really exist?",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle laisse le livre et allume la télé.",
+   "en": "She puts the book down and turns on the TV.",
+   "learning": [],
+   "unknown": [
+    "allumer",
+    "télé"
+   ],
+   "unknown_surface": [
+    "allume",
+    "télé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À la télé, un ministre explique une nouvelle loi sur le prix de l'énergie.",
+   "en": "On TV, a minister is explaining a new law on the price of energy.",
+   "learning": [
+    "loi",
+    "prix"
+   ],
+   "unknown": [
+    "télé"
+   ],
+   "unknown_surface": [
+    "télé"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'effet est rapide : elle dort au bout de cinq minutes.",
+   "en": "The effect is quick: she's asleep within five minutes.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Vers midi, son téléphone sonne.",
+   "en": "Around noon, her phone rings.",
+   "learning": [],
+   "unknown": [
+    "sonner"
+   ],
+   "unknown_surface": [
+    "sonne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "C'est Marc, son voisin du troisième étage.",
+   "en": "It's Marc, her neighbour from the third floor.",
+   "learning": [],
+   "unknown": [
+    "voisin",
+    "étage"
+   ],
+   "unknown_surface": [
+    "voisin",
+    "étage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu fais quoi aujourd'hui ? » demande-t-il.",
+   "en": "\"What are you doing today?\" he asks.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Rien, absolument rien », répond Claire avec fierté.",
+   "en": "\"Nothing, absolutely nothing,\" Claire answers proudly.",
+   "learning": [],
+   "unknown": [
+    "fierté"
+   ],
+   "unknown_surface": [
+    "fierté"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Moi non plus. Dans ma situation, c'est presque un problème grave. »",
+   "en": "\"Me neither. In my situation, that's almost a serious problem.\"",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc vit seul et n'aime pas du tout les dimanches sans rien faire.",
+   "en": "Marc lives alone and doesn't like Sundays with nothing to do at all.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il propose de regarder un film ensemble chez lui.",
+   "en": "He suggests watching a film together at his place.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire accepte, mais seulement à cause du temps, précise-t-elle.",
+   "en": "Claire accepts, but only because of the weather, she points out.",
+   "learning": [
+    "cause",
+    "temps"
+   ],
+   "unknown": [
+    "accepter",
+    "précise-t-elle"
+   ],
+   "unknown_surface": [
+    "accepte",
+    "précise-t-elle"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Chez Marc, la vue sur la place du marché est magnifique, même sous la pluie.",
+   "en": "At Marc's, the view over the market square is magnificent, even in the rain.",
+   "learning": [
+    "vue",
+    "place"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils choisissent un vieux film en noir et blanc.",
+   "en": "They choose an old black-and-white film.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le film est très long et un peu difficile à comprendre.",
+   "en": "The film is very long and a bit hard to understand.",
+   "learning": [
+    "long",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au bout d'une heure, ils parlent plus qu'ils ne regardent.",
+   "en": "After an hour, they're talking more than watching.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc parle de son premier voyage à l'étranger, où il a perdu son passeport.",
+   "en": "Marc talks about his first trip abroad, where he lost his passport.",
+   "learning": [
+    "parler",
+    "premier"
+   ],
+   "unknown": [
+    "passeport"
+   ],
+   "unknown_surface": [
+    "passeport"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire parle de son travail et de ses rêves de changer de vie.",
+   "en": "Claire talks about her job and her dreams of changing her life.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dehors, sur la place, les gens passent vite sous la pluie.",
+   "en": "Outside, on the square, people hurry by in the rain.",
+   "learning": [
+    "place",
+    "passer"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Eux, ils sont au chaud et ont la meilleure place du monde.",
+   "en": "They're warm inside and have the best seat in the world.",
+   "learning": [
+    "place",
+    "monde"
+   ],
+   "unknown": [
+    "chaud"
+   ],
+   "unknown_surface": [
+    "chaud"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, Marc fait des pâtes et ouvre une bouteille de vin.",
+   "en": "In the evening, Marc makes pasta and opens a bottle of wine.",
+   "learning": [],
+   "unknown": [
+    "pâte",
+    "bouteille",
+    "vin"
+   ],
+   "unknown_surface": [
+    "pâtes",
+    "bouteille",
+    "vin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ce dimanche gagne le prix du meilleur dimanche de l'année », dit Claire.",
+   "en": "\"This Sunday wins the prize for best Sunday of the year,\" says Claire.",
+   "learning": [
+    "prix",
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc rit : « Il faut une loi : un dimanche sans projet par mois ! »",
+   "en": "Marc laughs: \"We need a law: one Sunday with no plans every month!\"",
+   "learning": [
+    "loi",
+    "mois"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire rentre chez elle vers dix heures, heureuse et un peu fatiguée.",
+   "en": "Claire goes home around ten o'clock, happy and a little tired.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "rentrer",
+    "fatigué"
+   ],
+   "unknown_surface": [
+    "rentre",
+    "fatiguée"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sans doute, pense-t-elle, la pluie a parfois du bon.",
+   "en": "No doubt, she thinks, the rain sometimes has its good side.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 33,
+  "echoed": 19,
+  "tts_chars": 2994,
+  "deck_source": "sqlite"
+ }
+}

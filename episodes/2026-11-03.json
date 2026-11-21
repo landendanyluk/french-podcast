@@ -1,0 +1,419 @@
+{
+ "date": "2026-11-03",
+ "title": "Un match au parc",
+ "summary": "During a Saturday football match in a crowded park, a friendly old man's dog steals the ball and becomes the star of the game.",
+ "theme": "a football match in the park",
+ "mp3": "2026-11-03.mp3",
+ "published": "2026-11-03T06:01:13-05:00",
+ "duration": 202,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Chaque samedi matin, Marc retrouve ses amis au parc pour un petit match de football.",
+   "en": "Every Saturday morning, Marc meets his friends at the park for a little football match.",
+   "learning": [],
+   "unknown": [
+    "football"
+   ],
+   "unknown_surface": [
+    "football"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ce ne sont pas des joueurs très sérieux, mais ils adorent jouer ensemble.",
+   "en": "They aren't very serious players, but they love playing together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce samedi, il y a beaucoup de monde dans le parc, à cause du soleil.",
+   "en": "This Saturday, there are a lot of people in the park because of the sunshine.",
+   "learning": [
+    "beaucoup",
+    "monde",
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Les familles mangent sur l'herbe, les enfants jouent partout, et il reste peu de place pour le terrain.",
+   "en": "Families are eating on the grass, children are playing everywhere, and there's little space left for the pitch.",
+   "learning": [
+    "peu",
+    "place"
+   ],
+   "unknown": [
+    "herbe"
+   ],
+   "unknown_surface": [
+    "herbe"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc regarde la situation et dit : « Pas de problème, on joue près des arbres. »",
+   "en": "Marc looks at the situation and says, \"No problem, we'll play near the trees.\"",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "arbre"
+   ],
+   "unknown_surface": [
+    "arbres"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Comme toujours, il faut d'abord choisir les équipes, et c'est toujours difficile.",
+   "en": "As always, they first have to pick the teams, and it's always difficult.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul veut être le premier à choisir, parce que, selon lui, c'est une loi du football.",
+   "en": "Paul wants to be the first to choose because, according to him, it's a law of football.",
+   "learning": [
+    "premier",
+    "loi"
+   ],
+   "unknown": [
+    "football"
+   ],
+   "unknown_surface": [
+    "football"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Quelle loi ? » demande Sophie. « Ça n'existe dans aucun pays ! »",
+   "en": "\"What law?\" asks Sophie. \"That doesn't exist in any country!\"",
+   "learning": [
+    "loi",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, ils font deux équipes de quatre, et le match commence.",
+   "en": "In the end, they make two teams of four, and the match begins.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au début, tout va bien, et Marc marque même un beau but.",
+   "en": "At first, everything goes well, and Marc even scores a nice goal.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis un vieux monsieur arrive avec son chien et s'assoit sur un banc, juste à côté du but.",
+   "en": "Then an old man arrives with his dog and sits down on a bench, right next to the goal.",
+   "learning": [],
+   "unknown": [
+    "asseoir",
+    "banc"
+   ],
+   "unknown_surface": [
+    "assoit",
+    "banc"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il regarde le match avec beaucoup d'intérêt, comme s'il était au stade.",
+   "en": "He watches the match with great interest, as if he were at the stadium.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Vous avez une belle vue d'ici ? » lui demande Paul en riant.",
+   "en": "\"Do you have a nice view from there?\" Paul asks him, laughing.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "riant"
+   ],
+   "unknown_surface": [
+    "riant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ah oui, c'est la meilleure place du parc, et c'est gratuit ! » répond le monsieur.",
+   "en": "\"Oh yes, it's the best seat in the park, and it's free!\" the man replies.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "gratuit"
+   ],
+   "unknown_surface": [
+    "gratuit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Au stade, le prix d'une place est complètement fou maintenant. »",
+   "en": "\"At the stadium, the price of a seat is completely crazy now.\"",
+   "learning": [
+    "prix",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après vingt minutes, c'est trois partout, et tout le monde est fatigué.",
+   "en": "After twenty minutes, it's three all, and everyone is tired.",
+   "learning": [
+    "trois",
+    "monde"
+   ],
+   "unknown": [
+    "fatigué"
+   ],
+   "unknown_surface": [
+    "fatigué"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sophie dit qu'elle a besoin d'une pause, mais personne ne veut arrêter.",
+   "en": "Sophie says she needs a break, but nobody wants to stop.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "pause"
+   ],
+   "unknown_surface": [
+    "pause"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Alors Paul essaie un tir avec beaucoup d'effet.",
+   "en": "So Paul tries a shot with a lot of spin.",
+   "learning": [
+    "beaucoup",
+    "effet"
+   ],
+   "unknown": [
+    "tir"
+   ],
+   "unknown_surface": [
+    "tir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le ballon tourne dans l'air et tombe directement devant le chien du vieux monsieur.",
+   "en": "The ball spins through the air and lands right in front of the old man's dog.",
+   "learning": [],
+   "unknown": [
+    "ballon",
+    "tourner"
+   ],
+   "unknown_surface": [
+    "ballon",
+    "tourne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le chien prend le ballon et part avec lui vers l'autre côté du parc.",
+   "en": "The dog grabs the ball and runs off with it to the other side of the park.",
+   "learning": [],
+   "unknown": [
+    "ballon"
+   ],
+   "unknown_surface": [
+    "ballon"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les huit joueurs courent derrière lui, et les gens autour commencent à rire.",
+   "en": "The eight players run after him, and the people around start to laugh.",
+   "learning": [],
+   "unknown": [
+    "courir",
+    "rire"
+   ],
+   "unknown_surface": [
+    "courent",
+    "rire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après dix minutes, ils retrouvent enfin le ballon, complètement morts.",
+   "en": "After ten minutes, they finally get the ball back, completely exhausted.",
+   "learning": [
+    "mort"
+   ],
+   "unknown": [
+    "ballon"
+   ],
+   "unknown_surface": [
+    "ballon"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le vieux monsieur applaudit : « Bravo, c'est le meilleur match de la saison ! »",
+   "en": "The old man applauds: \"Bravo, that's the best match of the season!\"",
+   "learning": [],
+   "unknown": [
+    "applaudir"
+   ],
+   "unknown_surface": [
+    "applaudit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Votre chien joue mieux que nous », dit Marc.",
+   "en": "\"Your dog plays better than us,\" says Marc.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« C'est normal, il travaille tous les jours », répond le monsieur avec un sourire.",
+   "en": "\"That's normal, he trains every day,\" the man replies with a smile.",
+   "learning": [],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, il annonce un prix pour la meilleure équipe : des croissants pour tout le monde.",
+   "en": "Then he announces a prize for the best team: croissants for everyone.",
+   "learning": [
+    "prix",
+    "monde"
+   ],
+   "unknown": [
+    "croissant"
+   ],
+   "unknown_surface": [
+    "croissants"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le match continue, mais plus personne ne sait vraiment qui gagne.",
+   "en": "The match goes on, but nobody really knows who's winning anymore.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À la fin, tous les joueurs ont droit aux croissants, et le chien aussi.",
+   "en": "In the end, all the players get croissants, and so does the dog.",
+   "learning": [],
+   "unknown": [
+    "croissant"
+   ],
+   "unknown_surface": [
+    "croissants"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur le chemin du retour, Sophie dit : « La semaine prochaine, on prend le chien dans notre équipe ! »",
+   "en": "On the way home, Sophie says, \"Next week, we're taking the dog on our team!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 18,
+  "tts_chars": 3495,
+  "deck_source": "sqlite"
+ }
+}

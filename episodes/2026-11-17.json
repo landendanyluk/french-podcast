@@ -1,0 +1,434 @@
+{
+ "date": "2026-11-17",
+ "title": "Un week-end chez Papi",
+ "summary": "Claire spends a weekend in the village with her opinionated grandfather Pierre, who complains about prices, admires the view, and tells his favourite old story again.",
+ "theme": "a visit to a grandparent",
+ "mp3": "2026-11-17.mp3",
+ "published": "2026-11-17T04:01:13-07:00",
+ "duration": 165,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Claire prend le train pour aller voir son grand-père Pierre.",
+   "en": "On Saturday morning, Claire takes the train to go see her grandfather Pierre.",
+   "learning": [
+    "aller",
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a quatre-vingt-huit ans et il vit seul dans un petit village du sud.",
+   "en": "He is eighty-eight and lives alone in a small village in the south.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans le train, il n'y a plus de place, alors elle reste debout pendant une heure.",
+   "en": "On the train there are no seats left, so she stands for an hour.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "debout"
+   ],
+   "unknown_surface": [
+    "debout"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Quand elle arrive, Papi l'attend devant la maison, sur la petite place du village.",
+   "en": "When she arrives, Grandpa is waiting for her in front of the house, on the little village square.",
+   "learning": [
+    "maison",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Tu es en retard ! » dit-il.",
+   "en": "\"You're late!\" he says.",
+   "learning": [],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ce n'est pas ma faute, c'est à cause du train ! »",
+   "en": "\"It's not my fault, it's because of the train!\"",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ils entrent ensemble dans la maison, et Papi fait tout de suite du café.",
+   "en": "They go into the house together, and Grandpa immediately makes coffee.",
+   "learning": [
+    "ensemble",
+    "maison"
+   ],
+   "unknown": [
+    "entrer",
+    "café"
+   ],
+   "unknown_surface": [
+    "entrent",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il dit qu'il n'a besoin de rien, mais le frigo est presque vide.",
+   "en": "He says he doesn't need anything, but the fridge is almost empty.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "frigo",
+    "vide"
+   ],
+   "unknown_surface": [
+    "frigo",
+    "vide"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire sourit : elle connaît bien la situation.",
+   "en": "Claire smiles: she knows the situation well.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après le café, ils vont au marché pour acheter quelques petites choses.",
+   "en": "After coffee, they go to the market to buy a few little things.",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Papi parle avec tout le monde : le boulanger, la dame des fleurs, le maire.",
+   "en": "Grandpa talks with everyone: the baker, the flower lady, the mayor.",
+   "learning": [
+    "parler",
+    "monde"
+   ],
+   "unknown": [
+    "boulanger",
+    "fleur"
+   ],
+   "unknown_surface": [
+    "boulanger",
+    "fleurs"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il regarde les prix et il n'est jamais content.",
+   "en": "He looks at the prices and he's never happy.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "content"
+   ],
+   "unknown_surface": [
+    "content"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Avant, un kilo de tomates, ça coûtait rien ! » dit-il très fort.",
+   "en": "\"In the old days, a kilo of tomatoes cost nothing!\" he says very loudly.",
+   "learning": [],
+   "unknown": [
+    "kilo",
+    "tomate",
+    "coûter"
+   ],
+   "unknown_surface": [
+    "kilo",
+    "tomates",
+    "coûtait"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire lui explique que tout est plus cher maintenant, dans tout le pays.",
+   "en": "Claire explains to him that everything is more expensive now, all over the country.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Il faut une loi contre ça ! » répond Papi, très sérieux.",
+   "en": "\"There should be a law against that!\" Grandpa answers, very seriously.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'après-midi, ils montent ensemble sur la colline derrière le village.",
+   "en": "In the afternoon, they climb the hill behind the village together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "monter",
+    "colline"
+   ],
+   "unknown_surface": [
+    "montent",
+    "colline"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "D'en haut, la vue est magnifique : on voit les champs et même la mer.",
+   "en": "From the top, the view is magnificent: you can see the fields and even the sea.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "champ"
+   ],
+   "unknown_surface": [
+    "champs"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est la plus belle vue du monde », dit Papi.",
+   "en": "\"It's the most beautiful view in the world,\" says Grandpa.",
+   "learning": [
+    "vue",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Tu as vu beaucoup de pays ? » demande Claire.",
+   "en": "\"Have you seen many countries?\" Claire asks.",
+   "learning": [
+    "beaucoup",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Non, mais je n'ai pas besoin de voyager pour savoir ça. »",
+   "en": "\"No, but I don't need to travel to know that.\"",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "voyager"
+   ],
+   "unknown_surface": [
+    "voyager"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Puis il dit que sa vue n'est plus très bonne et qu'il ne voit pas bien la mer.",
+   "en": "Then he says his eyesight isn't very good anymore and he can't really see the sea.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, il sort une vieille photo de sa première voiture.",
+   "en": "In the evening, he takes out an old photo of his first car.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il a gagné cette voiture à un concours en 1962 : c'était le premier prix !",
+   "en": "He won that car in a contest in 1962: it was first prize!",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire rit, parce qu'il parle de cette histoire chaque fois.",
+   "en": "Claire laughs, because he brings up this story every single time.",
+   "learning": [
+    "parler",
+    "fois"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais elle aime le voir heureux, et ça lui fait toujours un drôle d'effet.",
+   "en": "But she loves seeing him happy, and it always gives her a funny feeling.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le lendemain, au moment de partir, Papi lui donne un gros sac de légumes.",
+   "en": "The next day, as she's leaving, Grandpa gives her a big bag of vegetables.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [
+    "sac",
+    "légume"
+   ],
+   "unknown_surface": [
+    "sac",
+    "légumes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Pour Paris. Là-bas, les prix sont fous ! »",
+   "en": "\"For Paris. Over there, the prices are crazy!\"",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans le train du retour, Claire trouve enfin une place.",
+   "en": "On the train back, Claire finally finds a seat.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle regarde par la fenêtre et pense déjà à sa prochaine visite.",
+   "en": "She looks out the window and is already thinking about her next visit.",
+   "learning": [],
+   "unknown": [
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "fenêtre"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 15,
+  "tts_chars": 2791,
+  "deck_source": "sqlite"
+ }
+}
