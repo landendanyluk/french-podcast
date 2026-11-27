@@ -1,0 +1,432 @@
+{
+ "date": "2026-11-01",
+ "title": "La boîte rouge de Lucienne",
+ "summary": "A grandson tries to discover his grandmother's secret apple tart recipe, but she always stays one step ahead of him.",
+ "theme": "a secret recipe",
+ "mp3": "2026-11-01.mp3",
+ "published": "2026-11-01T06:01:10-05:00",
+ "duration": 172,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Ma grand-mère Lucienne fait la meilleure tarte aux pommes du pays.",
+   "en": "My grandmother Lucienne makes the best apple tart in the country.",
+   "learning": [
+    "grand",
+    "pays"
+   ],
+   "unknown": [
+    "tarte",
+    "pomme"
+   ],
+   "unknown_surface": [
+    "tarte",
+    "pommes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Tout le monde le dit, même le maire du village.",
+   "en": "Everyone says so, even the village mayor.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Les gens viennent de loin pour en manger une part.",
+   "en": "People come from far away to eat a slice.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'année dernière, elle a gagné le premier prix au concours de la fête.",
+   "en": "Last year, she won first prize in the festival competition.",
+   "learning": [
+    "année",
+    "premier",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais sa recette est secrète, et personne ne la connaît.",
+   "en": "But her recipe is secret, and nobody knows it.",
+   "learning": [],
+   "unknown": [
+    "recette"
+   ],
+   "unknown_surface": [
+    "recette"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour elle, c'est presque une loi : la recette reste seulement dans sa tête.",
+   "en": "For her, it's almost a law: the recipe stays only in her head.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [
+    "recette"
+   ],
+   "unknown_surface": [
+    "recette"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Un dimanche, j'ai décidé de découvrir son secret.",
+   "en": "One Sunday, I decided to discover her secret.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je suis arrivé chez elle à midi, avec des fleurs et un grand sourire.",
+   "en": "I arrived at her place at noon, with flowers and a big smile.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "fleur",
+    "sourire"
+   ],
+   "unknown_surface": [
+    "fleurs",
+    "sourire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu as besoin de quelque chose ? » m'a-t-elle demandé tout de suite.",
+   "en": "\"Do you need something?\" she asked me right away.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle me connaît trop bien.",
+   "en": "She knows me too well.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je lui ai proposé de faire la tarte ensemble, pour apprendre.",
+   "en": "I suggested that we make the tart together, so I could learn.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "tarte"
+   ],
+   "unknown_surface": [
+    "tarte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a ri, puis elle a dit oui, mais à une condition.",
+   "en": "She laughed, then she said yes, but on one condition.",
+   "learning": [],
+   "unknown": [
+    "rire"
+   ],
+   "unknown_surface": [
+    "ri"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je dois rester à ma place, sur une chaise près de la fenêtre.",
+   "en": "I have to stay in my seat, on a chair near the window.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "chaise",
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "chaise",
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "De là, j'ai une belle vue sur le jardin, mais pas sur la table.",
+   "en": "From there, I have a nice view of the garden, but not of the table.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "jardin"
+   ],
+   "unknown_surface": [
+    "jardin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La situation est difficile, mais je ne veux pas perdre.",
+   "en": "The situation is difficult, but I don't want to lose.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pendant une heure, j'ai essayé de regarder ses mains.",
+   "en": "For an hour, I tried to watch her hands.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a mis du beurre, du sucre, et quelque chose d'une petite boîte rouge.",
+   "en": "She added butter, sugar, and something from a little red box.",
+   "learning": [],
+   "unknown": [
+    "beurre",
+    "sucre",
+    "boîte"
+   ],
+   "unknown_surface": [
+    "beurre",
+    "sucre",
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est quoi, ça ? » j'ai demandé.",
+   "en": "\"What's that?\" I asked.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Mon secret, et la cause de mon succès », a-t-elle répondu.",
+   "en": "\"My secret, and the reason for my success,\" she answered.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ensuite, elle a caché la boîte derrière son dos.",
+   "en": "Then she hid the box behind her back.",
+   "learning": [],
+   "unknown": [
+    "caché",
+    "boîte"
+   ],
+   "unknown_surface": [
+    "caché",
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, nous avons mangé la tarte, et l'effet a été magique, comme toujours.",
+   "en": "In the evening, we ate the tart, and the effect was magical, as always.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "tarte",
+    "magique"
+   ],
+   "unknown_surface": [
+    "tarte",
+    "magique"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Avant mon départ, j'ai trouvé la boîte rouge dans la cuisine.",
+   "en": "Before I left, I found the red box in the kitchen.",
+   "learning": [],
+   "unknown": [
+    "boîte",
+    "cuisine"
+   ],
+   "unknown_surface": [
+    "boîte",
+    "cuisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mon cœur battait très fort.",
+   "en": "My heart was beating very hard.",
+   "learning": [],
+   "unknown": [
+    "battre"
+   ],
+   "unknown_surface": [
+    "battait"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Je l'ai ouverte doucement, et dedans, il y avait seulement un petit papier.",
+   "en": "I opened it gently, and inside there was only a little piece of paper.",
+   "learning": [],
+   "unknown": [
+    "doucement",
+    "papier"
+   ],
+   "unknown_surface": [
+    "doucement",
+    "papier"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a écrit : « Bien essayé, mon chéri. Le secret, c'est l'amour. Et un peu de cannelle. »",
+   "en": "She had written: \"Nice try, darling. The secret is love. And a bit of cinnamon.\"",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "chéri",
+    "cannelle"
+   ],
+   "unknown_surface": [
+    "chéri",
+    "cannelle"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ma grand-mère est arrivée derrière moi, très contente d'elle.",
+   "en": "My grandmother came up behind me, very pleased with herself.",
+   "learning": [
+    "grand"
+   ],
+   "unknown": [
+    "content"
+   ],
+   "unknown_surface": [
+    "contente"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu as une bonne vue, mais ta grand-mère est plus maligne ! »",
+   "en": "\"You have good eyesight, but your grandmother is smarter!\"",
+   "learning": [
+    "vue",
+    "grand"
+   ],
+   "unknown": [
+    "malin"
+   ],
+   "unknown_surface": [
+    "maligne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Maintenant, je connais la moitié du secret.",
+   "en": "Now I know half of the secret.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour l'autre moitié, je reviens dimanche prochain, avec encore plus de fleurs.",
+   "en": "For the other half, I'm coming back next Sunday, with even more flowers.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "fleur"
+   ],
+   "unknown_surface": [
+    "fleurs"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 18,
+  "tts_chars": 2825,
+  "deck_source": "ankiconnect"
+ }
+}

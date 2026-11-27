@@ -1,0 +1,417 @@
+{
+ "date": "2026-10-24",
+ "title": "Une place pas si libre",
+ "summary": "Paul sits down at a café table next to a woman he thinks is listening to him, only to discover she has headphones on and is waiting for her friend, who ends up enjoying Paul's ideas.",
+ "theme": "a misunderstanding at a café",
+ "mp3": "2026-10-24.mp3",
+ "published": "2026-10-24T06:01:56-04:00",
+ "duration": 136,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Paul va au café de la place, près de chez lui.",
+   "en": "On Saturday morning, Paul goes to the café on the square, near his home.",
+   "learning": [
+    "aller",
+    "place"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il aime cet endroit pour sa situation : on a une belle vue sur la ville.",
+   "en": "He likes this spot for its location: you get a beautiful view of the city.",
+   "learning": [
+    "situation",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce jour-là, tout le monde est dehors, et il reste une seule place libre.",
+   "en": "That day, everyone is outside, and there is only one free seat left.",
+   "learning": [
+    "monde",
+    "seul",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À cette table, une jeune femme lit un journal.",
+   "en": "At that table, a young woman is reading a newspaper.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul demande : « Pardon, je peux m'asseoir ici ? »",
+   "en": "Paul asks: \"Excuse me, can I sit here?\"",
+   "learning": [],
+   "unknown": [
+    "asseoir"
+   ],
+   "unknown_surface": [
+    "asseoir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle répond : « Oui, bien sûr, c'est un pays libre ! »",
+   "en": "She answers: \"Yes, of course, it's a free country!\"",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul rit, s'assoit, et le serveur arrive.",
+   "en": "Paul laughs, sits down, and the waiter arrives.",
+   "learning": [],
+   "unknown": [
+    "rit",
+    "asseoir",
+    "serveur"
+   ],
+   "unknown_surface": [
+    "rit",
+    "assoit",
+    "serveur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sans aucun doute, Paul pense qu'elle veut parler avec lui.",
+   "en": "Without any doubt, Paul thinks she wants to talk with him.",
+   "learning": [
+    "doute",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Alors il commence à lui parler de tout : de son travail, de sa famille, de ses vacances.",
+   "en": "So he starts telling her about everything: his job, his family, his holidays.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il parle aussi de son voyage en Espagne et du soleil.",
+   "en": "He also talks about his trip to Spain and the sun.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il explique même la nouvelle loi sur le prix de l'énergie, un sujet qu'il connaît bien.",
+   "en": "He even explains the new law on energy prices, a subject he knows well.",
+   "learning": [
+    "loi",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La femme ne dit rien, elle regarde son journal.",
+   "en": "The woman says nothing; she looks at her newspaper.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul pense : « Elle a peur de parler, c'est tout. »",
+   "en": "Paul thinks: \"She's afraid to talk, that's all.\"",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au bout de vingt minutes, un homme arrive avec deux cafés.",
+   "en": "After twenty minutes, a man arrives with two coffees.",
+   "learning": [],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "cafés"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il regarde Paul, puis la femme.",
+   "en": "He looks at Paul, then at the woman.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il demande : « Qui est ce monsieur ? »",
+   "en": "He asks: \"Who is this gentleman?\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La femme répond avec calme : « Je ne sais pas, il parle depuis vingt minutes. »",
+   "en": "The woman calmly replies: \"I don't know, he's been talking for twenty minutes.\"",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul devient tout rouge.",
+   "en": "Paul turns bright red.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il voudrait être ailleurs, très loin d'ici.",
+   "en": "He'd like to be somewhere else, very far from here.",
+   "learning": [
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Mais… vous avez dit oui pour la place ! »",
+   "en": "\"But… you said yes to the seat!\"",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Oui, pour la chaise. Pas pour la conversation ! »",
+   "en": "\"Yes, to the chair. Not to the conversation!\"",
+   "learning": [],
+   "unknown": [
+    "chaise",
+    "conversation"
+   ],
+   "unknown_surface": [
+    "chaise",
+    "conversation"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle explique que c'est la place de son ami, parti à l'intérieur.",
+   "en": "She explains that it's her friend's seat; he had gone inside.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et la cause de son silence ? Elle a de la musique dans les oreilles depuis le début !",
+   "en": "And the reason for her silence? She's had music in her ears since the start!",
+   "learning": [
+    "cause",
+    "musique"
+   ],
+   "unknown": [
+    "silence",
+    "oreille"
+   ],
+   "unknown_surface": [
+    "silence",
+    "oreilles"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul veut partir, mais l'homme rit.",
+   "en": "Paul wants to leave, but the man laughs.",
+   "learning": [
+    "partir"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Restez, monsieur ! Je veux bien entendre votre histoire sur la loi. »",
+   "en": "\"Stay, sir! I'd like to hear your story about the law.\"",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, ils prennent un café ensemble, tous les trois.",
+   "en": "In the end, the three of them have a coffee together.",
+   "learning": [
+    "ensemble",
+    "trois"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Par chance, l'homme travaille au ministère de l'Économie.",
+   "en": "As luck would have it, the man works at the Ministry of the Economy.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il trouve les idées de Paul pas mal du tout.",
+   "en": "He finds Paul's ideas not bad at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il dit même : « Vous devriez écrire au président ! »",
+   "en": "He even says: \"You should write to the president!\"",
+   "learning": [
+    "président"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pour la première fois de sa vie, parler trop a un bon effet.",
+   "en": "For the first time in his life, talking too much has a good effect.",
+   "learning": [
+    "premier",
+    "fois",
+    "parler",
+    "trop",
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Depuis, Paul vient chaque samedi, mais il pose toujours la question deux fois.",
+   "en": "Since then, Paul comes every Saturday, but he always asks the question twice.",
+   "learning": [
+    "question",
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Et maintenant, il sait qu'une table libre, ce n'est pas toujours une table vraiment libre.",
+   "en": "And now he knows that a free table isn't always a truly free table.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 32,
+  "echoed": 8,
+  "tts_chars": 2313,
+  "deck_source": "ankiconnect"
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "date": "2026-11-26",
+ "title": "Deux Marc, une seule table",
+ "summary": "Marc waits at a café for an internet date, but the woman who sits down with him is actually there for a job interview with another Marc.",
+ "theme": "a misunderstanding at a café",
+ "mp3": "2026-11-26.mp3",
+ "published": "2026-11-26T08:01:09-05:00",
+ "duration": 136,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Marc arrive au café de la place, en face de l'église.",
+   "en": "On Saturday morning, Marc arrives at the café on the square, across from the church.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il y a beaucoup de monde, mais il trouve une table avec une belle vue.",
+   "en": "It's very crowded, but he finds a table with a nice view.",
+   "learning": [
+    "beaucoup",
+    "monde",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il doit rencontrer une femme qu'il connaît seulement par internet.",
+   "en": "He's supposed to meet a woman he only knows from the internet.",
+   "learning": [],
+   "unknown": [
+    "rencontrer"
+   ],
+   "unknown_surface": [
+    "rencontrer"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il ne connaît pas son visage, seulement son nom : Julie.",
+   "en": "He doesn't know her face, only her name: Julie.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dix minutes plus tard, une femme en rouge arrive et prend la place devant lui.",
+   "en": "Ten minutes later, a woman in red arrives and takes the seat across from him.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Bonjour, c'est vous, monsieur Marc ? » demande-t-elle.",
+   "en": "\"Hello, are you Mr. Marc?\" she asks.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc est très content : « Oui, c'est moi ! Vous voulez un café ? »",
+   "en": "Marc is very happy: \"Yes, that's me! Would you like a coffee?\"",
+   "learning": [],
+   "unknown": [
+    "content",
+    "café"
+   ],
+   "unknown_surface": [
+    "content",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle ouvre un gros dossier et dit : « Voici mon dossier, avec toute mon expérience. »",
+   "en": "She opens a thick folder and says: \"Here's my file, with all my experience.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc ne comprend pas, mais il pense que c'est peut-être la nouvelle mode pour une première rencontre.",
+   "en": "Marc doesn't understand, but he thinks it might be the new trend for a first date.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle explique qu'elle a étudié le droit et qu'elle connaît bien la loi de plusieurs pays.",
+   "en": "She explains that she studied law and knows the law of several countries well.",
+   "learning": [
+    "loi",
+    "pays"
+   ],
+   "unknown": [
+    "étudier"
+   ],
+   "unknown_surface": [
+    "étudié"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« J'ai travaillé trois ans en Belgique et deux ans au Canada », dit-elle.",
+   "en": "\"I worked three years in Belgium and two years in Canada,\" she says.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc dit : « C'est super, moi aussi j'adore les voyages ! »",
+   "en": "Marc says: \"That's great, I love travelling too!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Puis elle demande, très sérieuse : « Et l'argent, c'est combien par mois ? »",
+   "en": "Then she asks, very seriously: \"And the money, how much is it per month?\"",
+   "learning": [
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc ne sait pas quoi répondre ; la situation devient vraiment difficile.",
+   "en": "Marc doesn't know what to say; the situation is getting really awkward.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À ce moment, une autre femme arrive devant la table, l'air un peu perdu.",
+   "en": "At that moment, another woman comes up to the table, looking a bit lost.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Marc ? Je suis Julie. Vous n'avez pas vu mes messages ? »",
+   "en": "\"Marc? I'm Julie. Didn't you see my messages?\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le premier effet est terrible : la femme en rouge devient toute blanche.",
+   "en": "The first effect is dramatic: the woman in red goes completely pale.",
+   "learning": [
+    "premier",
+    "effet"
+   ],
+   "unknown": [
+    "terrible"
+   ],
+   "unknown_surface": [
+    "terrible"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle cherche monsieur Marc Lefort, le directeur d'une entreprise.",
+   "en": "She's looking for Mr. Marc Lefort, the director of a company.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle regarde autour d'elle et trouve enfin le bon Marc, à la table d'à côté.",
+   "en": "She looks around and finally finds the right Marc, at the next table.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le pauvre homme attend depuis vingt minutes et regarde souvent l'heure.",
+   "en": "The poor man has been waiting for twenty minutes and keeps checking the time.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde comprend enfin la cause de cette erreur : deux Marc au même endroit, à la même heure !",
+   "en": "Everyone finally understands the reason for the mix-up: two Marcs in the same place, at the same time!",
+   "learning": [
+    "monde",
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie dit en riant : « Moi, j'ai besoin d'un café après ça ! »",
+   "en": "Julie says, laughing: \"I need a coffee after that!\"",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "riant",
+    "café"
+   ],
+   "unknown_surface": [
+    "riant",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Les deux Marc décident de rester ensemble, avec les deux femmes, à une grande table.",
+   "en": "The two Marcs decide to stay together, with the two women, at a big table.",
+   "learning": [
+    "ensemble",
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Quand la note arrive, Marc regarde le prix et fait une drôle de tête.",
+   "en": "When the bill arrives, Marc looks at the price and makes a funny face.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Huit cafés ! » Mais il paie avec plaisir : sa première rencontre est un succès.",
+   "en": "\"Eight coffees!\" But he pays happily: his first date is a success.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "café",
+    "paie"
+   ],
+   "unknown_surface": [
+    "cafés",
+    "paie"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 25,
+  "echoed": 7,
+  "tts_chars": 2349,
+  "deck_source": "sqlite"
+ }
+}

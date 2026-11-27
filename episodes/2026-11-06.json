@@ -1,0 +1,422 @@
+{
+ "date": "2026-11-06",
+ "title": "Une lettre en retard",
+ "summary": "Claire receives a letter more than ten years late announcing she won a photo contest, and although the prize no longer exists, it brings her back together with her old best friend.",
+ "theme": "a letter that arrives late",
+ "mp3": "2026-11-06.mp3",
+ "published": "2026-11-06T06:01:19-05:00",
+ "duration": 160,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Ce matin, Claire trouve une lettre un peu bizarre dans sa boîte aux lettres.",
+   "en": "This morning, Claire finds a slightly strange letter in her mailbox.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "bizarre",
+    "boîte"
+   ],
+   "unknown_surface": [
+    "bizarre",
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur la lettre, il y a une date : septembre 2012.",
+   "en": "On the letter, there is a date: September 2012.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Plus de dix ans de retard, ce n'est pas rien !",
+   "en": "More than ten years late, that's no small thing!",
+   "learning": [],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire prend un café, se met à table et ouvre la lettre.",
+   "en": "Claire gets a coffee, sits down at the table and opens the letter.",
+   "learning": [],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Madame, vous avez gagné le premier prix de notre concours de photo ! »",
+   "en": "\"Madam, you have won first prize in our photo contest!\"",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle se rappelle tout de suite cette photo.",
+   "en": "She remembers that photo right away.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'était la vue depuis son ancienne chambre, sur la place du village, un matin d'hiver.",
+   "en": "It was the view from her old bedroom over the village square, one winter morning.",
+   "learning": [
+    "vue",
+    "chambre",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle avait envoyé cette photo un peu par jeu, sans vraiment y croire.",
+   "en": "She had sent that photo half as a game, without really believing in it.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le prix, c'est un voyage pour deux personnes en Italie.",
+   "en": "The prize is a trip for two people to Italy.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire rit toute seule dans sa maison.",
+   "en": "Claire laughs to herself, alone in her house.",
+   "learning": [
+    "seul",
+    "maison"
+   ],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Puis elle appelle la poste, parce qu'elle veut comprendre la cause de ce retard.",
+   "en": "Then she calls the post office, because she wants to understand the reason for this delay.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Un monsieur très calme lui répond au téléphone.",
+   "en": "A very calm man answers her on the phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« On a retrouvé la lettre derrière une vieille machine, pendant des travaux. »",
+   "en": "\"We found the letter behind an old machine during some renovation work.\"",
+   "learning": [],
+   "unknown": [
+    "machine"
+   ],
+   "unknown_surface": [
+    "machine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Selon la loi, nous devons envoyer toutes les lettres, même très en retard. »",
+   "en": "\"According to the law, we have to deliver every letter, even very late ones.\"",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Je sais, madame, la situation est un peu drôle. »",
+   "en": "\"I know, madam, the situation is a bit funny.\"",
+   "learning": [
+    "situation",
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après l'appel, la lettre a un drôle d'effet sur Claire.",
+   "en": "After the call, the letter has a strange effect on Claire.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle pense à Léa, sa meilleure amie de l'époque.",
+   "en": "She thinks about Léa, her best friend back then.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À vingt ans, elles voulaient voir le monde ensemble.",
+   "en": "At twenty, they wanted to see the world together.",
+   "learning": [
+    "monde",
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais Léa est partie travailler dans un autre pays, au Canada, et la vie a continué.",
+   "en": "But Léa left to work in another country, Canada, and life went on.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Aujourd'hui, elles ne se parlent presque plus.",
+   "en": "Today, they hardly talk to each other anymore.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire attend un peu, puis elle envoie à Léa une photo de la lettre.",
+   "en": "Claire waits a little, then sends Léa a photo of the letter.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dix minutes après, son téléphone sonne.",
+   "en": "Ten minutes later, her phone rings.",
+   "learning": [],
+   "unknown": [
+    "sonner"
+   ],
+   "unknown_surface": [
+    "sonne"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu as gagné un voyage et tu ne m'as rien dit ? » dit Léa en riant.",
+   "en": "\"You won a trip and you didn't tell me?\" Léa says, laughing.",
+   "learning": [],
+   "unknown": [
+    "riant"
+   ],
+   "unknown_surface": [
+    "riant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, Claire appelle la société du concours.",
+   "en": "Next, Claire calls the contest company.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mauvaise nouvelle : elle n'existe plus depuis longtemps.",
+   "en": "Bad news: it hasn't existed for a long time.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Pas de voyage, pas d'Italie, rien du tout.",
+   "en": "No trip, no Italy, nothing at all.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le soir, elle explique tout à Léa au téléphone.",
+   "en": "In the evening, she explains everything to Léa on the phone.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Tu sais quoi ? On n'a pas besoin d'eux », dit Léa.",
+   "en": "\"You know what? We don't need them,\" says Léa.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Je rentre en France en juin. On paie le voyage nous-mêmes ! »",
+   "en": "\"I'm coming back to France in June. We'll pay for the trip ourselves!\"",
+   "learning": [],
+   "unknown": [
+    "rentrer",
+    "paie"
+   ],
+   "unknown_surface": [
+    "rentre",
+    "paie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le lendemain, Claire achète deux places dans le train pour Rome.",
+   "en": "The next day, Claire buys two seats on the train to Rome.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle garde la vieille lettre dans son sac, comme un porte-bonheur.",
+   "en": "She keeps the old letter in her bag, like a good-luck charm.",
+   "learning": [],
+   "unknown": [
+    "sac"
+   ],
+   "unknown_surface": [
+    "sac"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Finalement, cette lettre n'est pas vraiment arrivée en retard.",
+   "en": "In the end, this letter didn't really arrive late.",
+   "learning": [],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle est arrivée exactement au bon moment.",
+   "en": "It arrived at exactly the right moment.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 33,
+  "echoed": 12,
+  "tts_chars": 2709,
+  "deck_source": "sqlite"
+ }
+}

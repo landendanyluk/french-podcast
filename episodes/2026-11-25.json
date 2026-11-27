@@ -1,0 +1,456 @@
+{
+ "date": "2026-11-25",
+ "title": "Un dimanche sous la pluie",
+ "summary": "On a rainy Sunday with no plans, Claire and Marc stay home, play a board game, talk about their dreams, and end up having their best Sunday in a long time.",
+ "theme": "a rainy Sunday with nothing planned",
+ "mp3": "2026-11-25.mp3",
+ "published": "2026-11-25T08:01:16-05:00",
+ "duration": 193,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Dimanche matin, il pleut sur toute la ville.",
+   "en": "Sunday morning, it's raining over the whole city.",
+   "learning": [],
+   "unknown": [
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "pleut"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire ouvre un œil et regarde par la fenêtre.",
+   "en": "Claire opens one eye and looks out the window.",
+   "learning": [],
+   "unknown": [
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La vue n'est pas magnifique : un ciel gris et une rue vide.",
+   "en": "The view isn't great: a grey sky and an empty street.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "gris",
+    "vide"
+   ],
+   "unknown_surface": [
+    "gris",
+    "vide"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pour une fois, elle n'a rien à faire, aucun projet, aucun plan.",
+   "en": "For once, she has nothing to do, no project, no plan.",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son copain Marc dort encore, la tête sous la couverture.",
+   "en": "Her boyfriend Marc is still asleep, his head under the blanket.",
+   "learning": [
+    "encore"
+   ],
+   "unknown": [
+    "copain",
+    "dormir",
+    "couverture"
+   ],
+   "unknown_surface": [
+    "copain",
+    "dort",
+    "couverture"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire prépare un café et prend sa place préférée, près de la fenêtre.",
+   "en": "Claire makes a coffee and takes her favourite seat, near the window.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "préparer",
+    "café",
+    "préféré",
+    "fenêtre"
+   ],
+   "unknown_surface": [
+    "prépare",
+    "café",
+    "préférée",
+    "fenêtre"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle prend son téléphone pour voir ce qui se passe dans le monde.",
+   "en": "She picks up her phone to see what's happening in the world.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mauvaise idée : on parle de guerre, de crise et du prix de l'essence.",
+   "en": "Bad idea: there's talk of war, crisis and the price of petrol.",
+   "learning": [
+    "parler",
+    "prix"
+   ],
+   "unknown": [
+    "essence"
+   ],
+   "unknown_surface": [
+    "essence"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle pose le téléphone et décide qu'aujourd'hui, le monde peut attendre.",
+   "en": "She puts the phone down and decides that today, the world can wait.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vers dix heures, Marc arrive dans la cuisine, les cheveux en l'air.",
+   "en": "Around ten, Marc comes into the kitchen, his hair sticking up.",
+   "learning": [],
+   "unknown": [
+    "cuisine"
+   ],
+   "unknown_surface": [
+    "cuisine"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Il pleut ? Parfait, j'avais besoin d'une journée sans rien faire. »",
+   "en": "\"It's raining? Perfect, I needed a day of doing nothing.\"",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [
+    "pleuvoir"
+   ],
+   "unknown_surface": [
+    "pleut"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire rit : « Tu dis ça chaque dimanche. »",
+   "en": "Claire laughs: \"You say that every Sunday.\"",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils décident de rester ensemble à la maison toute la journée.",
+   "en": "They decide to stay home together all day.",
+   "learning": [
+    "ensemble",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "D'abord, ils cherchent un film, mais ils ne trouvent rien de bon.",
+   "en": "First, they look for a film, but they can't find anything good.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc propose un jeu que sa mère leur a donné il y a trois ans.",
+   "en": "Marc suggests a game his mother gave them three years ago.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans ce jeu, chaque joueur représente un pays et doit gagner des territoires.",
+   "en": "In this game, each player represents a country and has to win territories.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au premier tour, Marc perd déjà deux régions.",
+   "en": "In the first round, Marc already loses two regions.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Ce n'est pas juste, ce jeu n'a aucune loi ! » dit-il.",
+   "en": "\"It's not fair, this game has no law!\" he says.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire lui explique que les règles sont écrites sur la boîte, page quatre.",
+   "en": "Claire explains that the rules are written on the box, page four.",
+   "learning": [],
+   "unknown": [
+    "boîte"
+   ],
+   "unknown_surface": [
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc dit qu'il ne peut pas lire, à cause de sa vue fatiguée.",
+   "en": "Marc says he can't read, because of his tired eyesight.",
+   "learning": [
+    "cause",
+    "vue"
+   ],
+   "unknown": [
+    "fatigué"
+   ],
+   "unknown_surface": [
+    "fatiguée"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire répond que sa vue marche très bien quand il regarde un match.",
+   "en": "Claire replies that his eyesight works just fine when he watches a match.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Après deux heures, Claire gagne et reçoit le prix du meilleur chef d'État : une crêpe.",
+   "en": "After two hours, Claire wins and receives the prize for best head of state: a crêpe.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "crêpe"
+   ],
+   "unknown_surface": [
+    "crêpe"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Marc accepte la situation avec un grand sourire, parce qu'il adore les crêpes.",
+   "en": "Marc accepts the situation with a big smile, because he loves crêpes.",
+   "learning": [
+    "situation",
+    "grand"
+   ],
+   "unknown": [
+    "accepter",
+    "sourire",
+    "crêpe"
+   ],
+   "unknown_surface": [
+    "accepte",
+    "sourire",
+    "crêpes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'après-midi, la pluie continue, et ça a un drôle d'effet sur eux.",
+   "en": "In the afternoon, the rain keeps going, and it has a funny effect on them.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils parlent de tout : de leurs rêves, de voyages, du pays où ils veulent vivre.",
+   "en": "They talk about everything: their dreams, travel, the country where they want to live.",
+   "learning": [
+    "parler",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc rêve d'une petite maison au Canada, avec une vue sur la mer.",
+   "en": "Marc dreams of a little house in Canada, with a view of the sea.",
+   "learning": [
+    "maison",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire préfère un appartement en Italie, sur une place pleine de soleil.",
+   "en": "Claire prefers an apartment in Italy, on a square full of sunshine.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "préférer",
+    "appartement"
+   ],
+   "unknown_surface": [
+    "préfère",
+    "appartement"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, ils sont toujours en pyjama et ils n'ont rien fait d'important.",
+   "en": "In the evening, they're still in their pyjamas and haven't done anything important.",
+   "learning": [],
+   "unknown": [
+    "pyjama"
+   ],
+   "unknown_surface": [
+    "pyjama"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pourtant, Claire pense que c'est le meilleur dimanche depuis longtemps.",
+   "en": "And yet, Claire thinks it's the best Sunday in a long time.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La cause de ce bonheur ? Simplement la pluie.",
+   "en": "The cause of this happiness? Simply the rain.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Parfois, la pluie n'est pas un problème : c'est une bonne raison de rester chez soi.",
+   "en": "Sometimes rain isn't a problem: it's a good reason to stay home.",
+   "learning": [],
+   "unknown": [
+    "pluie"
+   ],
+   "unknown_surface": [
+    "pluie"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 31,
+  "echoed": 18,
+  "tts_chars": 3168,
+  "deck_source": "sqlite"
+ }
+}

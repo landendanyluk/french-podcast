@@ -1,0 +1,373 @@
+{
+ "date": "2026-10-22",
+ "title": "Le Brésil contre l'Allemagne",
+ "summary": "A Sunday football match in the park between friends turns into a chaotic, funny mini World Cup that ends with pizzas shared with an unexpected old man.",
+ "theme": "a football match in the park",
+ "mp3": "2026-10-22.mp3",
+ "published": "2026-10-22T06:01:35-04:00",
+ "duration": 135,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Chaque dimanche matin, on fait un match au parc avec les gars du quartier.",
+   "en": "Every Sunday morning, we play a match in the park with the guys from the neighbourhood.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Ce n'est pas la Coupe du monde, mais pour nous, c'est presque pareil.",
+   "en": "It's not the World Cup, but for us, it's almost the same.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Aujourd'hui, Karim a une idée : chaque équipe représente un pays.",
+   "en": "Today, Karim has an idea: each team represents a country.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mon équipe devient le Brésil, et celle de Karim devient l'Allemagne.",
+   "en": "My team becomes Brazil, and Karim's becomes Germany.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Évidemment, personne chez nous ne joue comme un Brésilien.",
+   "en": "Obviously, nobody on our side plays like a Brazilian.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le prix est simple : l'équipe qui perd paie les pizzas ce soir.",
+   "en": "The prize is simple: the team that loses pays for the pizzas tonight.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "paie",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "paie",
+    "pizzas"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Au début, la situation est bonne pour nous : on marque le premier but après cinq minutes.",
+   "en": "At first, the situation is good for us: we score the first goal after five minutes.",
+   "learning": [
+    "situation",
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est moi qui marque, et je cours autour du terrain comme un fou.",
+   "en": "I'm the one who scores, and I run around the pitch like a madman.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais je ne vois pas la dame avec son chien, et je tombe presque sur elle.",
+   "en": "But I don't see the lady with her dog, and I almost fall on her.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle me regarde avec un air sérieux et me rappelle la loi du parc : pas de match près des enfants.",
+   "en": "She looks at me seriously and reminds me of the park rule: no matches near the children.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "On change donc de place et on va un peu plus loin.",
+   "en": "So we change places and go a bit further away.",
+   "learning": [
+    "place",
+    "aller",
+    "peu",
+    "loin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Là, il y a une belle vue sur la ville, mais aussi beaucoup de monde.",
+   "en": "There, there's a lovely view of the city, but also a lot of people.",
+   "learning": [
+    "vue",
+    "beaucoup",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Des gens s'arrêtent pour nous regarder, et ça nous fait un drôle d'effet.",
+   "en": "People stop to watch us, and it has a strange effect on us.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde veut montrer qu'il est le meilleur, et plus personne ne fait de passe.",
+   "en": "Everyone wants to show they're the best, and nobody passes anymore.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Résultat : l'Allemagne marque trois buts en dix minutes.",
+   "en": "Result: Germany scores three goals in ten minutes.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Moi, je dis que la cause de notre problème, c'est le soleil.",
+   "en": "I say the cause of our problem is the sun.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mon frère Paul répond que la vraie cause, c'est ma vue, parce que je ne mets jamais mes lunettes.",
+   "en": "My brother Paul replies that the real cause is my eyesight, because I never wear my glasses.",
+   "learning": [
+    "cause",
+    "vue"
+   ],
+   "unknown": [
+    "mets",
+    "lunette"
+   ],
+   "unknown_surface": [
+    "mets",
+    "lunettes"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il n'a pas tort, mais je ne vais pas le dire devant tout le monde.",
+   "en": "He's not wrong, but I'm not going to say so in front of everyone.",
+   "learning": [
+    "aller",
+    "monde"
+   ],
+   "unknown": [
+    "tort"
+   ],
+   "unknown_surface": [
+    "tort"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À la mi-temps, on décide de parler ensemble et de jouer enfin comme une équipe.",
+   "en": "At half-time, we decide to talk together and finally play like a team.",
+   "learning": [
+    "parler",
+    "ensemble"
+   ],
+   "unknown": [
+    "mi-temps"
+   ],
+   "unknown_surface": [
+    "mi-temps"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ça marche : on revient à trois partout.",
+   "en": "It works: we come back to three all.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dernière minute : Paul me fait une passe parfaite devant le but.",
+   "en": "Last minute: Paul gives me a perfect pass in front of the goal.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Je n'ai aucun doute, je tire de toutes mes forces.",
+   "en": "I have no doubt, I shoot with all my strength.",
+   "learning": [
+    "doute"
+   ],
+   "unknown": [
+    "tirer"
+   ],
+   "unknown_surface": [
+    "tire"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le ballon finit sur la tête d'un vieux monsieur assis sur un banc.",
+   "en": "The ball ends up on the head of an old man sitting on a bench.",
+   "learning": [],
+   "unknown": [
+    "ballon",
+    "assis",
+    "banc"
+   ],
+   "unknown_surface": [
+    "ballon",
+    "assis",
+    "banc"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le monsieur se lève, nous regarde, puis il rit très fort.",
+   "en": "The man stands up, looks at us, then laughs very loudly.",
+   "learning": [],
+   "unknown": [
+    "lève",
+    "rit"
+   ],
+   "unknown_surface": [
+    "lève",
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il dit qu'il a joué pour son pays il y a longtemps, et que c'est le plus beau coup de tête de sa vie.",
+   "en": "He says he played for his country a long time ago, and that it's the best header of his life.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, personne ne gagne, alors on paie les pizzas tous ensemble.",
+   "en": "In the end, nobody wins, so we all pay for the pizzas together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "paie",
+    "pizza"
+   ],
+   "unknown_surface": [
+    "paie",
+    "pizzas"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Et le vieux monsieur vient avec nous, bien sûr.",
+   "en": "And the old man comes with us, of course.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 27,
+  "echoed": 8,
+  "tts_chars": 2425,
+  "deck_source": "ankiconnect"
+ }
+}

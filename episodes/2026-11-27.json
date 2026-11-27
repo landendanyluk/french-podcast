@@ -1,0 +1,438 @@
+{
+ "date": "2026-11-27",
+ "title": "Une lettre de vingt ans",
+ "summary": "Claire receives a letter twenty years late announcing that she and her friend won a song contest, and the radio station turns the mix-up into a happy adventure.",
+ "theme": "a letter that arrives late",
+ "mp3": "2026-11-27.mp3",
+ "published": "2026-11-27T09:34:27-05:00",
+ "duration": 177,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Samedi matin, Claire trouve une vieille lettre devant sa porte.",
+   "en": "On Saturday morning, Claire finds an old letter in front of her door.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'adresse est juste, mais la lettre date de mars 2004.",
+   "en": "The address is correct, but the letter dates from March 2004.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Vingt ans de retard : même pour la poste, c'est un record.",
+   "en": "Twenty years late: even for the post office, that's a record.",
+   "learning": [],
+   "unknown": [
+    "retard",
+    "record"
+   ],
+   "unknown_surface": [
+    "retard",
+    "record"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire ouvre la lettre avec un peu de peur.",
+   "en": "Claire opens the letter a little nervously.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est une lettre d'une radio de Lyon.",
+   "en": "It's a letter from a radio station in Lyon.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Bravo, vous avez gagné le premier prix de notre concours de chanson ! »",
+   "en": "\"Congratulations, you've won first prize in our song contest!\"",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [
+    "bravo"
+   ],
+   "unknown_surface": [
+    "Bravo"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire rit, parce qu'elle avait complètement oublié ce concours.",
+   "en": "Claire laughs, because she had completely forgotten about that contest.",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À vingt ans, elle écrivait des chansons tous les soirs dans sa chambre.",
+   "en": "At twenty, she wrote songs every evening in her bedroom.",
+   "learning": [
+    "chambre"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le prix : un voyage pour deux personnes dans le pays de son choix.",
+   "en": "The prize: a trip for two to the country of her choice.",
+   "learning": [
+    "prix",
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle appelle tout de suite son amie Julie.",
+   "en": "She immediately calls her friend Julie.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À l'époque, Julie et elle chantaient toujours ensemble.",
+   "en": "Back then, she and Julie always sang together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "chanter"
+   ],
+   "unknown_surface": [
+    "chantaient"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Tu te rappelles notre chanson sur la mer ? On a gagné ! »",
+   "en": "\"Remember our song about the sea? We won!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie ne comprend pas la situation et demande si c'est une blague.",
+   "en": "Julie doesn't understand the situation and asks if it's a joke.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "blague"
+   ],
+   "unknown_surface": [
+    "blague"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire explique tout, et Julie rit pendant cinq bonnes minutes.",
+   "en": "Claire explains everything, and Julie laughs for a good five minutes.",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais Claire a besoin de savoir : est-ce que le prix existe encore ?",
+   "en": "But Claire needs to know: does the prize still exist?",
+   "learning": [
+    "besoin",
+    "prix",
+    "encore"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle téléphone à la radio, et un jeune homme répond.",
+   "en": "She calls the radio station, and a young man answers.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Vingt ans ? Je dois demander à mon chef, madame. »",
+   "en": "\"Twenty years? I have to ask my boss, ma'am.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Une heure après, le directeur lui-même la rappelle.",
+   "en": "An hour later, the director himself calls her back.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il dit que, selon la loi, la radio ne doit plus rien payer.",
+   "en": "He says that, by law, the station no longer owes anything.",
+   "learning": [
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Mais la cause du retard, c'est la poste, pas vous. »",
+   "en": "\"But the cause of the delay is the post office, not you.\"",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Puis il dit qu'il adore cette histoire et qu'il a une idée.",
+   "en": "Then he says he loves this story and has an idea.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il les invite à chanter leur vieille chanson en direct à la radio.",
+   "en": "He invites them to sing their old song live on the radio.",
+   "learning": [],
+   "unknown": [
+    "invite",
+    "chanter"
+   ],
+   "unknown_surface": [
+    "invite",
+    "chanter"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'effet est immédiat : Claire a peur, mais Julie dit oui tout de suite.",
+   "en": "The effect is immediate: Claire is scared, but Julie says yes right away.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "immédiat"
+   ],
+   "unknown_surface": [
+    "immédiat"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le vendredi suivant, elles prennent place devant le micro, un peu nerveuses.",
+   "en": "The following Friday, they take their seats in front of the microphone, a little nervous.",
+   "learning": [
+    "place",
+    "peu"
+   ],
+   "unknown": [
+    "micro",
+    "nerveux"
+   ],
+   "unknown_surface": [
+    "micro",
+    "nerveuses"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire n'a plus une très bonne vue, alors Julie lit les paroles pour deux.",
+   "en": "Claire's eyesight isn't very good anymore, so Julie reads the lyrics for both of them.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elles chantent mal, mais avec beaucoup de cœur.",
+   "en": "They sing badly, but with a lot of heart.",
+   "learning": [
+    "beaucoup"
+   ],
+   "unknown": [
+    "chanter"
+   ],
+   "unknown_surface": [
+    "chantent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après l'émission, des gens appellent de partout pour parler de leurs lettres en retard.",
+   "en": "After the show, people call from everywhere to talk about their own late letters.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [
+    "retard"
+   ],
+   "unknown_surface": [
+    "retard"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Une femme a reçu une carte d'amour quarante ans trop tard.",
+   "en": "One woman received a love card forty years too late.",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [
+    "quarante"
+   ],
+   "unknown_surface": [
+    "quarante"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle s'est quand même mariée avec l'homme, l'année suivante.",
+   "en": "She married the man anyway, the following year.",
+   "learning": [
+    "année"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le lendemain, tout le monde en ville connaît l'histoire de Claire et Julie.",
+   "en": "The next day, everyone in town knows Claire and Julie's story.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, la radio leur offre un week-end à la mer, avec une chambre avec vue.",
+   "en": "In the end, the station offers them a weekend by the sea, with a room with a view.",
+   "learning": [
+    "chambre",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans le train, Julie regarde Claire et dit : « Merci, la poste. »",
+   "en": "On the train, Julie looks at Claire and says: \"Thank you, post office.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire sourit : « La prochaine fois, on envoie nos chansons par internet. »",
+   "en": "Claire smiles: \"Next time, we send our songs by internet.\"",
+   "learning": [
+    "fois"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "sourit"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 33,
+  "echoed": 14,
+  "tts_chars": 2971,
+  "deck_source": "sqlite"
+ }
+}

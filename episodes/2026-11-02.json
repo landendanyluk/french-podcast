@@ -1,0 +1,438 @@
+{
+ "date": "2026-11-02",
+ "title": "La mer en janvier",
+ "summary": "On a cold winter Sunday, Claire drags her friend Paul to the beach, where they enjoy the empty shore, meet an old local and his dog, and warm up with soup, and Paul ends up admitting she was right.",
+ "theme": "a walk on the beach in winter",
+ "mp3": "2026-11-02.mp3",
+ "published": "2026-11-02T06:01:12-05:00",
+ "duration": 180,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Dimanche matin, Claire a eu une idée un peu folle : aller à la mer en plein hiver.",
+   "en": "On Sunday morning, Claire had a slightly crazy idea: going to the sea in the middle of winter.",
+   "learning": [
+    "peu",
+    "aller"
+   ],
+   "unknown": [
+    "folle"
+   ],
+   "unknown_surface": [
+    "folle"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Son ami Paul n'était pas d'accord.",
+   "en": "Her friend Paul didn't agree.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Il fait froid, il y a du vent, et personne ne va à la plage en janvier ! »",
+   "en": "\"It's cold, it's windy, and nobody goes to the beach in January!\"",
+   "learning": [
+    "aller"
+   ],
+   "unknown": [
+    "vent",
+    "plage"
+   ],
+   "unknown_surface": [
+    "vent",
+    "plage"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais Claire a répondu qu'elle avait besoin d'air, et que ça suffisait comme raison.",
+   "en": "But Claire answered that she needed some air, and that this was reason enough.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Finalement, ils sont partis ensemble en voiture vers la côte.",
+   "en": "In the end, they left together by car for the coast.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sur la route, il n'y avait presque pas de monde.",
+   "en": "There was hardly anyone on the road.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Au village, ils ont trouvé une place pour la voiture tout de suite, devant l'église.",
+   "en": "In the village, they found a parking space right away, in front of the church.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« En été, c'est impossible, on cherche pendant une heure », a dit Paul.",
+   "en": "\"In summer, it's impossible, you search for an hour,\" said Paul.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Premier point positif, donc.",
+   "en": "So, first good point.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "positif"
+   ],
+   "unknown_surface": [
+    "positif"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur la plage, le vent était fort et le ciel tout gris.",
+   "en": "On the beach, the wind was strong and the sky completely grey.",
+   "learning": [],
+   "unknown": [
+    "plage",
+    "vent",
+    "gris"
+   ],
+   "unknown_surface": [
+    "plage",
+    "vent",
+    "gris"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Mais la vue était magnifique : la mer, les grandes vagues, et personne à des kilomètres.",
+   "en": "But the view was magnificent: the sea, the big waves, and nobody for miles.",
+   "learning": [
+    "vue",
+    "grand"
+   ],
+   "unknown": [
+    "vaguer",
+    "kilomètre"
+   ],
+   "unknown_surface": [
+    "vagues",
+    "kilomètres"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Claire a pris des photos, mais l'effet n'était pas le même que dans la réalité.",
+   "en": "Claire took photos, but the effect wasn't the same as in real life.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul, lui, a commencé à parler de son travail.",
+   "en": "Paul, for his part, started talking about his job.",
+   "learning": [
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire l'a arrêté : « Ici, il y a une loi : on ne parle pas du bureau. »",
+   "en": "Claire stopped him: \"There's a law here: we don't talk about the office.\"",
+   "learning": [
+    "loi",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul a ri et a mis les mains dans ses poches.",
+   "en": "Paul laughed and put his hands in his pockets.",
+   "learning": [],
+   "unknown": [
+    "rire",
+    "poche"
+   ],
+   "unknown_surface": [
+    "ri",
+    "poches"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils ont marché longtemps, sans rien dire, juste pour le plaisir.",
+   "en": "They walked for a long time without saying anything, just for the pleasure of it.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Un vieux monsieur passait avec son chien, qui courait dans l'eau froide.",
+   "en": "An old man was walking by with his dog, which was running in the cold water.",
+   "learning": [
+    "passer"
+   ],
+   "unknown": [
+    "courir"
+   ],
+   "unknown_surface": [
+    "courait"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Il fait ça tous les jours, même en hiver, a dit l'homme. Il est plus courageux que moi ! »",
+   "en": "\"He does that every day, even in winter,\" said the man. \"He's braver than me!\"",
+   "learning": [],
+   "unknown": [
+    "courageux"
+   ],
+   "unknown_surface": [
+    "courageux"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Il leur a expliqué qu'il habitait ici depuis vingt ans.",
+   "en": "He explained to them that he had lived here for twenty years.",
+   "learning": [],
+   "unknown": [
+    "habiter"
+   ],
+   "unknown_surface": [
+    "habitait"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« J'ai visité beaucoup de pays, mais je n'ai jamais trouvé une meilleure situation que ma petite maison face à la mer. »",
+   "en": "\"I've visited lots of countries, but I've never found a better location than my little house facing the sea.\"",
+   "learning": [
+    "beaucoup",
+    "pays",
+    "situation",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Paul a demandé le prix des maisons dans le village.",
+   "en": "Paul asked about the price of houses in the village.",
+   "learning": [
+    "prix",
+    "maison"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le vieux monsieur a souri : « Trop cher pour vous, jeune homme ! »",
+   "en": "The old man smiled: \"Too expensive for you, young man!\"",
+   "learning": [],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "souri"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Vers midi, ils avaient faim et très froid aux pieds.",
+   "en": "Around noon, they were hungry and their feet were very cold.",
+   "learning": [],
+   "unknown": [
+    "faim"
+   ],
+   "unknown_surface": [
+    "faim"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils sont entrés dans le seul café ouvert du village.",
+   "en": "They went into the only café open in the village.",
+   "learning": [
+    "seul"
+   ],
+   "unknown": [
+    "entrer",
+    "café"
+   ],
+   "unknown_surface": [
+    "entrés",
+    "café"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À cause du froid, le patron leur a servi une soupe chaude sans même demander.",
+   "en": "Because of the cold, the owner served them a hot soup without even asking.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "patron",
+    "soupe",
+    "chaude"
+   ],
+   "unknown_surface": [
+    "patron",
+    "soupe",
+    "chaude"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Paul a dit que c'était la meilleure soupe du monde.",
+   "en": "Paul said it was the best soup in the world.",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "soupe"
+   ],
+   "unknown_surface": [
+    "soupe"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« C'est l'effet de la mer, a répondu le patron. Tout est meilleur après une marche dans le vent. »",
+   "en": "\"That's the effect of the sea,\" the owner replied. \"Everything tastes better after a walk in the wind.\"",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "patron",
+    "vent"
+   ],
+   "unknown_surface": [
+    "patron",
+    "vent"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur le chemin du retour, Paul était calme et heureux.",
+   "en": "On the way back, Paul was calm and happy.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Tu avais raison, a-t-il dit. On revient le mois prochain ? »",
+   "en": "\"You were right,\" he said. \"Shall we come back next month?\"",
+   "learning": [
+    "mois"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Claire a souri : elle avait gagné, et ce n'était pas la première fois.",
+   "en": "Claire smiled: she had won, and it wasn't the first time.",
+   "learning": [
+    "premier",
+    "fois"
+   ],
+   "unknown": [
+    "sourire"
+   ],
+   "unknown_surface": [
+    "souri"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 30,
+  "echoed": 16,
+  "tts_chars": 3048,
+  "deck_source": "ankiconnect"
+ }
+}

@@ -1,0 +1,413 @@
+{
+ "date": "2026-10-25",
+ "title": "Dimanche chez Paulette",
+ "summary": "A grandson visits his energetic ninety-year-old grandmother, hears her village news and love story, and ends up seriously considering a trip abroad with her.",
+ "theme": "a visit to a grandparent",
+ "mp3": "2026-10-25.mp3",
+ "published": "2026-10-25T06:01:47-04:00",
+ "duration": 160,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  },
+  {
+   "word": "doute",
+   "translation": "doubt"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Dimanche dernier, je suis allé voir ma grand-mère Paulette dans son petit village.",
+   "en": "Last Sunday, I went to see my grandmother Paulette in her little village.",
+   "learning": [
+    "aller",
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a quatre-vingt-dix ans, mais elle a toujours plus d'énergie que moi.",
+   "en": "She's ninety, but she still has more energy than me.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Le train était plein de monde, et j'ai trouvé une place seulement au dernier moment.",
+   "en": "The train was packed with people, and I only found a seat at the last moment.",
+   "learning": [
+    "monde",
+    "place"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Quand je suis arrivé, elle m'attendait déjà devant la porte avec son chien.",
+   "en": "When I arrived, she was already waiting for me at the door with her dog.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "La première chose qu'elle a dite : « Tu as maigri, tu ne manges pas assez ! »",
+   "en": "The first thing she said was: \"You've lost weight, you don't eat enough!\"",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "maigrir"
+   ],
+   "unknown_surface": [
+    "maigri"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Pas de doute, c'est bien ma grand-mère.",
+   "en": "No doubt about it, that's my grandmother.",
+   "learning": [
+    "doute",
+    "grand"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Sa maison a une situation magnifique, au-dessus du village.",
+   "en": "Her house has a magnificent location, above the village.",
+   "learning": [
+    "maison",
+    "situation"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Depuis sa chambre, on a une vue sur toute la campagne.",
+   "en": "From her bedroom, you have a view over the whole countryside.",
+   "learning": [
+    "chambre",
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Nous avons mangé ensemble, et elle a parlé pendant deux heures sans s'arrêter.",
+   "en": "We ate together, and she talked for two hours without stopping.",
+   "learning": [
+    "ensemble",
+    "parler"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle m'a parlé de tout : le maire, la nouvelle loi sur les chiens, le prix du pain.",
+   "en": "She talked to me about everything: the mayor, the new law about dogs, the price of bread.",
+   "learning": [
+    "parler",
+    "loi",
+    "prix"
+   ],
+   "unknown": [
+    "pain"
+   ],
+   "unknown_surface": [
+    "pain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Le pain est trop cher maintenant, c'est la faute du gouvernement ! »",
+   "en": "\"Bread is too expensive now, it's the government's fault!\"",
+   "learning": [
+    "trop"
+   ],
+   "unknown": [
+    "pain"
+   ],
+   "unknown_surface": [
+    "pain"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ensuite, elle a sorti une vieille boîte de photos.",
+   "en": "Then she took out an old box of photos.",
+   "learning": [],
+   "unknown": [
+    "boîte"
+   ],
+   "unknown_surface": [
+    "boîte"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Sur une photo, elle est jeune et elle tient un prix dans les mains.",
+   "en": "In one photo, she's young and holding a prize in her hands.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« J'ai gagné le premier prix de danse en 1955 », m'a-t-elle expliqué, très fière.",
+   "en": "\"I won first prize for dancing in 1955,\" she explained to me, very proud.",
+   "learning": [
+    "premier",
+    "prix"
+   ],
+   "unknown": [
+    "fier"
+   ],
+   "unknown_surface": [
+    "fière"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Et grand-père ? » ai-je demandé.",
+   "en": "\"And Grandpa?\" I asked.",
+   "learning": [
+    "père"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Il m'a vue danser, et voilà la cause de soixante ans de mariage ! »",
+   "en": "\"He saw me dance, and there's the cause of sixty years of marriage!\"",
+   "learning": [
+    "vue",
+    "cause"
+   ],
+   "unknown": [
+    "danser",
+    "soixante"
+   ],
+   "unknown_surface": [
+    "danser",
+    "soixante"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle a ri, et moi aussi.",
+   "en": "She laughed, and so did I.",
+   "learning": [],
+   "unknown": [
+    "rire"
+   ],
+   "unknown_surface": [
+    "ri"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Après le café, elle a voulu me montrer son jardin.",
+   "en": "After coffee, she wanted to show me her garden.",
+   "learning": [],
+   "unknown": [
+    "café",
+    "jardin"
+   ],
+   "unknown_surface": [
+    "café",
+    "jardin"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle n'a plus une très bonne vue, mais elle connaît chaque fleur par cœur.",
+   "en": "Her eyesight isn't very good anymore, but she knows every flower by heart.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "fleur"
+   ],
+   "unknown_surface": [
+    "fleur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Elle m'a aussi dit qu'elle veut visiter un autre pays avant de mourir.",
+   "en": "She also told me she wants to visit another country before she dies.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [
+    "mourir"
+   ],
+   "unknown_surface": [
+    "mourir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« L'Italie, peut-être, ou le Japon. Tu viens avec moi ? »",
+   "en": "\"Italy, maybe, or Japan. Are you coming with me?\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "J'ai d'abord pensé qu'elle n'était pas sérieuse.",
+   "en": "At first I thought she wasn't serious.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Mais elle avait déjà une liste, des cartes et même le numéro d'un hôtel.",
+   "en": "But she already had a list, maps, and even the number of a hotel.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Son envie m'a fait un drôle d'effet : je me suis senti vieux à côté d'elle.",
+   "en": "Her eagerness had a funny effect on me: I felt old next to her.",
+   "learning": [
+    "effet"
+   ],
+   "unknown": [
+    "sentir"
+   ],
+   "unknown_surface": [
+    "senti"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, elle m'a donné un gros sac de légumes et trois pots de confiture.",
+   "en": "In the evening, she gave me a big bag of vegetables and three jars of jam.",
+   "learning": [
+    "trois"
+   ],
+   "unknown": [
+    "sac",
+    "légume",
+    "pot",
+    "confiture"
+   ],
+   "unknown_surface": [
+    "sac",
+    "légumes",
+    "pots",
+    "confiture"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Pour la route », a-t-elle dit, comme si je partais à l'autre bout du monde.",
+   "en": "\"For the road,\" she said, as if I were leaving for the other side of the world.",
+   "learning": [
+    "partir",
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Dans le train du retour, j'ai regardé le prix des billets pour l'Italie.",
+   "en": "On the train home, I looked up the price of tickets to Italy.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "billet"
+   ],
+   "unknown_surface": [
+    "billets"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Finalement, pourquoi pas ?",
+   "en": "After all, why not?",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a raison : la vie est courte, et il faut la vivre ensemble.",
+   "en": "She's right: life is short, and we should live it together.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  }
+ ],
+ "stats": {
+  "sentences": 29,
+  "echoed": 13,
+  "tts_chars": 2718,
+  "deck_source": "ankiconnect"
+ }
+}

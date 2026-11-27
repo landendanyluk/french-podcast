@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-24",
+ "title": "Mon premier jour au bureau",
+ "summary": "On her first day at a new company, Julie's computer won't work, she survives a boring rulebook and a multilingual lunch, and finally learns the funny cause of the problem.",
+ "theme": "a first day at a new job",
+ "mp3": "2026-11-24.mp3",
+ "published": "2026-11-24T08:01:18-05:00",
+ "duration": 170,
+ "learning_words": [
+  {
+   "word": "cause",
+   "translation": "cause / reason"
+  },
+  {
+   "word": "pays",
+   "translation": "country"
+  },
+  {
+   "word": "prix",
+   "translation": "price / prize"
+  },
+  {
+   "word": "vue",
+   "translation": "view / eyesight"
+  },
+  {
+   "word": "effet",
+   "translation": "effect"
+  },
+  {
+   "word": "loi",
+   "translation": "law"
+  },
+  {
+   "word": "ensemble",
+   "translation": "together"
+  },
+  {
+   "word": "place",
+   "translation": "seat / space / square"
+  },
+  {
+   "word": "situation",
+   "translation": "situation / location"
+  },
+  {
+   "word": "monde",
+   "translation": "world / people"
+  },
+  {
+   "word": "besoin",
+   "translation": "need"
+  },
+  {
+   "word": "premier",
+   "translation": "first"
+  }
+ ],
+ "learning_words_missing": [],
+ "sentences": [
+  {
+   "fr": "Lundi matin, Julie arrive très tôt pour son premier jour dans une nouvelle entreprise.",
+   "en": "On Monday morning, Julie arrives very early for her first day at a new company.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Elle a mis sa plus belle veste, mais elle a un peu peur.",
+   "en": "She put on her nicest jacket, but she's a little scared.",
+   "learning": [
+    "peu"
+   ],
+   "unknown": [
+    "veste"
+   ],
+   "unknown_surface": [
+    "veste"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le bureau est tout en haut, avec une vue magnifique sur la ville.",
+   "en": "The office is at the very top, with a magnificent view over the city.",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "À l'entrée, un homme l'attend, l'air très content de la voir.",
+   "en": "At the entrance, a man is waiting for her, looking very happy to see her.",
+   "learning": [],
+   "unknown": [
+    "content"
+   ],
+   "unknown_surface": [
+    "content"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Bonjour, je suis Marc, le chef de l'équipe. Bienvenue chez nous ! »",
+   "en": "\"Hello, I'm Marc, the team leader. Welcome!\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Il lui montre sa place, près de la fenêtre, entre deux collègues.",
+   "en": "He shows her to her seat, near the window, between two colleagues.",
+   "learning": [
+    "place"
+   ],
+   "unknown": [
+    "fenêtre",
+    "collègue"
+   ],
+   "unknown_surface": [
+    "fenêtre",
+    "collègues"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie trouve la situation parfaite, jusqu'au moment où elle allume son ordinateur.",
+   "en": "Julie finds the situation perfect, until the moment she turns on her computer.",
+   "learning": [
+    "situation"
+   ],
+   "unknown": [
+    "allumer",
+    "ordinateur"
+   ],
+   "unknown_surface": [
+    "allume",
+    "ordinateur"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Rien ne marche, et personne ne connaît le mot de passe.",
+   "en": "Nothing works, and nobody knows the password.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Pas de problème, dit Marc, le service technique arrive dans cinq minutes. »",
+   "en": "\"No problem,\" says Marc, \"tech support will be here in five minutes.\"",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Une heure plus tard, toujours personne.",
+   "en": "An hour later, still nobody.",
+   "learning": [],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Julie a besoin de faire quelque chose, alors elle lit les règles de la société.",
+   "en": "Julie needs to do something, so she reads the company rules.",
+   "learning": [
+    "besoin"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "C'est un texte très long sur la loi, la sécurité et les frais de voyage.",
+   "en": "It's a very long text about the law, safety and travel expenses.",
+   "learning": [
+    "long",
+    "loi"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "L'effet est simple : après trois pages, elle a envie de dormir.",
+   "en": "The effect is simple: after three pages, she wants to sleep.",
+   "learning": [
+    "effet",
+    "trois"
+   ],
+   "unknown": [
+    "dormir"
+   ],
+   "unknown_surface": [
+    "dormir"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "À midi, ses collègues l'invitent à manger ensemble au restaurant d'en face.",
+   "en": "At noon, her colleagues invite her to eat together at the restaurant across the street.",
+   "learning": [
+    "ensemble"
+   ],
+   "unknown": [
+    "collègue",
+    "inviter",
+    "restaurant"
+   ],
+   "unknown_surface": [
+    "collègues",
+    "invitent",
+    "restaurant"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Ils viennent de plusieurs pays : un Italien, une Belge et un gars du Québec.",
+   "en": "They come from several countries: an Italian man, a Belgian woman and a guy from Quebec.",
+   "learning": [
+    "pays"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Tout le monde parle en même temps, en français, en anglais et un peu en italien.",
+   "en": "Everyone talks at the same time, in French, in English and a bit in Italian.",
+   "learning": [
+    "monde",
+    "parler",
+    "temps",
+    "peu"
+   ],
+   "unknown": [
+    "italien"
+   ],
+   "unknown_surface": [
+    "italien"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie regarde le prix des plats et choisit la salade, la moins chère.",
+   "en": "Julie looks at the prices of the dishes and picks the salad, the cheapest one.",
+   "learning": [
+    "prix"
+   ],
+   "unknown": [
+    "plat",
+    "salade",
+    "chère"
+   ],
+   "unknown_surface": [
+    "plats",
+    "salade",
+    "chère"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Ne t'inquiète pas, dit Marc, c'est l'entreprise qui paie le premier repas. »",
+   "en": "\"Don't worry,\" says Marc, \"the company pays for the first meal.\"",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [
+    "inquiéter",
+    "paie",
+    "repas"
+   ],
+   "unknown_surface": [
+    "inquiète",
+    "paie",
+    "repas"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Alors elle prend aussi un dessert, pour fêter ça.",
+   "en": "So she also orders a dessert, to celebrate.",
+   "learning": [],
+   "unknown": [
+    "dessert",
+    "fêter"
+   ],
+   "unknown_surface": [
+    "dessert",
+    "fêter"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "L'après-midi, le technicien arrive enfin avec un nouveau mot de passe.",
+   "en": "In the afternoon, the technician finally arrives with a new password.",
+   "learning": [],
+   "unknown": [
+    "technicien"
+   ],
+   "unknown_surface": [
+    "technicien"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "La cause du problème ? Quelqu'un a pris le câble de Julie pour charger son téléphone.",
+   "en": "The cause of the problem? Someone took Julie's cable to charge their phone.",
+   "learning": [
+    "cause"
+   ],
+   "unknown": [
+    "câble",
+    "charger"
+   ],
+   "unknown_surface": [
+    "câble",
+    "charger"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Julie rit pendant longtemps, et toute l'équipe rit avec elle.",
+   "en": "Julie laughs for a long time, and the whole team laughs with her.",
+   "learning": [],
+   "unknown": [
+    "rit"
+   ],
+   "unknown_surface": [
+    "rit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "Le soir, Marc lui demande ses impressions sur cette première journée.",
+   "en": "In the evening, Marc asks her what she thought of this first day.",
+   "learning": [
+    "premier"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "« Franchement, la vue est belle, les gens sont super, et le repas était gratuit. »",
+   "en": "\"Honestly, the view is beautiful, the people are great, and the meal was free.\"",
+   "learning": [
+    "vue"
+   ],
+   "unknown": [
+    "franchement",
+    "repas",
+    "gratuit"
+   ],
+   "unknown_surface": [
+    "Franchement",
+    "repas",
+    "gratuit"
+   ],
+   "echo": true
+  },
+  {
+   "fr": "« Pour moi, c'est déjà le meilleur boulot du monde ! »",
+   "en": "\"For me, it's already the best job in the world!\"",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [],
+   "unknown_surface": [],
+   "echo": false
+  },
+  {
+   "fr": "Marc répond : « Attends demain, c'est toi qui fais le café pour tout le monde. »",
+   "en": "Marc replies: \"Wait until tomorrow, you're the one making coffee for everybody.\"",
+   "learning": [
+    "monde"
+   ],
+   "unknown": [
+    "café"
+   ],
+   "unknown_surface": [
+    "café"
+   ],
+   "echo": true
+  }
+ ],
+ "stats": {
+  "sentences": 26,
+  "echoed": 15,
+  "tts_chars": 2898,
+  "deck_source": "sqlite"
+ }
+}
